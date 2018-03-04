@@ -1,0 +1,6745 @@
+[
+  {
+    "name": "Le Jardin des Remparts",
+    "address": {
+      "thoroughfare": "10 rue Hôtel-Dieu",
+      "postal": "21200",
+      "locality": "Beaune",
+      "country": "France"
+    },
+    "price": "Prix - De 32 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Pré Catelan",
+    "address": {
+      "thoroughfare": "Route de Suresnes",
+      "postal": "75016",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 130 € à 280 €",
+    "stars": 3
+  },
+  {
+    "name": "Auberge de l'Île Barbe",
+    "address": {
+      "thoroughfare": "1 Place Notre-Dame",
+      "postal": "69009",
+      "locality": "Lyon 09",
+      "country": "France"
+    },
+    "price": "Prix - De 50 € à 158 €",
+    "stars": 1
+  },
+  {
+    "name": "Frédéric Doucet",
+    "address": {
+      "thoroughfare": "2 avenue de la Libération",
+      "postal": "71120",
+      "locality": "Charolles",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "Aigue Marine",
+    "address": {
+      "thoroughfare": "5 r. M. -Berthelot",
+      "postal": "22220",
+      "locality": "Tréguier",
+      "country": "France"
+    },
+    "price": "Prix - De 21 € à 88 €",
+    "stars": 1
+  },
+  {
+    "name": "Le 39V",
+    "address": {
+      "thoroughfare": "39 Avenue George V",
+      "postal": "75008",
+      "locality": "Paris 08",
+      "country": "France"
+    },
+    "price": "Prix - De 39.5 € à 155 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Pêcheurs",
+    "address": {
+      "thoroughfare": "10 boulevard du Maréchal-Juin",
+      "postal": "06600",
+      "locality": "Antibes",
+      "country": "France"
+    },
+    "price": "Prix moyen - 85 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Saint-Estève",
+    "address": {
+      "thoroughfare": "2250 route cézanne D17",
+      "postal": "13100",
+      "locality": "Le Tholonet",
+      "country": "France"
+    },
+    "price": "Prix - De 59 € à 149 €",
+    "stars": 1
+  },
+  {
+    "name": "Agapé",
+    "address": {
+      "thoroughfare": "51 Rue Jouffroy-d'Abbans",
+      "postal": "75017",
+      "locality": "Paris 17",
+      "country": "France"
+    },
+    "price": "Prix - De 52 € à 215 €",
+    "stars": 1
+  },
+  {
+    "name": "JY'S",
+    "address": {
+      "thoroughfare": "17 r. de la Poissonnerie",
+      "postal": "68000",
+      "locality": "Colmar",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 85 €",
+    "stars": 2
+  },
+  {
+    "name": "Restaurant du Palais Royal",
+    "address": {
+      "thoroughfare": "110 Galerie de Valois - Jardin du Palais Royal",
+      "postal": "75001",
+      "locality": "Paris 01",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 152 €",
+    "stars": 1
+  },
+  {
+    "name": "La Table de Franck Putelat",
+    "address": {
+      "thoroughfare": "80 chemin des Anglais",
+      "postal": "11000",
+      "locality": "Carcassonne",
+      "country": "France"
+    },
+    "price": "Prix - De 40 € à 160 €",
+    "stars": 2
+  },
+  {
+    "name": "Christophe Bacquié",
+    "address": {
+      "thoroughfare": "Hotel du Castellet Route des Hauts du Camp",
+      "postal": "83330",
+      "locality": "Le Castellet",
+      "country": "France"
+    },
+    "price": "Prix - De 135 € à 240 €",
+    "stars": 3
+  },
+  {
+    "name": "L'Orangerie du Château",
+    "address": {
+      "thoroughfare": "1 Avenue du Docteur Jean Laigret",
+      "postal": "41000",
+      "locality": "Blois",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 112 €",
+    "stars": 1
+  },
+  {
+    "name": "Fanny Rey & Jonathan Wahid",
+    "address": {
+      "thoroughfare": "12, boulevard Mirabeau",
+      "postal": "13210",
+      "locality": "SAINT REMY DE PROVENCE",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 150 €",
+    "stars": 1
+  },
+  {
+    "name": "Paul Bocuse",
+    "address": {
+      "thoroughfare": "40 Quai de la Plage",
+      "postal": "69660",
+      "locality": "Collonges-au-Mont-d'Or",
+      "country": "France"
+    },
+    "price": "Prix - De 170 € à 275 €",
+    "stars": 3
+  },
+  {
+    "name": "Le Restaurant",
+    "address": {
+      "thoroughfare": "13 rue des Beaux-Arts",
+      "postal": "75006",
+      "locality": "Paris 06",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 124 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Clarence",
+    "address": {
+      "thoroughfare": "31 Avenue Franklin Delano Roosevelt",
+      "postal": "75008",
+      "locality": "Paris 08",
+      "country": "France"
+    },
+    "price": "Prix - De 90 € à 320 €",
+    "stars": 2
+  },
+  {
+    "name": "Le Violon d'Ingres",
+    "address": {
+      "thoroughfare": "135 Rue Saint-Dominique",
+      "postal": "75007",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 130 €",
+    "stars": 1
+  },
+  {
+    "name": "Mère Brazier",
+    "address": {
+      "thoroughfare": "12 rue Royale",
+      "postal": "69001",
+      "locality": "LYON",
+      "country": "France"
+    },
+    "price": "Prix - De 70 € à 180 €",
+    "stars": 2
+  },
+  {
+    "name": "Patrick Jeffroy",
+    "address": {
+      "thoroughfare": "20 rue du Kelenn",
+      "postal": "29660",
+      "locality": "Carantec",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 149 €",
+    "stars": 2
+  },
+  {
+    "name": "Hostellerie de l'Abbaye de la Celle",
+    "address": {
+      "thoroughfare": "10 Place Général de Gaulle",
+      "postal": "83170",
+      "locality": "La Celle",
+      "country": "France"
+    },
+    "price": "Prix - De 40 € à 140 €",
+    "stars": 1
+  },
+  {
+    "name": "Sur Mesure par Thierry Marx",
+    "address": {
+      "thoroughfare": "251 Rue Saint Honoré",
+      "postal": "75001",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 85 € à 210 €",
+    "stars": 2
+  },
+  {
+    "name": "La Tour des Vents",
+    "address": {
+      "thoroughfare": "Le Moulin de Malfourat",
+      "postal": "24240",
+      "locality": "Monbazillac",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 75 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Tablettes de Jean-Louis Nomicos",
+    "address": {
+      "thoroughfare": "16 Avenue Bugeaud",
+      "postal": "75016",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 58 € à 141 €",
+    "stars": 1
+  },
+  {
+    "name": "Têtedoie",
+    "address": {
+      "thoroughfare": "4 Rue Professeur Pierre Marion",
+      "postal": "69005",
+      "locality": "Lyon 05",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 145 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Cloître",
+    "address": {
+      "thoroughfare": "Le Cloitre",
+      "postal": "04300",
+      "locality": "Mane",
+      "country": "France"
+    },
+    "price": "Prix - De 75 € à 135 €",
+    "stars": 1
+  },
+  {
+    "name": "Paloma",
+    "address": {
+      "thoroughfare": "47 Avenue du Moulin de la Croix",
+      "postal": "06250",
+      "locality": "Mougins",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 185 €",
+    "stars": 2
+  },
+  {
+    "name": "L'Almandin",
+    "address": {
+      "thoroughfare": "Boulevard de l'Almandin",
+      "postal": "66750",
+      "locality": "Saint-Cyprien",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 108 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Quinzième - Cyril Lignac",
+    "address": {
+      "thoroughfare": "14 rue Cauchy",
+      "postal": "75015",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 69 € à 180 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Relais Bernard Loiseau",
+    "address": {
+      "thoroughfare": "2, rue d'Argentine",
+      "postal": "21210",
+      "locality": "Saulieu",
+      "country": "France"
+    },
+    "price": "Prix - De 75 € à 250 €",
+    "stars": 2
+  },
+  {
+    "name": "La Liégeoise",
+    "address": {
+      "thoroughfare": "digue de mer",
+      "postal": "62930",
+      "locality": "Wimereux",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 79 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Moulin du Roc",
+    "address": {
+      "thoroughfare": "Avenue Eugène Le Roy",
+      "postal": "24530",
+      "locality": "Champagnac-de-Belair",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 125 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Taillevent",
+    "address": {
+      "thoroughfare": "15 Rue Lamennais",
+      "postal": "75008",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 88 € à 230 €",
+    "stars": 2
+  },
+  {
+    "name": "1217",
+    "address": {
+      "thoroughfare": "le bourg",
+      "postal": "69620",
+      "locality": "Bagnols",
+      "country": "France"
+    },
+    "price": "Prix - De 65 € à 140 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Saint-James",
+    "address": {
+      "thoroughfare": "3 pl. Camille-Hostein",
+      "postal": "33270",
+      "locality": "BOULIAC",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 150 €",
+    "stars": 1
+  },
+  {
+    "name": "Numéro 3",
+    "address": {
+      "thoroughfare": "3 rue du Général de Gaulle",
+      "postal": "78490",
+      "locality": "Le Tremblay-sur-Mauldre",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 85 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Petit Nice",
+    "address": {
+      "thoroughfare": "Anse de Maldormé - Corniche J. F. Kennedy",
+      "postal": "13007",
+      "locality": "Marseille 07",
+      "country": "France"
+    },
+    "price": "Prix - De 100 € à 370 €",
+    "stars": 3
+  },
+  {
+    "name": "Assiette Champenoise",
+    "address": {
+      "thoroughfare": "40 av. Paul Vaillant-Couturier",
+      "postal": "51430",
+      "locality": "Tinqueux",
+      "country": "France"
+    },
+    "price": "Prix - De 95 € à 185 €",
+    "stars": 3
+  },
+  {
+    "name": "Le Chiberta",
+    "address": {
+      "thoroughfare": "3 Rue Arsène Houssaye",
+      "postal": "75008",
+      "locality": "Paris 08",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 120 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Fanal",
+    "address": {
+      "thoroughfare": "17 Avenue du Fontaulé",
+      "postal": "66650",
+      "locality": "Banyuls-sur-Mer",
+      "country": "France"
+    },
+    "price": "Prix - De 19 € à 60 €",
+    "stars": 1
+  },
+  {
+    "name": "Carré des Feuillants",
+    "address": {
+      "thoroughfare": "14 rue de Castiglione",
+      "postal": "75001",
+      "locality": "Paris 01",
+      "country": "France"
+    },
+    "price": "Prix - De 68 € à 198 €",
+    "stars": 2
+  },
+  {
+    "name": "La Marelle",
+    "address": {
+      "thoroughfare": "1593 av. de Lyon",
+      "postal": "01960",
+      "locality": "PERONNAS",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 96 €",
+    "stars": 1
+  },
+  {
+    "name": "G.a. au Manoir de Rétival",
+    "address": {
+      "thoroughfare": "2 rue St. Clair",
+      "postal": "76490",
+      "locality": "Caudebec-en-Caux",
+      "country": "France"
+    },
+    "price": "Prix - De 98 € à 149 €",
+    "stars": 1
+  },
+  {
+    "name": "La Barbacane",
+    "address": {
+      "thoroughfare": "Place Auguste-Pierre-Pont",
+      "postal": "11000",
+      "locality": "Carcassonne",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 145 €",
+    "stars": 1
+  },
+  {
+    "name": "La Dame de Pic",
+    "address": {
+      "thoroughfare": "20 Rue du Louvre",
+      "postal": "75001",
+      "locality": "Paris 01",
+      "country": "France"
+    },
+    "price": "Prix - De 59 € à 105 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Magasin aux Vivres",
+    "address": {
+      "thoroughfare": "5 Avenue Ney",
+      "postal": "57000",
+      "locality": "Metz",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 125 €",
+    "stars": 1
+  },
+  {
+    "name": "Au Trou Gascon",
+    "address": {
+      "thoroughfare": "40 rue Taine",
+      "postal": "75012",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "Dominique Bouchet",
+    "address": {
+      "thoroughfare": "11 Rue Treilhard",
+      "postal": "75008",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 58 € à 125 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Hittau",
+    "address": {
+      "thoroughfare": "1 rue du Nouaou",
+      "postal": "40230",
+      "locality": "SAINT-VINCENT-DE-TYROSSE",
+      "country": "France"
+    },
+    "price": "Prix - De 26 € à 82 €",
+    "stars": 1
+  },
+  {
+    "name": "Hostellerie Bérard",
+    "address": {
+      "thoroughfare": "Avenue Gabriel-Péri",
+      "postal": "83740",
+      "locality": "LA-CADIERE-D'AZUR",
+      "country": "France"
+    },
+    "price": "Prix - De 36 € à 143 €",
+    "stars": 1
+  },
+  {
+    "name": "Mirazur",
+    "address": {
+      "thoroughfare": "30, Avenue Aristide Briand",
+      "postal": "06500",
+      "locality": "Menton",
+      "country": "France"
+    },
+    "price": "Prix - De 110 € à 210 €",
+    "stars": 2
+  },
+  {
+    "name": "Gill",
+    "address": {
+      "thoroughfare": "9 quai de la Bourse",
+      "postal": "76000",
+      "locality": "Rouen",
+      "country": "France"
+    },
+    "price": "Prix - De 40 € à 145 €",
+    "stars": 2
+  },
+  {
+    "name": "La Bastide de Moustiers",
+    "address": {
+      "thoroughfare": "Parc naturel régional du Verdon, Chemin de Quinson",
+      "postal": "04360",
+      "locality": "Moustiers-Sainte-Marie",
+      "country": "France"
+    },
+    "price": "Prix - De 60 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Pressoir",
+    "address": {
+      "thoroughfare": "7 r. de l'Hôpital",
+      "postal": "56890",
+      "locality": "Saint-Avé",
+      "country": "France"
+    },
+    "price": "Prix - De 34 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "Château de Pray",
+    "address": {
+      "thoroughfare": "Rue du Cèdre",
+      "postal": "37400",
+      "locality": "Amboise",
+      "country": "France"
+    },
+    "price": "Prix - De 59 € à 135 €",
+    "stars": 1
+  },
+  {
+    "name": "En Marge",
+    "address": {
+      "thoroughfare": "1204 route de la Croix-Falgarde",
+      "postal": "31320",
+      "locality": "AUREVILLE",
+      "country": "France"
+    },
+    "price": "Prix - De 34 € à 145 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Fresques",
+    "address": {
+      "thoroughfare": "D18",
+      "postal": "24240",
+      "locality": "Monestier",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "Aux Pesked",
+    "address": {
+      "thoroughfare": "59 Rue du Légué",
+      "postal": "22000",
+      "locality": "Saint-Brieuc",
+      "country": "France"
+    },
+    "price": "Prix - De 50 € à 85 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge du Vieux Puits",
+    "address": {
+      "thoroughfare": "5 Avenue Saint-Victor",
+      "postal": "11360",
+      "locality": "Fontjoncouse",
+      "country": "France"
+    },
+    "price": "Prix - De 120 € à 195 €",
+    "stars": 3
+  },
+  {
+    "name": "Les Bacchanales",
+    "address": {
+      "thoroughfare": "247 avenue de Provence",
+      "postal": "06140",
+      "locality": "VENCE",
+      "country": "France"
+    },
+    "price": "Prix - De 32 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Oustau de Baumanière",
+    "address": {
+      "thoroughfare": "Village des Baux-de-Provence",
+      "postal": "13520",
+      "locality": "Les Baux-de-Provence",
+      "country": "France"
+    },
+    "price": "Prix - De 100 € à 295 €",
+    "stars": 2
+  },
+  {
+    "name": "Bruno",
+    "address": {
+      "thoroughfare": "2350 route des Arcs, Campagne Mariette",
+      "postal": "83510",
+      "locality": "Lorgues",
+      "country": "France"
+    },
+    "price": "Prix - De 73 € à 190 €",
+    "stars": 1
+  },
+  {
+    "name": "La Maison de Bournissac",
+    "address": {
+      "thoroughfare": "montée d'Eyragues",
+      "postal": "13550",
+      "locality": "Les Paluds-des-Noves",
+      "country": "France"
+    },
+    "price": "Prix - De 34 € à 105 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge du Bon Laboureur",
+    "address": {
+      "thoroughfare": "6 r. Dr Bretonneau",
+      "postal": "37150",
+      "locality": "Chenonceaux",
+      "country": "France"
+    },
+    "price": "Prix - De 32 € à 115 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Bas-Rupts",
+    "address": {
+      "thoroughfare": "181 rte de la Bresse",
+      "postal": "88400",
+      "locality": "Bas-Rupts",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 98 €",
+    "stars": 1
+  },
+  {
+    "name": "Il Carpaccio",
+    "address": {
+      "thoroughfare": "37 avenue Hoche",
+      "postal": "75008",
+      "locality": "Paris 08",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 145 €",
+    "stars": 1
+  },
+  {
+    "name": "Stéphane Derbord",
+    "address": {
+      "thoroughfare": "10 Place du Président Wilson",
+      "postal": "21000",
+      "locality": "Dijon",
+      "country": "France"
+    },
+    "price": "Prix - De 28 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "1920",
+    "address": {
+      "thoroughfare": "373 chemin des follières",
+      "postal": "74120",
+      "locality": "Megève",
+      "country": "France"
+    },
+    "price": "Prix - De 70 € à 189 €",
+    "stars": 2
+  },
+  {
+    "name": "Le Quincangrogne",
+    "address": {
+      "thoroughfare": "7 Rue de l'Abreuvoir",
+      "postal": "77400",
+      "locality": "Dampmart",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 59 €",
+    "stars": 1
+  },
+  {
+    "name": "Domaine d'Auriac",
+    "address": {
+      "thoroughfare": "Route de Saint-Hilaire",
+      "postal": "11000",
+      "locality": "Carcassonne",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 69 €",
+    "stars": 1
+  },
+  {
+    "name": "J.-M. Pérochon",
+    "address": {
+      "thoroughfare": "63 avenue de la Grand'Roche",
+      "postal": "85470",
+      "locality": "Brétignolles-sur-Mer",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 72 €",
+    "stars": 1
+  },
+  {
+    "name": "La Coopérative",
+    "address": {
+      "thoroughfare": "2A Route de Caladroy",
+      "postal": "66720",
+      "locality": "Bélesta",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 85 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge des Templiers",
+    "address": {
+      "thoroughfare": "D2007",
+      "postal": "45290",
+      "locality": "Les Bézards",
+      "country": "France"
+    },
+    "price": "Prix - De 55 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "La Table de Patrick Raingeard",
+    "address": {
+      "thoroughfare": "1312 av. Raymond-Poincaré",
+      "postal": "06360",
+      "locality": "EZE-BORD-DE-MER",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 150 €",
+    "stars": 1
+  },
+  {
+    "name": "Ô Flaveurs",
+    "address": {
+      "thoroughfare": "Château de Chilly",
+      "postal": "74140",
+      "locality": "Douvaine",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 105 €",
+    "stars": 1
+  },
+  {
+    "name": "Raphaël Vionnet",
+    "address": {
+      "thoroughfare": "43 Avenue du Général Leclerc",
+      "postal": "74200",
+      "locality": "Thonon-les-Bains",
+      "country": "France"
+    },
+    "price": "Prix - De 58 € à 103 €",
+    "stars": 1
+  },
+  {
+    "name": "Relais de la Poste",
+    "address": {
+      "thoroughfare": "21 rue du Gén. -de-Gaulle",
+      "postal": "67610",
+      "locality": "LA-WANTZENAU",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 98 €",
+    "stars": 1
+  },
+  {
+    "name": "Ivan Vautier",
+    "address": {
+      "thoroughfare": "3 avenue Henry-Chéron",
+      "postal": "14000",
+      "locality": "Caen",
+      "country": "France"
+    },
+    "price": "Prix - De 35.5 € à 105 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Essentiel",
+    "address": {
+      "thoroughfare": "29 Rue Mirabeau",
+      "postal": "14800",
+      "locality": "DEAUVILLE",
+      "country": "France"
+    },
+    "price": "Prix - De 18 € à 65 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Coquillage",
+    "address": {
+      "thoroughfare": "Lieu-dit Le Buot",
+      "postal": "35350",
+      "locality": "Saint-Méloir-des-Ondes",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 139 €",
+    "stars": 1
+  },
+  {
+    "name": "Ithurria",
+    "address": {
+      "thoroughfare": "pl. du Fronton",
+      "postal": "64250",
+      "locality": "Ainhoa",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 65 €",
+    "stars": 1
+  },
+  {
+    "name": "Yoann Conte",
+    "address": {
+      "thoroughfare": "13 Vieille-Route-des-Pensières",
+      "postal": "74290",
+      "locality": "Veyrier-du-Lac",
+      "country": "France"
+    },
+    "price": "Prix - De 98 € à 225 €",
+    "stars": 2
+  },
+  {
+    "name": "Chez Michèle",
+    "address": {
+      "thoroughfare": "57 rue Principale",
+      "postal": "57810",
+      "locality": "Languimberg",
+      "country": "France"
+    },
+    "price": "Prix - De 25 € à 140 €",
+    "stars": 1
+  },
+  {
+    "name": "Sylvestre",
+    "address": {
+      "thoroughfare": "79 rue St-Dominique",
+      "postal": "75007",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 55 € à 250 €",
+    "stars": 2
+  },
+  {
+    "name": "L'Atelier d'Edmond",
+    "address": {
+      "thoroughfare": "au Fornet",
+      "postal": "73150",
+      "locality": "Val-d'Isère",
+      "country": "France"
+    },
+    "price": "Prix - De 95 € à 155 €",
+    "stars": 2
+  },
+  {
+    "name": "Relais de la Poste",
+    "address": {
+      "thoroughfare": "24 avenue de Maremne",
+      "postal": "40140",
+      "locality": "Magescq",
+      "country": "France"
+    },
+    "price": "Prix - De 59 € à 127 €",
+    "stars": 2
+  },
+  {
+    "name": "Le Moulin de l'Abbaye",
+    "address": {
+      "thoroughfare": "1 avenue Pierre de Bourdeilles",
+      "postal": "24310",
+      "locality": "BRANTOME",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "Maison Clovis",
+    "address": {
+      "thoroughfare": "19 bd Brotteaux",
+      "postal": "69006",
+      "locality": "Lyon",
+      "country": "France"
+    },
+    "price": "Prix - De 32 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Bénaton",
+    "address": {
+      "thoroughfare": "25 Rue du Faubourg-Bretonnière",
+      "postal": "21200",
+      "locality": "BEAUNE",
+      "country": "France"
+    },
+    "price": "Prix - De 34 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Kléber",
+    "address": {
+      "thoroughfare": "6 r. A. -Dumont",
+      "postal": "26400",
+      "locality": "Crest",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 74 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Aparté",
+    "address": {
+      "thoroughfare": "21 Rue de l’Europe",
+      "postal": "31850",
+      "locality": "MONTRABE",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 87 €",
+    "stars": 1
+  },
+  {
+    "name": "Auguste",
+    "address": {
+      "thoroughfare": "54 r. Bourgogne",
+      "postal": "75007",
+      "locality": "Paris 07",
+      "country": "France"
+    },
+    "price": "Prix - De 37 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "La Bonne Étape",
+    "address": {
+      "thoroughfare": "chemin du lac",
+      "postal": "04160",
+      "locality": "Château-Arnoux",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 75 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Auberge Basque",
+    "address": {
+      "thoroughfare": "quartier Helbarron",
+      "postal": "64310",
+      "locality": "Saint-Pée-sur-Nivelle",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 71 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Cerisier",
+    "address": {
+      "thoroughfare": "3 rue de la Gare",
+      "postal": "62840",
+      "locality": "LAVENTIE",
+      "country": "France"
+    },
+    "price": "Prix - De 28 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "Dyades au Domaine des Étangs",
+    "address": {
+      "thoroughfare": "Les Etangs",
+      "postal": "16310",
+      "locality": "MASSIGNAC",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 98 €",
+    "stars": 1
+  },
+  {
+    "name": "Restaurant du Château",
+    "address": {
+      "thoroughfare": "15 avenue des Reynats",
+      "postal": "24650",
+      "locality": "Chancelade",
+      "country": "France"
+    },
+    "price": "Prix - De 75 € à 85 €",
+    "stars": 1
+  },
+  {
+    "name": "Pierre Orsi",
+    "address": {
+      "thoroughfare": "Place Kléber",
+      "postal": "69006",
+      "locality": "Lyon 06",
+      "country": "France"
+    },
+    "price": "Prix - De 60 € à 115 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Pavillon des Boulevards",
+    "address": {
+      "thoroughfare": "120 r. Croix-de-Seguey",
+      "postal": "33000",
+      "locality": "Bordeaux",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 130 €",
+    "stars": 1
+  },
+  {
+    "name": "Pierre Gagnaire",
+    "address": {
+      "thoroughfare": "6 Rue Balzac",
+      "postal": "75008",
+      "locality": "Paris 08",
+      "country": "France"
+    },
+    "price": "Prix - De 155 € à 350 €",
+    "stars": 3
+  },
+  {
+    "name": "La Chaumière",
+    "address": {
+      "thoroughfare": "346 av. du Mar. -Juin",
+      "postal": "39100",
+      "locality": "Dole",
+      "country": "France"
+    },
+    "price": "Prix - De 26 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "Loiseau rive Gauche",
+    "address": {
+      "thoroughfare": "5 rue de Bourgogne",
+      "postal": "75007",
+      "locality": "Paris 07",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Pergolèse",
+    "address": {
+      "thoroughfare": "40 Rue Pergolèse",
+      "postal": "75116",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 50 € à 125 €",
+    "stars": 1
+  },
+  {
+    "name": "Alain Llorca",
+    "address": {
+      "thoroughfare": "350 Route de Saint-Paul",
+      "postal": "06480",
+      "locality": "La Colle-sur-Loup",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 230 €",
+    "stars": 1
+  },
+  {
+    "name": "Château de Courban",
+    "address": {
+      "thoroughfare": "7 rue du Lavoir",
+      "postal": "21520",
+      "locality": "Courban",
+      "country": "France"
+    },
+    "price": "Prix - De 47 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "Loiseau des Vignes",
+    "address": {
+      "thoroughfare": "31 Rue Jean Francois Maufoux",
+      "postal": "21200",
+      "locality": "Beaune",
+      "country": "France"
+    },
+    "price": "Prix - De 23 € à 119 €",
+    "stars": 1
+  },
+  {
+    "name": "William Frachot",
+    "address": {
+      "thoroughfare": "5 rue Michelet",
+      "postal": "21000",
+      "locality": "DIJON",
+      "country": "France"
+    },
+    "price": "Prix - De 55 € à 90 €",
+    "stars": 2
+  },
+  {
+    "name": "Alléno Paris au Pavillon Ledoyen",
+    "address": {
+      "thoroughfare": "8 avenue Dutuit",
+      "postal": "75008",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 135 € à 340 €",
+    "stars": 3
+  },
+  {
+    "name": "Hostellerie du Rosenmeer",
+    "address": {
+      "thoroughfare": "45 avenue de la Gare",
+      "postal": "67560",
+      "locality": "ROSHEIM",
+      "country": "France"
+    },
+    "price": "Prix - De 36 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "Initial",
+    "address": {
+      "thoroughfare": "24 Rue Saint-Manvieu",
+      "postal": "14000",
+      "locality": "Caen",
+      "country": "France"
+    },
+    "price": "Prix - De 19 € à 70 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Auberge de la Pomme",
+    "address": {
+      "thoroughfare": "44 rue de l' eure",
+      "postal": "27340",
+      "locality": "Les Damps",
+      "country": "France"
+    },
+    "price": "Prix - De 27 € à 85 €",
+    "stars": 1
+  },
+  {
+    "name": "Julien Binz",
+    "address": {
+      "thoroughfare": "7 Rue des Cigognes",
+      "postal": "68770",
+      "locality": "Ammerschwihr",
+      "country": "France"
+    },
+    "price": "Prix moyen - 35 €",
+    "stars": 1
+  },
+  {
+    "name": "La Licorne Royale",
+    "address": {
+      "thoroughfare": "27 Place Isaac Benserade",
+      "postal": "27480",
+      "locality": "Lyons-la-Forêt",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "Domaine de Clairefontaine",
+    "address": {
+      "thoroughfare": "chemin des Fontanettes",
+      "postal": "38121",
+      "locality": "Chonas-l'Amballan",
+      "country": "France"
+    },
+    "price": "Prix - De 28 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "Faventia",
+    "address": {
+      "thoroughfare": "3100 route de Bagnols-en-Forêt",
+      "postal": "83440",
+      "locality": "Tourrettes",
+      "country": "France"
+    },
+    "price": "Prix - De 75 € à 190 €",
+    "stars": 1
+  },
+  {
+    "name": "Le M",
+    "address": {
+      "thoroughfare": "22 r. du Cdt-Drogou",
+      "postal": "29200",
+      "locality": "Brest",
+      "country": "France"
+    },
+    "price": "Prix - De 44 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Fresques",
+    "address": {
+      "thoroughfare": "13 Avenue des Mateirons",
+      "postal": "74500",
+      "locality": "Évian-les-Bains",
+      "country": "France"
+    },
+    "price": "Prix - De 75 € à 120 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Brittany",
+    "address": {
+      "thoroughfare": "bd Ste-Barbe",
+      "postal": "29681",
+      "locality": "Roscoff",
+      "country": "France"
+    },
+    "price": "Prix - De 58 € à 68 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Prince Noir - Vivien Durand",
+    "address": {
+      "thoroughfare": "1 rue du Prince Noir",
+      "postal": "33310",
+      "locality": "Lormont",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 97 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Morainières",
+    "address": {
+      "thoroughfare": "route de Marétel",
+      "postal": "73170",
+      "locality": "Jongieux",
+      "country": "France"
+    },
+    "price": "Prix - De 55 € à 145 €",
+    "stars": 2
+  },
+  {
+    "name": "Le Moulin de la Gorce",
+    "address": {
+      "thoroughfare": "D17",
+      "postal": "87800",
+      "locality": "La Roche-l'Abeille",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 85 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Chantecler",
+    "address": {
+      "thoroughfare": "37 Promenade des Anglais",
+      "postal": "06000",
+      "locality": "NICE",
+      "country": "France"
+    },
+    "price": "Prix moyen - 110 €",
+    "stars": 2
+  },
+  {
+    "name": "L'Ekrin by Laurent Azoulay",
+    "address": {
+      "thoroughfare": "Route de la Montée",
+      "postal": "73550",
+      "locality": "MERIBEL",
+      "country": "France"
+    },
+    "price": "Prix - De 95 € à 230 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Clos des Sens",
+    "address": {
+      "thoroughfare": "13 r. J. -Mermoz",
+      "postal": "74940",
+      "locality": "Annecy",
+      "country": "France"
+    },
+    "price": "Prix - De 70 € à 190 €",
+    "stars": 2
+  },
+  {
+    "name": "Le Baudelaire",
+    "address": {
+      "thoroughfare": "8 rue Duphot",
+      "postal": "75001",
+      "locality": "Paris 01",
+      "country": "France"
+    },
+    "price": "Prix - De 54 € à 180 €",
+    "stars": 1
+  },
+  {
+    "name": "Hostellerie la Montagne",
+    "address": {
+      "thoroughfare": "10 rue Pisseloup",
+      "postal": "52330",
+      "locality": "COLOMBEY-LES-DEUX-EGLISES",
+      "country": "France"
+    },
+    "price": "Prix - De 28 € à 150 €",
+    "stars": 1
+  },
+  {
+    "name": "Au Vieux Couvent",
+    "address": {
+      "thoroughfare": "6 r. des Chanoines",
+      "postal": "67860",
+      "locality": "Rhinau",
+      "country": "France"
+    },
+    "price": "Prix - De 37 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Bouche à Oreille",
+    "address": {
+      "thoroughfare": "11 r. de la Chapelle",
+      "postal": "91150",
+      "locality": "Boutervilliers",
+      "country": "France"
+    },
+    "price": "Prix - De 24 € à 76 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Carmin",
+    "address": {
+      "thoroughfare": "4B Place Carnot",
+      "postal": "21200",
+      "locality": "Beaune",
+      "country": "France"
+    },
+    "price": "Prix - De 25 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "Entre Vigne et Garrigue",
+    "address": {
+      "thoroughfare": "600 route de Saint Bruno",
+      "postal": "30131",
+      "locality": "Pujaut",
+      "country": "France"
+    },
+    "price": "Prix - De 36 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "Une Table au Sud",
+    "address": {
+      "thoroughfare": "2 quai du Port",
+      "postal": "13002",
+      "locality": "Marseille",
+      "country": "France"
+    },
+    "price": "Prix - De 34 € à 135 €",
+    "stars": 1
+  },
+  {
+    "name": "Greuze",
+    "address": {
+      "thoroughfare": "1 r. A. Thibaudet",
+      "postal": "71700",
+      "locality": "Tournus",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 135 €",
+    "stars": 1
+  },
+  {
+    "name": "Maximin Hellio",
+    "address": {
+      "thoroughfare": "64 Rue Gambetta",
+      "postal": "14800",
+      "locality": "DEAUVILLE",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 125 €",
+    "stars": 1
+  },
+  {
+    "name": "La Rotonde",
+    "address": {
+      "thoroughfare": "200 avenue du Casino",
+      "postal": "69890",
+      "locality": "LA-TOUR-DE-SALVAGNY",
+      "country": "France"
+    },
+    "price": "Prix - De 37 € à 135 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Refuge des Gourmets",
+    "address": {
+      "thoroughfare": "90 route des Framboises",
+      "postal": "74140",
+      "locality": "Machilly",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 103 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Oasis",
+    "address": {
+      "thoroughfare": "6 rue Jean-Honoré Carle",
+      "postal": "06210",
+      "locality": "La Napoule",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 149 €",
+    "stars": 2
+  },
+  {
+    "name": "Le Relais des Moines",
+    "address": {
+      "thoroughfare": "route de Ste-Roseline",
+      "postal": "83460",
+      "locality": "Les Arcs",
+      "country": "France"
+    },
+    "price": "Prix - De 44 € à 88 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge La Pomme d'Api",
+    "address": {
+      "thoroughfare": "49 r. Verderel",
+      "postal": "29250",
+      "locality": "Saint-Pol-de-Léon",
+      "country": "France"
+    },
+    "price": "Prix - De 25 € à 82 €",
+    "stars": 1
+  },
+  {
+    "name": "Benoit",
+    "address": {
+      "thoroughfare": "20 Rue St-Martin",
+      "postal": "75004",
+      "locality": "Paris 04",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "La Madeleine",
+    "address": {
+      "thoroughfare": "1 Rue Alsace-Lorraine",
+      "postal": "89100",
+      "locality": "Sens",
+      "country": "France"
+    },
+    "price": "Prix - De 49.5 € à 67 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Corot",
+    "address": {
+      "thoroughfare": "55 Rue de Versailles",
+      "postal": "92410",
+      "locality": "VILLE-D'AVRAY",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "JAN",
+    "address": {
+      "thoroughfare": "12 Rue Lascaris",
+      "postal": "06000",
+      "locality": "Nice",
+      "country": "France"
+    },
+    "price": "Prix - De 10 € à 79 €",
+    "stars": 1
+  },
+  {
+    "name": "Hostellerie Les Gorges de Pennafort",
+    "address": {
+      "thoroughfare": "8660 RD 25",
+      "postal": "83830",
+      "locality": "Callas",
+      "country": "France"
+    },
+    "price": "Prix - De 59 € à 160 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Grand Cerf",
+    "address": {
+      "thoroughfare": "50 rte Nationale",
+      "postal": "51500",
+      "locality": "Montchenot",
+      "country": "France"
+    },
+    "price": "Prix - De 37 € à 84 €",
+    "stars": 1
+  },
+  {
+    "name": "Pont de l'Ouysse",
+    "address": {
+      "thoroughfare": "D23",
+      "postal": "46200",
+      "locality": "Lacave",
+      "country": "France"
+    },
+    "price": "Prix - De 60 € à 89 €",
+    "stars": 1
+  },
+  {
+    "name": "La Grande Cascade",
+    "address": {
+      "thoroughfare": "Bois de Boulogne, Carrefour de Longchamp",
+      "postal": "75016",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 89 € à 192 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge Tiegezh",
+    "address": {
+      "thoroughfare": "7 Place de la Gare",
+      "postal": "56380",
+      "locality": "Guer",
+      "country": "France"
+    },
+    "price": "Prix - De 25 € à 55 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Jardin de Benjamin",
+    "address": {
+      "thoroughfare": "Route de Salernes",
+      "postal": "83510",
+      "locality": "Lorgues",
+      "country": "France"
+    },
+    "price": "Prix - De 55 € à 125 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Pré du Moulin",
+    "address": {
+      "thoroughfare": "rte de Ste-Cécile-les-Vignes",
+      "postal": "84830",
+      "locality": "Sérignan-du-Comtat",
+      "country": "France"
+    },
+    "price": "Prix - De 33 € à 105 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Carrousel",
+    "address": {
+      "thoroughfare": "14 rue du Pont de Morge",
+      "postal": "63350",
+      "locality": "MARINGUES",
+      "country": "France"
+    },
+    "price": "Prix - De 28 € à 75 €",
+    "stars": 1
+  },
+  {
+    "name": "MaSa",
+    "address": {
+      "thoroughfare": "112 avenue Victor-Hugo",
+      "postal": "92100",
+      "locality": "Boulogne-Billancourt",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "Villa Archange",
+    "address": {
+      "thoroughfare": "Rue de l'Ouest",
+      "postal": "06110",
+      "locality": "Le Cannet",
+      "country": "France"
+    },
+    "price": "Prix - De 68 € à 195 €",
+    "stars": 2
+  },
+  {
+    "name": "Anne de Bretagne",
+    "address": {
+      "thoroughfare": "163, Boulevard de la Tara",
+      "postal": "44770",
+      "locality": "La Plaine-sur-Mer",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 77 €",
+    "stars": 2
+  },
+  {
+    "name": "Cyril Attrazic",
+    "address": {
+      "thoroughfare": "10 rte du Languedoc",
+      "postal": "48130",
+      "locality": "Aumont-Aubrac",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "Villa René Lalique",
+    "address": {
+      "thoroughfare": "18 Rue Bellevue",
+      "postal": "67290",
+      "locality": "Wingen-sur-Moder",
+      "country": "France"
+    },
+    "price": "Prix - De 78 € à 240 €",
+    "stars": 2
+  },
+  {
+    "name": "Domaine de Rochevilaine",
+    "address": {
+      "thoroughfare": "à la Pointe de Pen Lan",
+      "postal": "56190",
+      "locality": "Billiers",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 77 €",
+    "stars": 1
+  },
+  {
+    "name": "Château de Sully",
+    "address": {
+      "thoroughfare": "D6",
+      "postal": "14400",
+      "locality": "Sully",
+      "country": "France"
+    },
+    "price": "Prix - De 65 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "1912",
+    "address": {
+      "thoroughfare": "bd de la Cahotte",
+      "postal": "14360",
+      "locality": "Trouville-sur-Mer",
+      "country": "France"
+    },
+    "price": "Prix - De 59 € à 108 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Hautes Roches",
+    "address": {
+      "thoroughfare": "86 quai de Loire",
+      "postal": "37210",
+      "locality": "Rochecorbon",
+      "country": "France"
+    },
+    "price": "Prix - De 60 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "La Gouesnière",
+    "address": {
+      "thoroughfare": "1 Le Limonay",
+      "postal": "35350",
+      "locality": "Saint-Méloir-des-Ondes",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 104 €",
+    "stars": 1
+  },
+  {
+    "name": "La Villa Madie",
+    "address": {
+      "thoroughfare": "av. du Revestel",
+      "postal": "13260",
+      "locality": "Cassis",
+      "country": "France"
+    },
+    "price": "Prix - De 95 € à 162 €",
+    "stars": 2
+  },
+  {
+    "name": "Le Meurice Alain Ducasse",
+    "address": {
+      "thoroughfare": "228 Rue de Rivoli",
+      "postal": "75001",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 85 € à 380 €",
+    "stars": 2
+  },
+  {
+    "name": "Auberge de l'Ill",
+    "address": {
+      "thoroughfare": "2 rue de Collonges-au-Mont d'Or",
+      "postal": "68970",
+      "locality": "Illhaeusern",
+      "country": "France"
+    },
+    "price": "Prix - De 106 € à 276 €",
+    "stars": 3
+  },
+  {
+    "name": "Domaine des Séquoias",
+    "address": {
+      "thoroughfare": "54 Vie-de-Boussieu",
+      "postal": "38300",
+      "locality": "Ruy",
+      "country": "France"
+    },
+    "price": "Prix - De 40 € à 130 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Auberge des Glazicks",
+    "address": {
+      "thoroughfare": "7 rue de la Plage",
+      "postal": "29550",
+      "locality": "PLOMODIERN",
+      "country": "France"
+    },
+    "price": "Prix - De 58 € à 225 €",
+    "stars": 2
+  },
+  {
+    "name": "Helen",
+    "address": {
+      "thoroughfare": "3 r.Berryer",
+      "postal": "75008",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 160 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Vivarais",
+    "address": {
+      "thoroughfare": "5 avenue Expilly",
+      "postal": "07600",
+      "locality": "VALS-LES-BAINS",
+      "country": "France"
+    },
+    "price": "Prix - De 27 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "La Table des Merville",
+    "address": {
+      "thoroughfare": "3 place Richard",
+      "postal": "31320",
+      "locality": "Castanet-Tolosan",
+      "country": "France"
+    },
+    "price": "Prix - De 28 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Odas",
+    "address": {
+      "thoroughfare": "Passage Maurice Lenfant",
+      "postal": "76000",
+      "locality": "Rouen",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "Le St-Placide",
+    "address": {
+      "thoroughfare": "6 place du poncel",
+      "postal": "35400",
+      "locality": "Saint-Malo",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 105 €",
+    "stars": 1
+  },
+  {
+    "name": "Michel Chabran - La Grande Table",
+    "address": {
+      "thoroughfare": "29 Avenue du Quarante-Cinquième Parallèle",
+      "postal": "26600",
+      "locality": "Pont-de-l'Isère",
+      "country": "France"
+    },
+    "price": "Prix - De 69 € à 240 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge du Cheval Blanc",
+    "address": {
+      "thoroughfare": "4 Route de Wissembourg",
+      "postal": "67510",
+      "locality": "Lembach",
+      "country": "France"
+    },
+    "price": "Prix - De 58 € à 110 €",
+    "stars": 2
+  },
+  {
+    "name": "Girardin",
+    "address": {
+      "thoroughfare": "19 Rue des Têtes",
+      "postal": "68000",
+      "locality": "Colmar",
+      "country": "France"
+    },
+    "price": "Prix - De 78 € à 134 €",
+    "stars": 1
+  },
+  {
+    "name": "La Grand'Vigne",
+    "address": {
+      "thoroughfare": "chemin de Smith-Haut-Lafitte",
+      "postal": "33650",
+      "locality": "Martillac",
+      "country": "France"
+    },
+    "price": "Prix - De 75 € à 157 €",
+    "stars": 2
+  },
+  {
+    "name": "L'Ambroisie",
+    "address": {
+      "thoroughfare": "9 Place des Vosges",
+      "postal": "75004",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 210 € à 390 €",
+    "stars": 3
+  },
+  {
+    "name": "Pic",
+    "address": {
+      "thoroughfare": "285 avenue Victor Hugo",
+      "postal": "26000",
+      "locality": "Valence",
+      "country": "France"
+    },
+    "price": "Prix - De 110 € à 330 €",
+    "stars": 3
+  },
+  {
+    "name": "Maison Kieny",
+    "address": {
+      "thoroughfare": "7 Rue du Général de Gaulle",
+      "postal": "68400",
+      "locality": "Riedisheim",
+      "country": "France"
+    },
+    "price": "Prix - De 33 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Gabriel",
+    "address": {
+      "thoroughfare": "42 Avenue Gabriel",
+      "postal": "75008",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 95 € à 250 €",
+    "stars": 2
+  },
+  {
+    "name": "Jérôme Brochot",
+    "address": {
+      "thoroughfare": "Place Beaubernard",
+      "postal": "71300",
+      "locality": "Montceau-les-Mines",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 75 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Georges",
+    "address": {
+      "thoroughfare": "22 pl. des Épars",
+      "postal": "28000",
+      "locality": "CHARTRES",
+      "country": "France"
+    },
+    "price": "Prix - De 50 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "Maison Decoret",
+    "address": {
+      "thoroughfare": "15 rue du Parc",
+      "postal": "03200",
+      "locality": "Vichy",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 122 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Arnsbourg",
+    "address": {
+      "thoroughfare": "Untermuhlthal",
+      "postal": "57230",
+      "locality": "Baerenthal",
+      "country": "France"
+    },
+    "price": "Prix - De 55 € à 133 €",
+    "stars": 1
+  },
+  {
+    "name": "Lasserre",
+    "address": {
+      "thoroughfare": "17 Avenue F. -D. -Roosevelt",
+      "postal": "75008",
+      "locality": "Paris 08",
+      "country": "France"
+    },
+    "price": "Prix - De 90 € à 241 €",
+    "stars": 1
+  },
+  {
+    "name": "Lucas Carton",
+    "address": {
+      "thoroughfare": "9 pl. de la Madeleine",
+      "postal": "75008",
+      "locality": "Paris 08",
+      "country": "France"
+    },
+    "price": "Prix - De 89 € à 151 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge de la Tour",
+    "address": {
+      "thoroughfare": "Place de la Fontaine",
+      "postal": "15220",
+      "locality": "MARCOLES",
+      "country": "France"
+    },
+    "price": "Prix - De 22 € à 66 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Amaryllis",
+    "address": {
+      "thoroughfare": "chemin de Martorey",
+      "postal": "71100",
+      "locality": "Saint-Rémy",
+      "country": "France"
+    },
+    "price": "Prix - De 28 € à 65 €",
+    "stars": 1
+  },
+  {
+    "name": "Hostellerie Jérôme",
+    "address": {
+      "thoroughfare": "20 r. Comte de Cessole",
+      "postal": "06320",
+      "locality": "La Turbie",
+      "country": "France"
+    },
+    "price": "Prix - De 78 € à 138 €",
+    "stars": 2
+  },
+  {
+    "name": "L'Arcane",
+    "address": {
+      "thoroughfare": "39 Rue Lamarck",
+      "postal": "75018",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 34 € à 105 €",
+    "stars": 1
+  },
+  {
+    "name": "Radio",
+    "address": {
+      "thoroughfare": "43 av. P. et M.-Curie",
+      "postal": "63400",
+      "locality": "Chamalières",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 88 €",
+    "stars": 1
+  },
+  {
+    "name": "Georges Blanc",
+    "address": {
+      "thoroughfare": "pl. du Marché",
+      "postal": "01540",
+      "locality": "Vonnas",
+      "country": "France"
+    },
+    "price": "Prix - De 180 € à 275 €",
+    "stars": 3
+  },
+  {
+    "name": "La Scène",
+    "address": {
+      "thoroughfare": "33 Avenue George V",
+      "postal": "75008",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 50 € à 195 €",
+    "stars": 1
+  },
+  {
+    "name": "La Côte Saint-Jacques",
+    "address": {
+      "thoroughfare": "14 faubourg de Paris",
+      "postal": "89300",
+      "locality": "Joigny",
+      "country": "France"
+    },
+    "price": "Prix - De 79 € à 238 €",
+    "stars": 2
+  },
+  {
+    "name": "Le Castellaras",
+    "address": {
+      "thoroughfare": "461 chemin Peymeyan",
+      "postal": "83440",
+      "locality": "Fayence",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 89 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Haut-Allier",
+    "address": {
+      "thoroughfare": "LE PONT D ALLEYRAS",
+      "postal": "43580",
+      "locality": "Alleyras",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "Guy Savoy",
+    "address": {
+      "thoroughfare": "Monnaie de Paris11 Quai de Conti",
+      "postal": "75006",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 203 € à 385 €",
+    "stars": 3
+  },
+  {
+    "name": "Domaine des Hauts de Loire",
+    "address": {
+      "thoroughfare": "79 rue Gilbert Navard",
+      "postal": "41150",
+      "locality": "Onzain",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 165 €",
+    "stars": 2
+  },
+  {
+    "name": "Le Parc Les Crayères",
+    "address": {
+      "thoroughfare": "64 Boulevard Henry Vasnier",
+      "postal": "51100",
+      "locality": "Reims",
+      "country": "France"
+    },
+    "price": "Prix - De 69 € à 190 €",
+    "stars": 2
+  },
+  {
+    "name": "Frédéric Simonin",
+    "address": {
+      "thoroughfare": "25 rue Bayen",
+      "postal": "75017",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 44 € à 155 €",
+    "stars": 1
+  },
+  {
+    "name": "1131",
+    "address": {
+      "thoroughfare": "D 33",
+      "postal": "21360",
+      "locality": "La Bussière-sur-Ouche",
+      "country": "France"
+    },
+    "price": "Prix moyen - 98 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Millénaire",
+    "address": {
+      "thoroughfare": "4 rue Bertin",
+      "postal": "51100",
+      "locality": "Reims",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 120 €",
+    "stars": 1
+  },
+  {
+    "name": "Manoir de la Boulaie",
+    "address": {
+      "thoroughfare": "33 rue Chapelle St-Martin",
+      "postal": "44115",
+      "locality": "HAUTE-GOULAINE",
+      "country": "France"
+    },
+    "price": "Prix - De 59 € à 148 €",
+    "stars": 2
+  },
+  {
+    "name": "Le Jasmin",
+    "address": {
+      "thoroughfare": "Lieu-dit Lalande",
+      "postal": "47140",
+      "locality": "Saint-Sylvestre-sur-Lot",
+      "country": "France"
+    },
+    "price": "Prix moyen - 55 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Explorateurs",
+    "address": {
+      "thoroughfare": "place du Slalom",
+      "postal": "73440",
+      "locality": "VAL THORENS",
+      "country": "France"
+    },
+    "price": "Prix - De 60 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "Shang Palace",
+    "address": {
+      "thoroughfare": "10 Avenue d'Iéna",
+      "postal": "75016",
+      "locality": "Paris 16",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 280 €",
+    "stars": 1
+  },
+  {
+    "name": "Loiseau des Ducs",
+    "address": {
+      "thoroughfare": "3 Rue Vauban",
+      "postal": "21000",
+      "locality": "Dijon",
+      "country": "France"
+    },
+    "price": "Prix - De 23 € à 105 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Sénéchal",
+    "address": {
+      "thoroughfare": "Sauveterre de Rouergue",
+      "postal": "12800",
+      "locality": "Sauveterre-de-Rouergue",
+      "country": "France"
+    },
+    "price": "Prix - De 40 € à 120 €",
+    "stars": 1
+  },
+  {
+    "name": "Flaveur",
+    "address": {
+      "thoroughfare": "25 Rue Gubernatis",
+      "postal": "06000",
+      "locality": "Nice",
+      "country": "France"
+    },
+    "price": "Prix - De 58 € à 75 €",
+    "stars": 2
+  },
+  {
+    "name": "Mavrommatis",
+    "address": {
+      "thoroughfare": "42 rue Daubenton",
+      "postal": "75005",
+      "locality": "Paris 05",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 75 €",
+    "stars": 1
+  },
+  {
+    "name": "Jean-Luc Tartarin",
+    "address": {
+      "thoroughfare": "Square Saint-Roch",
+      "postal": "76600",
+      "locality": "Le Havre",
+      "country": "France"
+    },
+    "price": "Prix - De 40 € à 140 €",
+    "stars": 2
+  },
+  {
+    "name": "Les Terraillers",
+    "address": {
+      "thoroughfare": "11 Route Chemin-Neuf",
+      "postal": "06410",
+      "locality": "Biot",
+      "country": "France"
+    },
+    "price": "Prix - De 43 € à 125 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Rosiers",
+    "address": {
+      "thoroughfare": "32 av. Beau Soleil",
+      "postal": "64200",
+      "locality": "Biarritz",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 83 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Domaine du Colombier",
+    "address": {
+      "thoroughfare": "270 Chemin de Malombre",
+      "postal": "26780",
+      "locality": "Malataverne",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 145 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Amphitryon",
+    "address": {
+      "thoroughfare": "127 r. du Col. -Müller",
+      "postal": "56100",
+      "locality": "Lorient",
+      "country": "France"
+    },
+    "price": "Prix - De 50 € à 150 €",
+    "stars": 1
+  },
+  {
+    "name": "La Table de l'Espadon",
+    "address": {
+      "thoroughfare": "15 Place Vendôme",
+      "postal": "75001",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 186 € à 396 €",
+    "stars": 2
+  },
+  {
+    "name": "La Passagère",
+    "address": {
+      "thoroughfare": "33 boulevard E. -Baudoin",
+      "postal": "06160",
+      "locality": "Juan-les-Pins",
+      "country": "France"
+    },
+    "price": "Prix - De 26 € à 130 €",
+    "stars": 1
+  },
+  {
+    "name": "Régis et Jacques Marcon",
+    "address": {
+      "thoroughfare": "Larsiallas",
+      "postal": "43290",
+      "locality": "SAINT-BONNET-LE-FROID",
+      "country": "France"
+    },
+    "price": "Prix - De 130 € à 180 €",
+    "stars": 3
+  },
+  {
+    "name": "La Palme d'Or",
+    "address": {
+      "thoroughfare": "73 Boulevard de la Croisette",
+      "postal": "06400",
+      "locality": "Cannes",
+      "country": "France"
+    },
+    "price": "Prix - De 74 € à 185 €",
+    "stars": 2
+  },
+  {
+    "name": "Neige d'Été",
+    "address": {
+      "thoroughfare": "12 Rue de l'Amiral Roussin",
+      "postal": "75015",
+      "locality": "Paris 15",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge de la Diligence",
+    "address": {
+      "thoroughfare": "4 r. de la Libération",
+      "postal": "49440",
+      "locality": "Loiré",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 76 €",
+    "stars": 1
+  },
+  {
+    "name": "Le P'tit Polyte",
+    "address": {
+      "thoroughfare": "2 Rue de la Chapelle",
+      "postal": "38860",
+      "locality": "Les Deux Alpes",
+      "country": "France"
+    },
+    "price": "Prix - De 65 € à 105 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Bois sans Feuilles",
+    "address": {
+      "thoroughfare": "728 Route de Villerest",
+      "postal": "42155",
+      "locality": "Ouches",
+      "country": "France"
+    },
+    "price": "Prix - De 140 € à 250 €",
+    "stars": 3
+  },
+  {
+    "name": "La Scène Thélème",
+    "address": {
+      "thoroughfare": "18 Rue Troyon",
+      "postal": "75017",
+      "locality": "PARIS",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 179 €",
+    "stars": 1
+  },
+  {
+    "name": "Pur' - Jean-François Rouquette",
+    "address": {
+      "thoroughfare": "5 r. de la Paix",
+      "postal": "75002",
+      "locality": "Paris 02",
+      "country": "France"
+    },
+    "price": "Prix - De 145 € à 275 €",
+    "stars": 1
+  },
+  {
+    "name": "La Table de La Butte",
+    "address": {
+      "thoroughfare": "10 rue de la Mer",
+      "postal": "29260",
+      "locality": "PLOUIDER",
+      "country": "France"
+    },
+    "price": "Prix - De 34 € à 118 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Candille",
+    "address": {
+      "thoroughfare": "bd C. Rebuffel",
+      "postal": "06250",
+      "locality": "Mougins",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 135 €",
+    "stars": 1
+  },
+  {
+    "name": "Hélène Darroze",
+    "address": {
+      "thoroughfare": "4 rue d'Assas",
+      "postal": "75006",
+      "locality": "Paris 06",
+      "country": "France"
+    },
+    "price": "Prix - De 58 € à 98 €",
+    "stars": 1
+  },
+  {
+    "name": "64° Le Restaurant",
+    "address": {
+      "thoroughfare": "9-13 Rue du Général de Gaulle",
+      "postal": "68240",
+      "locality": "Kaysersberg",
+      "country": "France"
+    },
+    "price": "Prix - De 55 € à 178 €",
+    "stars": 2
+  },
+  {
+    "name": "Ô Saveurs",
+    "address": {
+      "thoroughfare": "8 place Ormeaux au village",
+      "postal": "31180",
+      "locality": "ROUFFIAC-TOLOSAN",
+      "country": "France"
+    },
+    "price": "Prix - De 28 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "Alexandre",
+    "address": {
+      "thoroughfare": "2 rue Xavier Tronc",
+      "postal": "30128",
+      "locality": "Garons",
+      "country": "France"
+    },
+    "price": "Prix - De 52 € à 118 €",
+    "stars": 2
+  },
+  {
+    "name": "Origine",
+    "address": {
+      "thoroughfare": "26 Rampe Cauchoise",
+      "postal": "76000",
+      "locality": "Rouen",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 97 €",
+    "stars": 1
+  },
+  {
+    "name": "La Mare aux Oiseaux",
+    "address": {
+      "thoroughfare": "223 RUE DU CHEF DE L'ILE Fedrun",
+      "postal": "44720",
+      "locality": "Saint-Joachim",
+      "country": "France"
+    },
+    "price": "Prix - De 55 € à 75 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Roc Alto",
+    "address": {
+      "thoroughfare": "Quartier La Ville",
+      "postal": "05350",
+      "locality": "SAINT-VERAN",
+      "country": "France"
+    },
+    "price": "Prix - De 65 € à 115 €",
+    "stars": 1
+  },
+  {
+    "name": "Chapelle Saint-Martin",
+    "address": {
+      "thoroughfare": "33, Saint Martin du Fault",
+      "postal": "87510",
+      "locality": "Nieul",
+      "country": "France"
+    },
+    "price": "Prix - De 55 € à 89 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Abeille",
+    "address": {
+      "thoroughfare": "10 Avenue d'Iéna",
+      "postal": "75016",
+      "locality": "Paris 16",
+      "country": "France"
+    },
+    "price": "Prix - De 150 € à 250 €",
+    "stars": 2
+  },
+  {
+    "name": "Antoine",
+    "address": {
+      "thoroughfare": "10 av. de New-York",
+      "postal": "75116",
+      "locality": "Paris 16",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 150 €",
+    "stars": 1
+  },
+  {
+    "name": "Ed.Em",
+    "address": {
+      "thoroughfare": "4 imp. Chenevottes",
+      "postal": "21190",
+      "locality": "Chassagne-Montrachet",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 98 €",
+    "stars": 1
+  },
+  {
+    "name": "La Chassagnette",
+    "address": {
+      "thoroughfare": "route du Sambuc",
+      "postal": "13200",
+      "locality": "ARLES",
+      "country": "France"
+    },
+    "price": "Prix - De 55 € à 115 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Atelier de Gaztelur",
+    "address": {
+      "thoroughfare": "Chemin de Gastelhur",
+      "postal": "64200",
+      "locality": "Arcangues",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 115 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Épuisette",
+    "address": {
+      "thoroughfare": "158 Vallon-des-Auffes",
+      "postal": "13007",
+      "locality": "Marseille",
+      "country": "France"
+    },
+    "price": "Prix - De 70 € à 105 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Terrasses de Lyon",
+    "address": {
+      "thoroughfare": "25, montée Saint BArthelémy",
+      "postal": "69005",
+      "locality": "Lyon 05",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 115 €",
+    "stars": 1
+  },
+  {
+    "name": "Flocons de Sel",
+    "address": {
+      "thoroughfare": "1775 rte du Leutaz",
+      "postal": "74120",
+      "locality": "Megève",
+      "country": "France"
+    },
+    "price": "Prix - De 90 € à 168 €",
+    "stars": 3
+  },
+  {
+    "name": "Auberge à la Bonne Idée",
+    "address": {
+      "thoroughfare": "3 rue des Meuniers",
+      "postal": "60350",
+      "locality": "SAINT-JEAN-AUX-BOIS",
+      "country": "France"
+    },
+    "price": "Prix - De 37.5 € à 88 €",
+    "stars": 1
+  },
+  {
+    "name": "Cobéa",
+    "address": {
+      "thoroughfare": "11 r. Raymond Losserand",
+      "postal": "75014",
+      "locality": "Paris 14",
+      "country": "France"
+    },
+    "price": "Prix - De 50 € à 120 €",
+    "stars": 1
+  },
+  {
+    "name": "Maison Rostang",
+    "address": {
+      "thoroughfare": "20 rue Rennequin",
+      "postal": "75017",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 90 € à 225 €",
+    "stars": 2
+  },
+  {
+    "name": "Auberge Frankenbourg",
+    "address": {
+      "thoroughfare": "13 r. Gén. de Gaulle",
+      "postal": "67730",
+      "locality": "La Vancelle",
+      "country": "France"
+    },
+    "price": "Prix - De 40 € à 75 €",
+    "stars": 1
+  },
+  {
+    "name": "Alcyone",
+    "address": {
+      "thoroughfare": "1 Place Daviel",
+      "postal": "13002",
+      "locality": "MARSEILLE",
+      "country": "France"
+    },
+    "price": "Prix moyen - 99 €",
+    "stars": 1
+  },
+  {
+    "name": "Château d'Adoménil",
+    "address": {
+      "thoroughfare": "",
+      "postal": "54300",
+      "locality": "Lunéville",
+      "country": "France"
+    },
+    "price": "Prix - De 68 € à 150 €",
+    "stars": 1
+  },
+  {
+    "name": "La Nouvelle Auberge",
+    "address": {
+      "thoroughfare": "9 route Nationale",
+      "postal": "68230",
+      "locality": "Wihr-au-Val",
+      "country": "France"
+    },
+    "price": "Prix - De 39.8 € à 85 €",
+    "stars": 1
+  },
+  {
+    "name": "La Bastide St-Antoine",
+    "address": {
+      "thoroughfare": "48 av. Henri-Dunant",
+      "postal": "06130",
+      "locality": "Grasse",
+      "country": "France"
+    },
+    "price": "Prix - De 66 € à 220 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Carré d'Alethius",
+    "address": {
+      "thoroughfare": "4 r. Paul-Bertois",
+      "postal": "07800",
+      "locality": "Charmes-sur-Rhône",
+      "country": "France"
+    },
+    "price": "Prix - De 22 € à 75 €",
+    "stars": 1
+  },
+  {
+    "name": "Hostellerie de Plaisance",
+    "address": {
+      "thoroughfare": "5 place du Clocher",
+      "postal": "33330",
+      "locality": "Saint-Emilion",
+      "country": "France"
+    },
+    "price": "Prix - De 68 € à 156 €",
+    "stars": 2
+  },
+  {
+    "name": "Les Prés d'Eugénie - Michel Guérard",
+    "address": {
+      "thoroughfare": "pl. de l'Impératrice",
+      "postal": "40320",
+      "locality": "Eugénie-les-Bains",
+      "country": "France"
+    },
+    "price": "Prix - De 130 € à 240 €",
+    "stars": 3
+  },
+  {
+    "name": "Le Belrose",
+    "address": {
+      "thoroughfare": "Boulevard des Crêtes",
+      "postal": "83580",
+      "locality": "Gassin",
+      "country": "France"
+    },
+    "price": "Prix moyen - 135 €",
+    "stars": 1
+  },
+  {
+    "name": "Hervé Busset",
+    "address": {
+      "thoroughfare": "D901",
+      "postal": "12320",
+      "locality": "Conques",
+      "country": "France"
+    },
+    "price": "Prix - De 40 € à 125 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Strasbourg",
+    "address": {
+      "thoroughfare": "24 r. du Col. -Teyssier",
+      "postal": "57230",
+      "locality": "Bitche",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 75 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Escarbille",
+    "address": {
+      "thoroughfare": "8 Rue de Vélizy",
+      "postal": "92190",
+      "locality": "Meudon",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 69 €",
+    "stars": 1
+  },
+  {
+    "name": "Armani Ristorante",
+    "address": {
+      "thoroughfare": "149 Boulevard Saint-Germain",
+      "postal": "75006",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "Épicure",
+    "address": {
+      "thoroughfare": "112 r. Fg St-Honoré",
+      "postal": "75008",
+      "locality": "Paris 08",
+      "country": "France"
+    },
+    "price": "Prix - De 145 € à 350 €",
+    "stars": 3
+  },
+  {
+    "name": "Maison Lameloise",
+    "address": {
+      "thoroughfare": "36 pl. d'Armes",
+      "postal": "71150",
+      "locality": "Chagny",
+      "country": "France"
+    },
+    "price": "Prix - De 82 € à 215 €",
+    "stars": 3
+  },
+  {
+    "name": "Les Jardins de l'Espadon",
+    "address": {
+      "thoroughfare": "15 place Vendôme",
+      "postal": "75001",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 120 € à 145 €",
+    "stars": 1
+  },
+  {
+    "name": "La Bergerie",
+    "address": {
+      "thoroughfare": "D999",
+      "postal": "63490",
+      "locality": "Sarpoil",
+      "country": "France"
+    },
+    "price": "Prix - De 25 € à 75 €",
+    "stars": 1
+  },
+  {
+    "name": "Atmosphères",
+    "address": {
+      "thoroughfare": "618 Route des Tournelles",
+      "postal": "73370",
+      "locality": "Le Bourget-du-Lac",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge de Clochemerle",
+    "address": {
+      "thoroughfare": "Rue Gabriel-Chevallier",
+      "postal": "69460",
+      "locality": "VAUX-EN-BEAUJOLAIS",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 88 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Gindreau",
+    "address": {
+      "thoroughfare": "D5",
+      "postal": "46150",
+      "locality": "Saint-Médard",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 147 €",
+    "stars": 2
+  },
+  {
+    "name": "La Galinette",
+    "address": {
+      "thoroughfare": "23 r. Jean Payra",
+      "postal": "66000",
+      "locality": "Perpignan",
+      "country": "France"
+    },
+    "price": "Prix - De 25 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "Ar Men Du",
+    "address": {
+      "thoroughfare": "47 rue des îles",
+      "postal": "29920",
+      "locality": "Névez",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 104 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Orangerie",
+    "address": {
+      "thoroughfare": "31 Avenue George-V",
+      "postal": "75008",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 75 € à 125 €",
+    "stars": 1
+  },
+  {
+    "name": "Thierry Drapeau",
+    "address": {
+      "thoroughfare": "La Chabotterie",
+      "postal": "85260",
+      "locality": "Saint-Sulpice-le-Verdon",
+      "country": "France"
+    },
+    "price": "Prix - De 58 € à 148 €",
+    "stars": 2
+  },
+  {
+    "name": "Alliance",
+    "address": {
+      "thoroughfare": "5 Rue de Poissy",
+      "postal": "75005",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Impertinent",
+    "address": {
+      "thoroughfare": "5, rue d'Alsace",
+      "postal": "64200",
+      "locality": "Biarritz",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 88 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Farçon",
+    "address": {
+      "thoroughfare": "immeuble la Kalinka",
+      "postal": "73125",
+      "locality": "La Tania",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Patio",
+    "address": {
+      "thoroughfare": "10 bd de la Plage",
+      "postal": "33120",
+      "locality": "Arcachon",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Jardin des Plumes",
+    "address": {
+      "thoroughfare": "1 Rue du Milieu",
+      "postal": "27620",
+      "locality": "Giverny",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 93 €",
+    "stars": 1
+  },
+  {
+    "name": "La Maison d'à Côté",
+    "address": {
+      "thoroughfare": "17 rue de Chambord",
+      "postal": "41350",
+      "locality": "Montlivault",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 150 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Petit Hôtel du Grand Large",
+    "address": {
+      "thoroughfare": "11 quai St-Ivy",
+      "postal": "56510",
+      "locality": "Portivy",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 66 €",
+    "stars": 1
+  },
+  {
+    "name": "Kasbür",
+    "address": {
+      "thoroughfare": "8 Rue de Dettwiller",
+      "postal": "67700",
+      "locality": "Monswiller",
+      "country": "France"
+    },
+    "price": "Prix - De 25 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "Il Cortile",
+    "address": {
+      "thoroughfare": "11 r. des Franciscains",
+      "postal": "68100",
+      "locality": "Mulhouse",
+      "country": "France"
+    },
+    "price": "Prix - De 40 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "La Promenade",
+    "address": {
+      "thoroughfare": "11 rue du Savoureulx",
+      "postal": "37350",
+      "locality": "Le Petit-Pressigny",
+      "country": "France"
+    },
+    "price": "Prix - De 43 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Domaine de la Corniche",
+    "address": {
+      "thoroughfare": "5 rte de la Corniche",
+      "postal": "78270",
+      "locality": "Rolleboise",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 65 €",
+    "stars": 1
+  },
+  {
+    "name": "Jérôme Nutile - Le Mas de Boudan",
+    "address": {
+      "thoroughfare": "351 Chemin du Mas de Boudan",
+      "postal": "30000",
+      "locality": "Nîmes",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 170 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Figuier de St-Esprit",
+    "address": {
+      "thoroughfare": "7, Promenade Amiral de Grasse",
+      "postal": "06600",
+      "locality": "Antibes",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 138 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Saison",
+    "address": {
+      "thoroughfare": "1 imp. du Vieux-Bourg",
+      "postal": "35760",
+      "locality": "Saint-Grégoire",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 136 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Raisin",
+    "address": {
+      "thoroughfare": "2 pl. M. -Poisat",
+      "postal": "01190",
+      "locality": "Pont-de-Vaux",
+      "country": "France"
+    },
+    "price": "Prix - De 23 € à 75 €",
+    "stars": 1
+  },
+  {
+    "name": "Lamartine",
+    "address": {
+      "thoroughfare": "Route du Tunnel du Chat",
+      "postal": "73370",
+      "locality": "Le Bourget du Lac",
+      "country": "France"
+    },
+    "price": "Prix - De 33 € à 102 €",
+    "stars": 1
+  },
+  {
+    "name": "Assa",
+    "address": {
+      "thoroughfare": "189 Quai Ulysse Besnard",
+      "postal": "41000",
+      "locality": "Blois",
+      "country": "France"
+    },
+    "price": "Prix moyen - 36 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Amphitryon",
+    "address": {
+      "thoroughfare": "chemin de Gramont",
+      "postal": "31770",
+      "locality": "Colomiers",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 149 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Atelier de Jean-Luc Rabanel",
+    "address": {
+      "thoroughfare": "7 r. des Carmes",
+      "postal": "13200",
+      "locality": "Arles",
+      "country": "France"
+    },
+    "price": "Prix - De 85 € à 145 €",
+    "stars": 2
+  },
+  {
+    "name": "Auberge au Boeuf",
+    "address": {
+      "thoroughfare": "Rue de l'Eglise",
+      "postal": "67770",
+      "locality": "Sessenheim",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 85 €",
+    "stars": 1
+  },
+  {
+    "name": "Château de Mercuès",
+    "address": {
+      "thoroughfare": "Route du Château",
+      "postal": "46090",
+      "locality": "Mercuès",
+      "country": "France"
+    },
+    "price": "Prix - De 32 € à 125 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Manoir du Lys",
+    "address": {
+      "thoroughfare": "D235",
+      "postal": "61140",
+      "locality": "Bagnoles-de-l'Orne",
+      "country": "France"
+    },
+    "price": "Prix - De 46 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "Nakatani",
+    "address": {
+      "thoroughfare": "27 Rue Pierre Leroux",
+      "postal": "75007",
+      "locality": "PARIS",
+      "country": "France"
+    },
+    "price": "Prix - De 50 € à 145 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Cap",
+    "address": {
+      "thoroughfare": "71 Boulevard du Général-de-Gaulle",
+      "postal": "06230",
+      "locality": "SAINT-JEAN-CAP-FERRAT",
+      "country": "France"
+    },
+    "price": "Prix - De 154 € à 242 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Colombier",
+    "address": {
+      "thoroughfare": "r. Loucheur",
+      "postal": "76550",
+      "locality": "Offranville",
+      "country": "France"
+    },
+    "price": "Prix - De 22 € à 75 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge de la Mine",
+    "address": {
+      "thoroughfare": "le Gué-Plat",
+      "postal": "61450",
+      "locality": "La Ferrière-aux-Étangs",
+      "country": "France"
+    },
+    "price": "Prix - De 22 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Pressoir d'Argent - Gordon Ramsay",
+    "address": {
+      "thoroughfare": "2,5 Place de la Comédie",
+      "postal": "33000",
+      "locality": "Bordeaux",
+      "country": "France"
+    },
+    "price": "Prix - De 90 € à 150 €",
+    "stars": 2
+  },
+  {
+    "name": "Kei",
+    "address": {
+      "thoroughfare": "5 rue du Coq-Héron",
+      "postal": "75001",
+      "locality": "Paris 01",
+      "country": "France"
+    },
+    "price": "Prix - De 56 € à 195 €",
+    "stars": 2
+  },
+  {
+    "name": "L'Olivier",
+    "address": {
+      "thoroughfare": "25 Route des Carles",
+      "postal": "83990",
+      "locality": "Saint-Tropez",
+      "country": "France"
+    },
+    "price": "Prix moyen - 75 €",
+    "stars": 1
+  },
+  {
+    "name": "Takao Takano",
+    "address": {
+      "thoroughfare": "33 Rue Malesherbes",
+      "postal": "69006",
+      "locality": "Lyon 06",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 95 €",
+    "stars": 2
+  },
+  {
+    "name": "La Fourchette des Ducs",
+    "address": {
+      "thoroughfare": "6 r. de la Gare",
+      "postal": "67210",
+      "locality": "Obernai",
+      "country": "France"
+    },
+    "price": "Prix - De 120 € à 177 €",
+    "stars": 2
+  },
+  {
+    "name": "La Voile",
+    "address": {
+      "thoroughfare": "chemin de la Quessine",
+      "postal": "83350",
+      "locality": "Ramatuelle",
+      "country": "France"
+    },
+    "price": "Prix - De 102 € à 129 €",
+    "stars": 1
+  },
+  {
+    "name": "Alain Ducasse au Plaza Athénée",
+    "address": {
+      "thoroughfare": "25 avenue Montaigne",
+      "postal": "75008",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 210 € à 390 €",
+    "stars": 3
+  },
+  {
+    "name": "La Grande Maison de Bernard Magrez",
+    "address": {
+      "thoroughfare": "10 Rue Labottière",
+      "postal": "33000",
+      "locality": "Bordeaux",
+      "country": "France"
+    },
+    "price": "Prix - De 75 € à 195 €",
+    "stars": 2
+  },
+  {
+    "name": "Les Terrasses d'Uriage",
+    "address": {
+      "thoroughfare": "pl. Déesse-Hygie",
+      "postal": "38410",
+      "locality": "Uriage-les-Bains",
+      "country": "France"
+    },
+    "price": "Prix - De 69 € à 160 €",
+    "stars": 2
+  },
+  {
+    "name": "Aux Anges",
+    "address": {
+      "thoroughfare": "6 Place Georges Clemenceau",
+      "postal": "42300",
+      "locality": "Roanne",
+      "country": "France"
+    },
+    "price": "Prix - De 36 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "Xavier Mathieu",
+    "address": {
+      "thoroughfare": "Route de Murs",
+      "postal": "84220",
+      "locality": "Joucas",
+      "country": "France"
+    },
+    "price": "Prix - De 80 € à 170 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge de l'Abbaye",
+    "address": {
+      "thoroughfare": "47 place des anciens Combattants",
+      "postal": "01500",
+      "locality": "Ambronay",
+      "country": "France"
+    },
+    "price": "Prix - De 32 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "La Table d'Uzès",
+    "address": {
+      "thoroughfare": "18 rue du Docteur Blanchard",
+      "postal": "30700",
+      "locality": "Uzès",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 120 €",
+    "stars": 1
+  },
+  {
+    "name": "L'O des Vignes",
+    "address": {
+      "thoroughfare": "r. du Bourg",
+      "postal": "71960",
+      "locality": "Fuissé",
+      "country": "France"
+    },
+    "price": "Prix - De 26 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Cèdres",
+    "address": {
+      "thoroughfare": "25 Rue Henri MACHON",
+      "postal": "26600",
+      "locality": "Granges-les-Beaumont",
+      "country": "France"
+    },
+    "price": "Prix - De 47 € à 105 €",
+    "stars": 2
+  },
+  {
+    "name": "Les Ducs de Lorraine",
+    "address": {
+      "thoroughfare": "5 av. Provence",
+      "postal": "88000",
+      "locality": "Épinal",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 160 €",
+    "stars": 1
+  },
+  {
+    "name": "AM par Alexandre Mazzia",
+    "address": {
+      "thoroughfare": "9 rue François Rocca",
+      "postal": "13008",
+      "locality": "Marseille",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 69 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Clefs d'Argent",
+    "address": {
+      "thoroughfare": "333 Avenue des Martyrs de la Résistance",
+      "postal": "40000",
+      "locality": "Mont-de-Marsan",
+      "country": "France"
+    },
+    "price": "Prix - De 25 € à 86 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge St-Laurent",
+    "address": {
+      "thoroughfare": "1 rue Fontaine",
+      "postal": "68510",
+      "locality": "Sierentz",
+      "country": "France"
+    },
+    "price": "Prix - De 33 € à 88 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Cinq",
+    "address": {
+      "thoroughfare": "31 av. George V",
+      "postal": "75008",
+      "locality": "Paris 08",
+      "country": "France"
+    },
+    "price": "Prix - De 145 € à 400 €",
+    "stars": 3
+  },
+  {
+    "name": "Logis de la Cadène",
+    "address": {
+      "thoroughfare": "Place du Marche au Bois",
+      "postal": "33330",
+      "locality": "Saint Emilion",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "Apicius",
+    "address": {
+      "thoroughfare": "Marché Saint Pierre 1 étage",
+      "postal": "63000",
+      "locality": "Clermont-Ferrand",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 129 €",
+    "stars": 1
+  },
+  {
+    "name": "René et Maxime Meilleur",
+    "address": {
+      "thoroughfare": "Saint Marcel",
+      "postal": "73440",
+      "locality": "Saint-Martin-de-Belleville",
+      "country": "France"
+    },
+    "price": "Prix - De 140 € à 295 €",
+    "stars": 3
+  },
+  {
+    "name": "Grand Hôtel du Lion d'Or",
+    "address": {
+      "thoroughfare": "69 r. Clemenceau",
+      "postal": "41200",
+      "locality": "Romorantin-Lanthenay",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 200 €",
+    "stars": 1
+  },
+  {
+    "name": "Dominique Bucaille",
+    "address": {
+      "thoroughfare": "715 av. des Savels",
+      "postal": "04100",
+      "locality": "Manosque",
+      "country": "France"
+    },
+    "price": "Prix - De 50 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Berceaux",
+    "address": {
+      "thoroughfare": "13 rue des Berceaux",
+      "postal": "51200",
+      "locality": "Épernay",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Mascaret",
+    "address": {
+      "thoroughfare": "1 r. de Bas",
+      "postal": "50560",
+      "locality": "Blainville-sur-Mer",
+      "country": "France"
+    },
+    "price": "Prix - De 25 € à 48 €",
+    "stars": 1
+  },
+  {
+    "name": "La Gourmandière - La Table d'Olivier",
+    "address": {
+      "thoroughfare": "D126",
+      "postal": "56000",
+      "locality": "Vannes",
+      "country": "France"
+    },
+    "price": "Prix - De 26 € à 60 €",
+    "stars": 1
+  },
+  {
+    "name": "La Table de la Bergerie",
+    "address": {
+      "thoroughfare": "La Bergerie",
+      "postal": "49380",
+      "locality": "Champ-sur-Layon",
+      "country": "France"
+    },
+    "price": "Prix - De 19 € à 47 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Voiles d'Or",
+    "address": {
+      "thoroughfare": "2 chemin de la Falaise",
+      "postal": "76200",
+      "locality": "Dieppe",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 70 €",
+    "stars": 1
+  },
+  {
+    "name": "SEPT",
+    "address": {
+      "thoroughfare": "7 pl. St-Sernin",
+      "postal": "31000",
+      "locality": "Toulouse",
+      "country": "France"
+    },
+    "price": "Prix - De 24 € à 42 €",
+    "stars": 1
+  },
+  {
+    "name": "Jean-Claude Leclerc",
+    "address": {
+      "thoroughfare": "12 rue St-Adjutor",
+      "postal": "63000",
+      "locality": "Clermont-Ferrand",
+      "country": "France"
+    },
+    "price": "Prix - De 36 € à 120 €",
+    "stars": 1
+  },
+  {
+    "name": "Gordon Ramsay au Trianon",
+    "address": {
+      "thoroughfare": "1 bd de la Reine",
+      "postal": "78000",
+      "locality": "Versailles",
+      "country": "France"
+    },
+    "price": "Prix - De 148 € à 199 €",
+    "stars": 1
+  },
+  {
+    "name": "La Pyramide-Patrick Henriroux",
+    "address": {
+      "thoroughfare": "14 Boulevard Fernand Point",
+      "postal": "38200",
+      "locality": "Vienne",
+      "country": "France"
+    },
+    "price": "Prix - De 66 € à 198 €",
+    "stars": 2
+  },
+  {
+    "name": "Le Clocher des Pères",
+    "address": {
+      "thoroughfare": "D213",
+      "postal": "73130",
+      "locality": "Saint-Martin-sur-la-Chambre",
+      "country": "France"
+    },
+    "price": "Prix - De 43 € à 58 €",
+    "stars": 1
+  },
+  {
+    "name": "Toya",
+    "address": {
+      "thoroughfare": "av. Jean-Monnet",
+      "postal": "57380",
+      "locality": "Faulquemont",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 120 €",
+    "stars": 1
+  },
+  {
+    "name": "Pierre",
+    "address": {
+      "thoroughfare": "7-9 rue Joseph Dufour",
+      "postal": "71000",
+      "locality": "Mâcon",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 98 €",
+    "stars": 1
+  },
+  {
+    "name": "1741",
+    "address": {
+      "thoroughfare": "22 Quai des Bateliers",
+      "postal": "67000",
+      "locality": "Strasbourg",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 129 €",
+    "stars": 1
+  },
+  {
+    "name": "Arpège",
+    "address": {
+      "thoroughfare": "84 Rue de Varenne",
+      "postal": "75007",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 145 € à 380 €",
+    "stars": 3
+  },
+  {
+    "name": "Château Cordeillan-Bages",
+    "address": {
+      "thoroughfare": "Route des châteaux",
+      "postal": "33250",
+      "locality": "Pauillac",
+      "country": "France"
+    },
+    "price": "Prix - De 75 € à 155 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Archeste",
+    "address": {
+      "thoroughfare": "79 rue de la Tour",
+      "postal": "75116",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 52 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Bories",
+    "address": {
+      "thoroughfare": "rte de l'Abbaye de Sénanque",
+      "postal": "84220",
+      "locality": "Gordes",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 97 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Kintessence",
+    "address": {
+      "thoroughfare": "Rue des Clarines",
+      "postal": "73120",
+      "locality": "Courchevel 1850",
+      "country": "France"
+    },
+    "price": "Prix - De 160 € à 300 €",
+    "stars": 2
+  },
+  {
+    "name": "L'Écrin",
+    "address": {
+      "thoroughfare": "10 place de la Concorde",
+      "postal": "75008",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix moyen - 195 €",
+    "stars": 1
+  },
+  {
+    "name": "La Renaissance",
+    "address": {
+      "thoroughfare": "20 av. 2e-Division-Blindée",
+      "postal": "61200",
+      "locality": "Argentan",
+      "country": "France"
+    },
+    "price": "Prix - De 27 € à 70 €",
+    "stars": 1
+  },
+  {
+    "name": "La Grange de Belle-Église",
+    "address": {
+      "thoroughfare": "28 bd René-Aimé-Lagabrielle",
+      "postal": "60540",
+      "locality": "Belle-Église",
+      "country": "France"
+    },
+    "price": "Prix - De 26 € à 160 €",
+    "stars": 1
+  },
+  {
+    "name": "Relais Louis XIII",
+    "address": {
+      "thoroughfare": "8 Rue des Grands Augustins",
+      "postal": "75006",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 65 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "La Table Breizh Café",
+    "address": {
+      "thoroughfare": "7 quai Thomas",
+      "postal": "35260",
+      "locality": "Cancale",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 75 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Musigny",
+    "address": {
+      "thoroughfare": "90 Avenue de Liege",
+      "postal": "59300",
+      "locality": "Valenciennes",
+      "country": "France"
+    },
+    "price": "Prix - De 33 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Arôme",
+    "address": {
+      "thoroughfare": "3 rue St-Philippe-du-Roule",
+      "postal": "75008",
+      "locality": "Paris 08",
+      "country": "France"
+    },
+    "price": "Prix - De 59 € à 129 €",
+    "stars": 1
+  },
+  {
+    "name": "Rackham",
+    "address": {
+      "thoroughfare": "27 pl. Lacaze Duthiers rčs de l'église",
+      "postal": "29680",
+      "locality": "ROSCOFF",
+      "country": "France"
+    },
+    "price": "Prix - De 25 € à 44 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Prieuré",
+    "address": {
+      "thoroughfare": "7, place du Chapitre",
+      "postal": "30400",
+      "locality": "Villeneuve-lès-Avignon",
+      "country": "France"
+    },
+    "price": "Prix - De 36 € à 120 €",
+    "stars": 1
+  },
+  {
+    "name": "Stéphane Tournié - Les Jardins de l'Opéra",
+    "address": {
+      "thoroughfare": "1 place du Capitole",
+      "postal": "31000",
+      "locality": "Toulouse",
+      "country": "France"
+    },
+    "price": "Prix - De 32 € à 99 €",
+    "stars": 1
+  },
+  {
+    "name": "La Cachette",
+    "address": {
+      "thoroughfare": "Rue des Cévennes",
+      "postal": "26000",
+      "locality": "Valence",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 65 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Atelier du Peintre",
+    "address": {
+      "thoroughfare": "1 Rue Schongauer",
+      "postal": "68000",
+      "locality": "Colmar",
+      "country": "France"
+    },
+    "price": "Prix - De 24 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Bec au Cauchois",
+    "address": {
+      "thoroughfare": "22 Rue André Fiquet",
+      "postal": "76540",
+      "locality": "Valmont",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 75 €",
+    "stars": 1
+  },
+  {
+    "name": "La Matelote",
+    "address": {
+      "thoroughfare": "80 Boulevard Ste Beuve",
+      "postal": "62200",
+      "locality": "BOULOGNE-SUR-MER",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 70 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Clair de la Plume",
+    "address": {
+      "thoroughfare": "2 Place du Mail",
+      "postal": "26230",
+      "locality": "Grignan",
+      "country": "France"
+    },
+    "price": "Prix - De 59 € à 135 €",
+    "stars": 1
+  },
+  {
+    "name": "Penati al Baretto",
+    "address": {
+      "thoroughfare": "9 rue Balzac",
+      "postal": "75008",
+      "locality": "Paris 08",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "La Table",
+    "address": {
+      "thoroughfare": "32 Rue de la Barre",
+      "postal": "59000",
+      "locality": "Lille",
+      "country": "France"
+    },
+    "price": "Prix moyen - 39 €",
+    "stars": 1
+  },
+  {
+    "name": "La Grignotière",
+    "address": {
+      "thoroughfare": "6 Rue Jean Jaures",
+      "postal": "59590",
+      "locality": "Raismes",
+      "country": "France"
+    },
+    "price": "Prix - De 29.9 € à 89 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Grand Véfour",
+    "address": {
+      "thoroughfare": "17 rue de Beaujolais",
+      "postal": "75001",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 115 € à 315 €",
+    "stars": 2
+  },
+  {
+    "name": "Meurin",
+    "address": {
+      "thoroughfare": "Rue de Lillers",
+      "postal": "62350",
+      "locality": "Busnes",
+      "country": "France"
+    },
+    "price": "Prix - De 80 € à 135 €",
+    "stars": 2
+  },
+  {
+    "name": "La Vague d'Or",
+    "address": {
+      "thoroughfare": "Plage de Bouillabaisse",
+      "postal": "83990",
+      "locality": "Saint-Tropez",
+      "country": "France"
+    },
+    "price": "Prix - De 270 € à 340 €",
+    "stars": 3
+  },
+  {
+    "name": "Le France",
+    "address": {
+      "thoroughfare": "8 place Cupillard",
+      "postal": "25130",
+      "locality": "VILLERS-LE-LAC",
+      "country": "France"
+    },
+    "price": "Prix - De 22 € à 39 €",
+    "stars": 1
+  },
+  {
+    "name": "La Table de Nans",
+    "address": {
+      "thoroughfare": "corniche du Liouquet",
+      "postal": "13600",
+      "locality": "La Ciotat",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 105 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Lido",
+    "address": {
+      "thoroughfare": "42 av. Napoléon-III",
+      "postal": "20110",
+      "locality": "Propriano",
+      "country": "France"
+    },
+    "price": "Prix moyen - 85 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge du Pont d'Acigné",
+    "address": {
+      "thoroughfare": "D392",
+      "postal": "35530",
+      "locality": "Noyal-sur-Vilaine",
+      "country": "France"
+    },
+    "price": "Prix - De 44 € à 158 €",
+    "stars": 1
+  },
+  {
+    "name": "114, Faubourg",
+    "address": {
+      "thoroughfare": "114 r. Fg St-Honoré",
+      "postal": "75008",
+      "locality": "Paris 08",
+      "country": "France"
+    },
+    "price": "Prix - De 80 € à 130 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Loges",
+    "address": {
+      "thoroughfare": "6 r. du Boeuf",
+      "postal": "69005",
+      "locality": "Lyon 05",
+      "country": "France"
+    },
+    "price": "Prix - De 95 € à 125 €",
+    "stars": 1
+  },
+  {
+    "name": "Maximilien",
+    "address": {
+      "thoroughfare": "19a rte Ostheim",
+      "postal": "68340",
+      "locality": "Zellenberg",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 92 €",
+    "stars": 1
+  },
+  {
+    "name": "La Chèvre d'Or",
+    "address": {
+      "thoroughfare": "r. du Barri",
+      "postal": "06360",
+      "locality": "Èze",
+      "country": "France"
+    },
+    "price": "Prix - De 85 € à 300 €",
+    "stars": 2
+  },
+  {
+    "name": "La Table de l'Alpaga",
+    "address": {
+      "thoroughfare": "66 Allée des Marmousets",
+      "postal": "74120",
+      "locality": "Megève",
+      "country": "France"
+    },
+    "price": "Prix - De 105 € à 210 €",
+    "stars": 1
+  },
+  {
+    "name": "Au Crocodile",
+    "address": {
+      "thoroughfare": "10 rue de L'Outre",
+      "postal": "67000",
+      "locality": "STRASBOURG",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 148 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Saint-Martin",
+    "address": {
+      "thoroughfare": "Avenue des Templiers",
+      "postal": "06140",
+      "locality": "Vence",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 160 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Gourmet de Sèze",
+    "address": {
+      "thoroughfare": "125 Rue de Sèze",
+      "postal": "69006",
+      "locality": "Lyon",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 125 €",
+    "stars": 1
+  },
+  {
+    "name": "Jin",
+    "address": {
+      "thoroughfare": "6 Rue de la Sourdière",
+      "postal": "75001",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 95 € à 145 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge de la Charme",
+    "address": {
+      "thoroughfare": "12 r. de la Charme",
+      "postal": "21370",
+      "locality": "Prenois",
+      "country": "France"
+    },
+    "price": "Prix - De 36 € à 99 €",
+    "stars": 1
+  },
+  {
+    "name": "La Table du Gourmet",
+    "address": {
+      "thoroughfare": "5 rue 1ère Armée",
+      "postal": "68340",
+      "locality": "Riquewihr",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "La Lorraine",
+    "address": {
+      "thoroughfare": "80 rue Principale",
+      "postal": "57330",
+      "locality": "Zoufftgen",
+      "country": "France"
+    },
+    "price": "Prix - De 36 € à 98 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Bistro des Saveurs",
+    "address": {
+      "thoroughfare": "35 Rue de Sélestat",
+      "postal": "67210",
+      "locality": "Obernai",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "Skab",
+    "address": {
+      "thoroughfare": "7 Rue de la République",
+      "postal": "30000",
+      "locality": "nimes",
+      "country": "France"
+    },
+    "price": "Prix - De 26 € à 101 €",
+    "stars": 1
+  },
+  {
+    "name": "La Marine",
+    "address": {
+      "thoroughfare": "3 r. Marie-Lemonnier",
+      "postal": "85330",
+      "locality": "L'Herbaudière",
+      "country": "France"
+    },
+    "price": "Prix - De 64 € à 148 €",
+    "stars": 2
+  },
+  {
+    "name": "La Table de Manville",
+    "address": {
+      "thoroughfare": "Domaine de Manville - D27",
+      "postal": "13520",
+      "locality": "LES-BAUX-DE-PROVENCE",
+      "country": "France"
+    },
+    "price": "Prix - De 70 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "La Maison dans le Parc",
+    "address": {
+      "thoroughfare": "3 r. Ste-Catherine",
+      "postal": "54000",
+      "locality": "Nancy",
+      "country": "France"
+    },
+    "price": "Prix - De 37 € à 85 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Vieux Logis",
+    "address": {
+      "thoroughfare": "Le Bourg",
+      "postal": "24510",
+      "locality": "Trémolat",
+      "country": "France"
+    },
+    "price": "Prix - De 50 € à 120 €",
+    "stars": 1
+  },
+  {
+    "name": "Le 1947",
+    "address": {
+      "thoroughfare": "Cheval Blanc Courchevel - Le Jardin Alpin",
+      "postal": "73120",
+      "locality": "Courchevel 1850",
+      "country": "France"
+    },
+    "price": "Prix - De 127 € à 450 €",
+    "stars": 3
+  },
+  {
+    "name": "Fontevraud Le Restaurant",
+    "address": {
+      "thoroughfare": "38 rue St-Jean-de-l'Habit",
+      "postal": "49590",
+      "locality": "FONTEVRAUD-L'ABBAYE",
+      "country": "France"
+    },
+    "price": "Prix - De 58 € à 105 €",
+    "stars": 1
+  },
+  {
+    "name": "Copenhague",
+    "address": {
+      "thoroughfare": "142 AVENUE DES CHAMPS ELYSEES",
+      "postal": "75008",
+      "locality": "PARIS",
+      "country": "France"
+    },
+    "price": "Prix - De 55 € à 115 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Pré - Xavier Beaudiment",
+    "address": {
+      "thoroughfare": "3 Route de la Baraque",
+      "postal": "63830",
+      "locality": "Durtol",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 129 €",
+    "stars": 2
+  },
+  {
+    "name": "Auberge du Cellier",
+    "address": {
+      "thoroughfare": "1 Rue de Sainte-Eugénie",
+      "postal": "66720",
+      "locality": "Montner",
+      "country": "France"
+    },
+    "price": "Prix - De 19 € à 69 €",
+    "stars": 1
+  },
+  {
+    "name": "La Palmeraie",
+    "address": {
+      "thoroughfare": "81 Boulevard de Gigaro",
+      "postal": "83420",
+      "locality": "La Croix-Valmer",
+      "country": "France"
+    },
+    "price": "Prix - De 28 € à 65 €",
+    "stars": 1
+  },
+  {
+    "name": "La Réserve Rimbaud",
+    "address": {
+      "thoroughfare": "820 Avenue de Saint-Maur",
+      "postal": "34000",
+      "locality": "Montpellier",
+      "country": "France"
+    },
+    "price": "Prix - De 40 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge des Saints Pères",
+    "address": {
+      "thoroughfare": "212 av. de Nonneville",
+      "postal": "93600",
+      "locality": "Aulnay-sous-Bois",
+      "country": "France"
+    },
+    "price": "Prix - De 43 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "Louison",
+    "address": {
+      "thoroughfare": "2750 route de la cride",
+      "postal": "13610",
+      "locality": "Le Puy-Sainte-Réparade",
+      "country": "France"
+    },
+    "price": "Prix - De 65 € à 165 €",
+    "stars": 1
+  },
+  {
+    "name": "La Ferme de l'Hospital",
+    "address": {
+      "thoroughfare": "rte du golf",
+      "postal": "74160",
+      "locality": "Bossey",
+      "country": "France"
+    },
+    "price": "Prix - De 44 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "Elsa",
+    "address": {
+      "thoroughfare": "Monte-Carlo Beach - Avenue Princesse Grace",
+      "postal": "06190",
+      "locality": "Roquebrune Cap-Martin",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 150 €",
+    "stars": 1
+  },
+  {
+    "name": "Alan Geaam",
+    "address": {
+      "thoroughfare": "19 Rue Lauriston",
+      "postal": "75016",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 40 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Pavé d'Auge",
+    "address": {
+      "thoroughfare": "D49",
+      "postal": "14430",
+      "locality": "Beuvron-en-Auge",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 68 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge Grand'Maison",
+    "address": {
+      "thoroughfare": "1 r. Léon-le-Cerf",
+      "postal": "22530",
+      "locality": "Mûr-de-Bretagne",
+      "country": "France"
+    },
+    "price": "Prix - De 27 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Grand Bleu",
+    "address": {
+      "thoroughfare": "43 av. de la Gare",
+      "postal": "24200",
+      "locality": "Sarlat-la-Canéda",
+      "country": "France"
+    },
+    "price": "Prix - De 36 € à 125 €",
+    "stars": 1
+  },
+  {
+    "name": "La Maison des Bois - Marc Veyrat",
+    "address": {
+      "thoroughfare": "Chemin Rural de Manigod au Col de la Croix Fry",
+      "postal": "74230",
+      "locality": "Manigod",
+      "country": "France"
+    },
+    "price": "Prix - De 295 € à 395 €",
+    "stars": 3
+  },
+  {
+    "name": "Stéphane Carbone",
+    "address": {
+      "thoroughfare": "14 r. de Courtonne",
+      "postal": "14000",
+      "locality": "Caen",
+      "country": "France"
+    },
+    "price": "Prix - De 26 € à 98 €",
+    "stars": 1
+  },
+  {
+    "name": "Apicius",
+    "address": {
+      "thoroughfare": "20 r. d'Artois",
+      "postal": "75008",
+      "locality": "PARIS",
+      "country": "France"
+    },
+    "price": "Prix - De 125 € à 220 €",
+    "stars": 1
+  },
+  {
+    "name": "Flaveurs",
+    "address": {
+      "thoroughfare": "32 Grande-Rue",
+      "postal": "26000",
+      "locality": "Valence",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 92 €",
+    "stars": 1
+  },
+  {
+    "name": "I Salti",
+    "address": {
+      "thoroughfare": "route du Reginu",
+      "postal": "20226",
+      "locality": "Belgodère",
+      "country": "France"
+    },
+    "price": "Prix - De 55 € à 70 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Axel",
+    "address": {
+      "thoroughfare": "43 r. de France",
+      "postal": "77300",
+      "locality": "Fontainebleau",
+      "country": "France"
+    },
+    "price": "Prix - De 33 € à 101 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Beaulieu",
+    "address": {
+      "thoroughfare": "34 Bis Place République",
+      "postal": "72000",
+      "locality": "Le Mans",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 88 €",
+    "stars": 1
+  },
+  {
+    "name": "Aida",
+    "address": {
+      "thoroughfare": "1 r. Pierre Leroux",
+      "postal": "75007",
+      "locality": "Paris 07",
+      "country": "France"
+    },
+    "price": "Prix moyen - 160 €",
+    "stars": 1
+  },
+  {
+    "name": "Dan B. - La Table de Ventabren",
+    "address": {
+      "thoroughfare": "r. F. -Mistral",
+      "postal": "13122",
+      "locality": "Ventabren",
+      "country": "France"
+    },
+    "price": "Prix - De 43 € à 97 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Esquisse",
+    "address": {
+      "thoroughfare": "21 rue Royale",
+      "postal": "74000",
+      "locality": "Annecy",
+      "country": "France"
+    },
+    "price": "Prix - De 25 € à 65 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Étang du Moulin",
+    "address": {
+      "thoroughfare": "5 chemin de l'Etang du Moulin",
+      "postal": "25210",
+      "locality": "Bonnétage",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 87 €",
+    "stars": 1
+  },
+  {
+    "name": "Christopher Coutanceau",
+    "address": {
+      "thoroughfare": "Promenade de la Concurrence",
+      "postal": "17000",
+      "locality": "La Rochelle",
+      "country": "France"
+    },
+    "price": "Prix - De 68 € à 165 €",
+    "stars": 2
+  },
+  {
+    "name": "Auberge La Fenière",
+    "address": {
+      "thoroughfare": "D943",
+      "postal": "84160",
+      "locality": "Cadenet",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 50 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Trois Soleils de Montal",
+    "address": {
+      "thoroughfare": "St-Jean-Lespinasse",
+      "postal": "46400",
+      "locality": "Saint-Céré",
+      "country": "France"
+    },
+    "price": "Prix - De 36 € à 88 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Trois Rochers",
+    "address": {
+      "thoroughfare": "16 rue du Phare",
+      "postal": "29120",
+      "locality": "Sainte-Marine",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 84 €",
+    "stars": 1
+  },
+  {
+    "name": "Maison Jeunet",
+    "address": {
+      "thoroughfare": "9 r. de l'Hôtel-de-Ville",
+      "postal": "39600",
+      "locality": "Arbois",
+      "country": "France"
+    },
+    "price": "Prix - De 65 € à 118 €",
+    "stars": 2
+  },
+  {
+    "name": "Casadelmar",
+    "address": {
+      "thoroughfare": "Route de la Plage de Palombaggia",
+      "postal": "20137",
+      "locality": "Porto-Vecchio",
+      "country": "France"
+    },
+    "price": "Prix - De 70 € à 195 €",
+    "stars": 2
+  },
+  {
+    "name": "Une Île",
+    "address": {
+      "thoroughfare": "9 r. Max-Richard",
+      "postal": "49000",
+      "locality": "Angers",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 78 €",
+    "stars": 1
+  },
+  {
+    "name": "Qui plume la Lune",
+    "address": {
+      "thoroughfare": "50 r. Amelot",
+      "postal": "75011",
+      "locality": "Paris 11",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 130 €",
+    "stars": 1
+  },
+  {
+    "name": "Likoké",
+    "address": {
+      "thoroughfare": "7 rte de Païolive",
+      "postal": "07140",
+      "locality": "Les Vans",
+      "country": "France"
+    },
+    "price": "Prix - De 85 € à 169 €",
+    "stars": 1
+  },
+  {
+    "name": "La Table du Connétable",
+    "address": {
+      "thoroughfare": "4 Rue du Connétable",
+      "postal": "60500",
+      "locality": "Chantilly",
+      "country": "France"
+    },
+    "price": "Prix - De 67 € à 161 €",
+    "stars": 1
+  },
+  {
+    "name": "Restaurant des Rois",
+    "address": {
+      "thoroughfare": "5 Boulevard du Maréchal Leclerc",
+      "postal": "06310",
+      "locality": "Beaulieu-sur-Mer",
+      "country": "France"
+    },
+    "price": "Prix - De 60 € à 150 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Passe Temps",
+    "address": {
+      "thoroughfare": "52 Rue Tronchet",
+      "postal": "69006",
+      "locality": "Lyon",
+      "country": "France"
+    },
+    "price": "Prix - De 33 € à 85 €",
+    "stars": 1
+  },
+  {
+    "name": "La Table du 11",
+    "address": {
+      "thoroughfare": "8 rue de la chancellerie",
+      "postal": "78000",
+      "locality": "Versailles",
+      "country": "France"
+    },
+    "price": "Prix - De 44 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Champ des Lunes",
+    "address": {
+      "thoroughfare": "route de Roquefraîche",
+      "postal": "84360",
+      "locality": "Lauris",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 108 €",
+    "stars": 1
+  },
+  {
+    "name": "Prairial",
+    "address": {
+      "thoroughfare": "11 Rue Chavanne",
+      "postal": "69001",
+      "locality": "Lyon",
+      "country": "France"
+    },
+    "price": "Prix - De 34 € à 88 €",
+    "stars": 1
+  },
+  {
+    "name": "La Balette",
+    "address": {
+      "thoroughfare": "rte de Port-Vendres",
+      "postal": "66190",
+      "locality": "Collioure",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 115 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Atelier Yssoirien",
+    "address": {
+      "thoroughfare": "39 Boulevard Triozon-Bayle",
+      "postal": "63500",
+      "locality": "Issoire",
+      "country": "France"
+    },
+    "price": "Prix - De 18 € à 50 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge de la Brie",
+    "address": {
+      "thoroughfare": "14 av. Alphonse Boulingre",
+      "postal": "77860",
+      "locality": "Couilly-Pont-aux-Dames",
+      "country": "France"
+    },
+    "price": "Prix - De 40 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "Serge Vieira",
+    "address": {
+      "thoroughfare": "Château du Couffour",
+      "postal": "15110",
+      "locality": "Chaudes-Aigues",
+      "country": "France"
+    },
+    "price": "Prix - De 90 € à 148 €",
+    "stars": 2
+  },
+  {
+    "name": "Maison Christian Étienne",
+    "address": {
+      "thoroughfare": "10 Rue de Mons",
+      "postal": "84000",
+      "locality": "Avignon",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 125 €",
+    "stars": 1
+  },
+  {
+    "name": "Astrance",
+    "address": {
+      "thoroughfare": "4 r. Beethoven",
+      "postal": "75016",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 75 € à 370 €",
+    "stars": 3
+  },
+  {
+    "name": "Albert 1er",
+    "address": {
+      "thoroughfare": "38 rte du Bouchet",
+      "postal": "74400",
+      "locality": "Chamonix-Mont-Blanc",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 172 €",
+    "stars": 2
+  },
+  {
+    "name": "Quai des Saveurs",
+    "address": {
+      "thoroughfare": "69 rue de la Gare",
+      "postal": "57300",
+      "locality": "Hagondange",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Vivier",
+    "address": {
+      "thoroughfare": "800 cours F. Peyre (rte de Carpentras)",
+      "postal": "84800",
+      "locality": "L'Isle-sur-la-Sorgue",
+      "country": "France"
+    },
+    "price": "Prix - De 26 € à 85 €",
+    "stars": 1
+  },
+  {
+    "name": "Buerehiesel",
+    "address": {
+      "thoroughfare": "dans le parc de l'Orangerie",
+      "postal": "67000",
+      "locality": "Strasbourg",
+      "country": "France"
+    },
+    "price": "Prix - De 37 € à 98 €",
+    "stars": 1
+  },
+  {
+    "name": "La Table Saint-Crescent",
+    "address": {
+      "thoroughfare": "route de Perpignan",
+      "postal": "11100",
+      "locality": "Narbonne",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Kaïku",
+    "address": {
+      "thoroughfare": "17 r. de la République",
+      "postal": "64500",
+      "locality": "Saint-Jean-de-Luz",
+      "country": "France"
+    },
+    "price": "Prix - De 36 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "Le 7ème Continent",
+    "address": {
+      "thoroughfare": "35 av. Gén. -de-Gaulle",
+      "postal": "68170",
+      "locality": "Rixheim",
+      "country": "France"
+    },
+    "price": "Prix - De 25 € à 68 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Chabichou",
+    "address": {
+      "thoroughfare": "90 Route des Chenus",
+      "postal": "73120",
+      "locality": "Courchevel 1850",
+      "country": "France"
+    },
+    "price": "Prix - De 75 € à 275 €",
+    "stars": 2
+  },
+  {
+    "name": "Les Trois Dômes",
+    "address": {
+      "thoroughfare": "20 quai Gailleton",
+      "postal": "69002",
+      "locality": "Lyon",
+      "country": "France"
+    },
+    "price": "Prix - De 47 € à 180 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Climats",
+    "address": {
+      "thoroughfare": "41 rue de Lille",
+      "postal": "75007",
+      "locality": "Paris 07",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 220 €",
+    "stars": 1
+  },
+  {
+    "name": "La Grenouillère",
+    "address": {
+      "thoroughfare": "19 r. de la Grenouillère",
+      "postal": "62170",
+      "locality": "La Madelaine-sous-Montreuil",
+      "country": "France"
+    },
+    "price": "Prix - De 80 € à 135 €",
+    "stars": 2
+  },
+  {
+    "name": "Château de Mirambeau",
+    "address": {
+      "thoroughfare": "1 Avenue des Comtes Duchatel",
+      "postal": "17150",
+      "locality": "Mirambeau",
+      "country": "France"
+    },
+    "price": "Prix - De 50 € à 120 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Puits St-Jacques",
+    "address": {
+      "thoroughfare": "av. Victor-Capoul",
+      "postal": "32600",
+      "locality": "Pujaudran",
+      "country": "France"
+    },
+    "price": "Prix - De 34 € à 125 €",
+    "stars": 2
+  },
+  {
+    "name": "Guy Lassausaie",
+    "address": {
+      "thoroughfare": "r. de Belle-Sise",
+      "postal": "69380",
+      "locality": "Chasselay",
+      "country": "France"
+    },
+    "price": "Prix - De 70 € à 120 €",
+    "stars": 2
+  },
+  {
+    "name": "Table des Frères Ibarboure",
+    "address": {
+      "thoroughfare": "chemin Ttalienea",
+      "postal": "64210",
+      "locality": "Bidart",
+      "country": "France"
+    },
+    "price": "Prix - De 44 € à 115 €",
+    "stars": 1
+  },
+  {
+    "name": "La Table d'Olivier",
+    "address": {
+      "thoroughfare": "3 r. St-Ambroise",
+      "postal": "19100",
+      "locality": "Brive-la-Gaillarde",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 75 €",
+    "stars": 1
+  },
+  {
+    "name": "Py-r",
+    "address": {
+      "thoroughfare": "19 descente de la Halle-aux-Poissons",
+      "postal": "31000",
+      "locality": "Toulouse",
+      "country": "France"
+    },
+    "price": "Prix - De 34 € à 78 €",
+    "stars": 1
+  },
+  {
+    "name": "Au 14 Février",
+    "address": {
+      "thoroughfare": "2 r. du Portail",
+      "postal": "36100",
+      "locality": "Saint-Valentin",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 87 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Atelier de Joël Robuchon - Étoile",
+    "address": {
+      "thoroughfare": "133 av. des Champs-Élysées",
+      "postal": "75008",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 210 €",
+    "stars": 1
+  },
+  {
+    "name": "Le George",
+    "address": {
+      "thoroughfare": "31 Avenue George V",
+      "postal": "75008",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 65 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "Restaurant de Lauzun",
+    "address": {
+      "thoroughfare": "3 bd de l'Esplanade",
+      "postal": "34150",
+      "locality": "Gignac",
+      "country": "France"
+    },
+    "price": "Prix - De 31 € à 83 €",
+    "stars": 1
+  },
+  {
+    "name": "Passage 53",
+    "address": {
+      "thoroughfare": "53 passage des Panoramas",
+      "postal": "75002",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 60 € à 180 €",
+    "stars": 2
+  },
+  {
+    "name": "La Bastide de Capelongue",
+    "address": {
+      "thoroughfare": "Chemin des Cabanes",
+      "postal": "84480",
+      "locality": "Bonnieux",
+      "country": "France"
+    },
+    "price": "Prix - De 100 € à 210 €",
+    "stars": 2
+  },
+  {
+    "name": "L'Aquarelle",
+    "address": {
+      "thoroughfare": "71 A rte du Montil",
+      "postal": "17920",
+      "locality": "Breuillet",
+      "country": "France"
+    },
+    "price": "Prix - De 37 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "Terre-Mer",
+    "address": {
+      "thoroughfare": "16 r. du Jeu-de-Paume",
+      "postal": "56400",
+      "locality": "Auray",
+      "country": "France"
+    },
+    "price": "Prix - De 25 € à 115 €",
+    "stars": 1
+  },
+  {
+    "name": "La Tour",
+    "address": {
+      "thoroughfare": "31 Nouvelle-Place",
+      "postal": "18300",
+      "locality": "Sancerre",
+      "country": "France"
+    },
+    "price": "Prix - De 25 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "La Table des Blot - Auberge du Château",
+    "address": {
+      "thoroughfare": "1 Grande-Rue",
+      "postal": "78720",
+      "locality": "Dampierre-en-Yvelines",
+      "country": "France"
+    },
+    "price": "Prix - De 50 € à 105 €",
+    "stars": 1
+  },
+  {
+    "name": "Mariottat",
+    "address": {
+      "thoroughfare": "25 r. L.-Vivent",
+      "postal": "47000",
+      "locality": "Agen",
+      "country": "France"
+    },
+    "price": "Prix - De 27 € à 89 €",
+    "stars": 1
+  },
+  {
+    "name": "Ze Kitchen Galerie",
+    "address": {
+      "thoroughfare": "4 r. des Grands-Augustins",
+      "postal": "75006",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 41 € à 98 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Mas du Langoustier",
+    "address": {
+      "thoroughfare": "",
+      "postal": "83400",
+      "locality": "Hyères",
+      "country": "France"
+    },
+    "price": "Prix - De 95 € à 155 €",
+    "stars": 1
+  },
+  {
+    "name": "Roscanvec",
+    "address": {
+      "thoroughfare": "17 r. des Halles",
+      "postal": "56000",
+      "locality": "Vannes",
+      "country": "France"
+    },
+    "price": "Prix - De 25 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "Umami",
+    "address": {
+      "thoroughfare": "8 r. des Dentelles",
+      "postal": "67000",
+      "locality": "Strasbourg",
+      "country": "France"
+    },
+    "price": "Prix - De 57 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Atelier de Joël Robuchon - St-Germain",
+    "address": {
+      "thoroughfare": "5 r. de Montalembert",
+      "postal": "75007",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 80 € à 189 €",
+    "stars": 2
+  },
+  {
+    "name": "La Promenade",
+    "address": {
+      "thoroughfare": "2 promenade Jean-Jaurès",
+      "postal": "31590",
+      "locality": "Verfeil",
+      "country": "France"
+    },
+    "price": "Prix - De 28 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "Maison Prévôt",
+    "address": {
+      "thoroughfare": "353 av. de Verdun",
+      "postal": "84300",
+      "locality": "Cavaillon",
+      "country": "France"
+    },
+    "price": "Prix - De 34 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Chênes Verts",
+    "address": {
+      "thoroughfare": "rte de Villecroze",
+      "postal": "83690",
+      "locality": "Tourtour",
+      "country": "France"
+    },
+    "price": "Prix - De 59 € à 180 €",
+    "stars": 1
+  },
+  {
+    "name": "SaQuaNa",
+    "address": {
+      "thoroughfare": "22 pl. Hamelin",
+      "postal": "14600",
+      "locality": "Honfleur",
+      "country": "France"
+    },
+    "price": "Prix - De 90 € à 130 €",
+    "stars": 2
+  },
+  {
+    "name": "La Petite Maison de Cucuron",
+    "address": {
+      "thoroughfare": "pl. de l'Étang",
+      "postal": "84160",
+      "locality": "Cucuron",
+      "country": "France"
+    },
+    "price": "Prix - De 60 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "Avel Vor",
+    "address": {
+      "thoroughfare": "25 r. de Locmalo",
+      "postal": "56290",
+      "locality": "Port-Louis",
+      "country": "France"
+    },
+    "price": "Prix - De 31 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "La Table de Chaintré",
+    "address": {
+      "thoroughfare": "72 pl. du Luminaire",
+      "postal": "71570",
+      "locality": "Chaintré",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 60 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Puits du Trésor",
+    "address": {
+      "thoroughfare": "21 rte des Quatre-Châteaux",
+      "postal": "11600",
+      "locality": "Lastours",
+      "country": "France"
+    },
+    "price": "Prix - De 47 € à 93 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Gambetta",
+    "address": {
+      "thoroughfare": "12 r. Gambetta",
+      "postal": "49400",
+      "locality": "Saumur",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 107 €",
+    "stars": 1
+  },
+  {
+    "name": "Michel Trama",
+    "address": {
+      "thoroughfare": "52 r. Royale",
+      "postal": "47270",
+      "locality": "Puymirol",
+      "country": "France"
+    },
+    "price": "Prix - De 75 € à 215 €",
+    "stars": 2
+  },
+  {
+    "name": "Au Souper Fin",
+    "address": {
+      "thoroughfare": "1 rte de Clères",
+      "postal": "76690",
+      "locality": "Frichemesnil",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 75 €",
+    "stars": 1
+  },
+  {
+    "name": "La Closerie",
+    "address": {
+      "thoroughfare": "bd des Platanes",
+      "postal": "84240",
+      "locality": "Ansouis",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 85 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Lièvre Gourmand",
+    "address": {
+      "thoroughfare": "28 quai du Châtelet",
+      "postal": "45000",
+      "locality": "Orléans",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 74 €",
+    "stars": 1
+  },
+  {
+    "name": "Au Déjeuner de Sousceyrac",
+    "address": {
+      "thoroughfare": "r. Pierre-Benoit",
+      "postal": "46190",
+      "locality": "Sousceyrac",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Cercle",
+    "address": {
+      "thoroughfare": "44 bd Lahitolle",
+      "postal": "18000",
+      "locality": "Bourges",
+      "country": "France"
+    },
+    "price": "Prix - De 26 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Chiquito",
+    "address": {
+      "thoroughfare": "3 r. de l'Oise, La Bonneville",
+      "postal": "95540",
+      "locality": "Méry-sur-Oise",
+      "country": "France"
+    },
+    "price": "Prix - De 64 € à 77 €",
+    "stars": 1
+  },
+  {
+    "name": "Cayola",
+    "address": {
+      "thoroughfare": "76 promenade de Cayola",
+      "postal": "85180",
+      "locality": "Talmont-Saint-Hilaire",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Bistrot de Lagarde",
+    "address": {
+      "thoroughfare": "rte d'Apt",
+      "postal": "84400",
+      "locality": "Lagarde-d'Apt",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 82 €",
+    "stars": 1
+  },
+  {
+    "name": "La Ribaudière",
+    "address": {
+      "thoroughfare": "2 pl. du Port",
+      "postal": "16200",
+      "locality": "Bourg-Charente",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 115 €",
+    "stars": 1
+  },
+  {
+    "name": "Michel Sarran",
+    "address": {
+      "thoroughfare": "21 bd A.-Duportal",
+      "postal": "31000",
+      "locality": "Toulouse",
+      "country": "France"
+    },
+    "price": "Prix - De 57 € à 195 €",
+    "stars": 2
+  },
+  {
+    "name": "Hostellerie de Levernois",
+    "address": {
+      "thoroughfare": "15 r. du Golf",
+      "postal": "21200",
+      "locality": "Levernois",
+      "country": "France"
+    },
+    "price": "Prix - De 75 € à 127 €",
+    "stars": 1
+  },
+  {
+    "name": "Septime",
+    "address": {
+      "thoroughfare": "80 r. de Charonne",
+      "postal": "75011",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "Meulien",
+    "address": {
+      "thoroughfare": "1 bis av. des Alpes",
+      "postal": "71700",
+      "locality": "Tournus",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 98 €",
+    "stars": 1
+  },
+  {
+    "name": "Pertica",
+    "address": {
+      "thoroughfare": "15 pl. de la République",
+      "postal": "41100",
+      "locality": "Vendôme",
+      "country": "France"
+    },
+    "price": "Prix - De 36 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "En Pleine Nature",
+    "address": {
+      "thoroughfare": "6 pl. de la Mairie",
+      "postal": "31130",
+      "locality": "Fonsegrives",
+      "country": "France"
+    },
+    "price": "Prix - De 26 € à 78 €",
+    "stars": 1
+  },
+  {
+    "name": "Brikéténia",
+    "address": {
+      "thoroughfare": "142 r. de l'Église",
+      "postal": "64210",
+      "locality": "Guéthary",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 98 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge du Vert Mont",
+    "address": {
+      "thoroughfare": "1318 r. du Mont-Noir",
+      "postal": "59299",
+      "locality": "Boeschepe",
+      "country": "France"
+    },
+    "price": "Prix - De 21 € à 60 €",
+    "stars": 1
+  },
+  {
+    "name": "La Coquerie",
+    "address": {
+      "thoroughfare": "1 chemin du Cimetière-Marin",
+      "postal": "34200",
+      "locality": "Sète",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 65 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Favre d'Anne",
+    "address": {
+      "thoroughfare": "21 bd du Mar.-Foch",
+      "postal": "49000",
+      "locality": "Angers",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 105 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Camélia",
+    "address": {
+      "thoroughfare": "7 quai Georges Clemenceau",
+      "postal": "78380",
+      "locality": "Bougival",
+      "country": "France"
+    },
+    "price": "Prix - De 32 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Park 45",
+    "address": {
+      "thoroughfare": "45 bd de la Croisette",
+      "postal": "06400",
+      "locality": "Cannes",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 140 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge St-Jean",
+    "address": {
+      "thoroughfare": "8 r. du Pont",
+      "postal": "33420",
+      "locality": "Saint-Jean-de-Blaignac",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 70 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge du Dun",
+    "address": {
+      "thoroughfare": "3 rte de Dieppe",
+      "postal": "76740",
+      "locality": "Le Bourg-Dun",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "La Marande",
+    "address": {
+      "thoroughfare": "lieu-dit Mirande",
+      "postal": "71260",
+      "locality": "Montbellet",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "La Rastègue",
+    "address": {
+      "thoroughfare": "48 bd du Levant",
+      "postal": "83230",
+      "locality": "Bormes-les-Mimosas",
+      "country": "France"
+    },
+    "price": "Prix moyen - 49 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Foch",
+    "address": {
+      "thoroughfare": "37 bd Foch",
+      "postal": "51100",
+      "locality": "Reims",
+      "country": "France"
+    },
+    "price": "Prix - De 27 € à 69 €",
+    "stars": 1
+  },
+  {
+    "name": "Aux Terrasses",
+    "address": {
+      "thoroughfare": "18 av. du 23-Janvier",
+      "postal": "71700",
+      "locality": "Tournus",
+      "country": "France"
+    },
+    "price": "Prix - De 26 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "La Table d'Eugène",
+    "address": {
+      "thoroughfare": "18 r. Eugène-Sue",
+      "postal": "75018",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 120 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Village",
+    "address": {
+      "thoroughfare": "3 Grande-Rue",
+      "postal": "78160",
+      "locality": "Marly-le-Roi",
+      "country": "France"
+    },
+    "price": "Prix - De 40 € à 245 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Bon Accueil",
+    "address": {
+      "thoroughfare": "32 Grande-Rue",
+      "postal": "25160",
+      "locality": "Malbuisson",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 105 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Essentiel",
+    "address": {
+      "thoroughfare": "8 r. de la Clarté",
+      "postal": "24000",
+      "locality": "Périgueux",
+      "country": "France"
+    },
+    "price": "Prix - De 31 € à 99 €",
+    "stars": 1
+  },
+  {
+    "name": "La Gloire",
+    "address": {
+      "thoroughfare": "74 av. du Gén.-de-Gaulle",
+      "postal": "45200",
+      "locality": "Montargis",
+      "country": "France"
+    },
+    "price": "Prix - De 32 € à 105 €",
+    "stars": 1
+  },
+  {
+    "name": "Miraflores",
+    "address": {
+      "thoroughfare": "60 r. Garibaldi",
+      "postal": "69006",
+      "locality": "Lyon",
+      "country": "France"
+    },
+    "price": "Prix - De 70 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "Vieux Pont",
+    "address": {
+      "thoroughfare": "",
+      "postal": "12390",
+      "locality": "Belcastel",
+      "country": "France"
+    },
+    "price": "Prix - De 33 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "David Toutain",
+    "address": {
+      "thoroughfare": "29 r. Surcouf",
+      "postal": "75007",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 55 € à 140 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Atlantide 1874 - Maison Guého",
+    "address": {
+      "thoroughfare": "5 r. de l'Hermitage",
+      "postal": "44100",
+      "locality": "Nantes",
+      "country": "France"
+    },
+    "price": "Prix - De 32 € à 115 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Belvédère",
+    "address": {
+      "thoroughfare": "11 rte du Maquis-Jean-Pierre",
+      "postal": "12340",
+      "locality": "Bozouls",
+      "country": "France"
+    },
+    "price": "Prix - De 33 € à 101 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Moulin d'Alotz",
+    "address": {
+      "thoroughfare": "chemin Alotz-Errota",
+      "postal": "64200",
+      "locality": "Alotz",
+      "country": "France"
+    },
+    "price": "Prix - De 75 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "Tour d'Argent",
+    "address": {
+      "thoroughfare": "15 quai de la Tournelle",
+      "postal": "75005",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 105 € à 360 €",
+    "stars": 1
+  },
+  {
+    "name": "Étincelles - La Gentilhommière",
+    "address": {
+      "thoroughfare": "",
+      "postal": "24440",
+      "locality": "Sainte-Sabine",
+      "country": "France"
+    },
+    "price": "Prix - De 47 € à 117 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Jules Verne",
+    "address": {
+      "thoroughfare": "2<E>ème</E> étage Tour Eiffel",
+      "postal": "75007",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 105 € à 230 €",
+    "stars": 1
+  },
+  {
+    "name": "La Table des Cordeliers",
+    "address": {
+      "thoroughfare": "1 r. des Cordeliers",
+      "postal": "32100",
+      "locality": "Condom",
+      "country": "France"
+    },
+    "price": "Prix - De 60 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "Château du Mont Joly",
+    "address": {
+      "thoroughfare": "6 r. du Mont-Joly",
+      "postal": "39100",
+      "locality": "Sampans",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 108 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Prieuré",
+    "address": {
+      "thoroughfare": "r. de la Mairie",
+      "postal": "42820",
+      "locality": "Ambierle",
+      "country": "France"
+    },
+    "price": "Prix - De 24 € à 115 €",
+    "stars": 1
+  },
+  {
+    "name": "Au 14 Février",
+    "address": {
+      "thoroughfare": "36 r. du Bœuf",
+      "postal": "",
+      "locality": "Lyon 05",
+      "country": "France"
+    },
+    "price": "Prix moyen - 92 €",
+    "stars": 1
+  },
+  {
+    "name": "Mon Plaisir",
+    "address": {
+      "thoroughfare": "22 lieu-dit Journal",
+      "postal": "25190",
+      "locality": "Chamesol",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "Côté Jardin",
+    "address": {
+      "thoroughfare": "14 rte de Bourges",
+      "postal": "45500",
+      "locality": "Gien",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Pily",
+    "address": {
+      "thoroughfare": "39 Grande-Rue",
+      "postal": "50100",
+      "locality": "Cherbourg-en-Cotentin",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 115 €",
+    "stars": 1
+  },
+  {
+    "name": "Jérémy Galvan",
+    "address": {
+      "thoroughfare": "Rue du Boeuf",
+      "postal": "69005",
+      "locality": "Lyon 05",
+      "country": "France"
+    },
+    "price": "Prix - De 33 € à 105 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Cerf",
+    "address": {
+      "thoroughfare": "30 r. du Gén.-de-Gaulle",
+      "postal": "67520",
+      "locality": "Marlenheim",
+      "country": "France"
+    },
+    "price": "Prix - De 47 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Aubergade",
+    "address": {
+      "thoroughfare": "78 rte Nationale",
+      "postal": "80480",
+      "locality": "Dury",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "La Ville Blanche",
+    "address": {
+      "thoroughfare": "La Ville Blanche",
+      "postal": "22300",
+      "locality": "Rospez",
+      "country": "France"
+    },
+    "price": "Prix - De 37 € à 85 €",
+    "stars": 1
+  },
+  {
+    "name": "La Roya",
+    "address": {
+      "thoroughfare": "plage de la Roya",
+      "postal": "20217",
+      "locality": "Saint-Florent",
+      "country": "France"
+    },
+    "price": "Prix - De 55 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "Château Blanchard",
+    "address": {
+      "thoroughfare": "36 rte de St-Galmier",
+      "postal": "42140",
+      "locality": "Chazelles-sur-Lyon",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 85 €",
+    "stars": 1
+  },
+  {
+    "name": "La Robe",
+    "address": {
+      "thoroughfare": "3 pl. Reveillère-Lepeaux",
+      "postal": "85600",
+      "locality": "Montaigu",
+      "country": "France"
+    },
+    "price": "Prix - De 24 € à 70 €",
+    "stars": 1
+  },
+  {
+    "name": "Lou Cigalon-Maison Martin",
+    "address": {
+      "thoroughfare": "6 bd Carnot",
+      "postal": "06560",
+      "locality": "Valbonne",
+      "country": "France"
+    },
+    "price": "Prix - De 25 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge Le Prieuré",
+    "address": {
+      "thoroughfare": "4 Grand'Rue",
+      "postal": "47310",
+      "locality": "Moirax",
+      "country": "France"
+    },
+    "price": "Prix - De 28 € à 76 €",
+    "stars": 1
+  },
+  {
+    "name": "Table - Bruno Verjus",
+    "address": {
+      "thoroughfare": "3 r. de Prague",
+      "postal": "75012",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 70 € à 150 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Alchémille",
+    "address": {
+      "thoroughfare": "53 rte de Lapoutroie",
+      "postal": "68240",
+      "locality": "Kaysersberg",
+      "country": "France"
+    },
+    "price": "Prix - De 24 € à 79 €",
+    "stars": 1
+  },
+  {
+    "name": "Haut Bonheur de la Table",
+    "address": {
+      "thoroughfare": "18 Grand-Place",
+      "postal": "59670",
+      "locality": "Cassel",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 50 €",
+    "stars": 1
+  },
+  {
+    "name": "Au 14 Février",
+    "address": {
+      "thoroughfare": "Le Plâtre-Durand",
+      "postal": "71570",
+      "locality": "Saint-Amour-Bellevue",
+      "country": "France"
+    },
+    "price": "Prix - De 52 € à 92 €",
+    "stars": 2
+  },
+  {
+    "name": "Le Sérac",
+    "address": {
+      "thoroughfare": "22 r. de la Comtesse",
+      "postal": "74170",
+      "locality": "Saint-Gervais-les-Bains",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 68 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Pêché Gourmand",
+    "address": {
+      "thoroughfare": "2 rte de Gap",
+      "postal": "05100",
+      "locality": "Briançon",
+      "country": "France"
+    },
+    "price": "Prix - De 26 € à 85 €",
+    "stars": 1
+  },
+  {
+    "name": "À Contre Sens",
+    "address": {
+      "thoroughfare": "8-10 r. des Croisiers",
+      "postal": "14000",
+      "locality": "Caen",
+      "country": "France"
+    },
+    "price": "Prix - De 26 € à 65 €",
+    "stars": 1
+  },
+  {
+    "name": "La Fourchette du Printemps",
+    "address": {
+      "thoroughfare": "30 r. du Printemps",
+      "postal": "75017",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 32 € à 77 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Moulin des Quatre Saisons",
+    "address": {
+      "thoroughfare": "r. Gallieni",
+      "postal": "72200",
+      "locality": "La Flèche",
+      "country": "France"
+    },
+    "price": "Prix - De 27 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "ES",
+    "address": {
+      "thoroughfare": "91 r. de Grenelle",
+      "postal": "75007",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 105 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Éveil des Sens",
+    "address": {
+      "thoroughfare": "429 bd Paul-Lintier",
+      "postal": "53100",
+      "locality": "Mayenne",
+      "country": "France"
+    },
+    "price": "Prix - De 22 € à 73 €",
+    "stars": 1
+  },
+  {
+    "name": "Val d'Auge",
+    "address": {
+      "thoroughfare": "805 av. du Gén.-de-Gaulle",
+      "postal": "59910",
+      "locality": "Bondues",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Orée de la Forêt",
+    "address": {
+      "thoroughfare": "255 r. de la Forêt",
+      "postal": "60600",
+      "locality": "Étouy",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 115 €",
+    "stars": 1
+  },
+  {
+    "name": "Yam'Tcha",
+    "address": {
+      "thoroughfare": "121 r. St-Honoré",
+      "postal": "75001",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 70 € à 150 €",
+    "stars": 1
+  },
+  {
+    "name": "La Bonne Auberge",
+    "address": {
+      "thoroughfare": "15 r. Nationale",
+      "postal": "57350",
+      "locality": "Stiring-Wendel",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 130 €",
+    "stars": 1
+  },
+  {
+    "name": "Henri et Joseph",
+    "address": {
+      "thoroughfare": "4 r. Léo-le-Bourgo",
+      "postal": "56100",
+      "locality": "Lorient",
+      "country": "France"
+    },
+    "price": "Prix - De 31 € à 108 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Pyrénées",
+    "address": {
+      "thoroughfare": "19 pl. Ch.-de-Gaulle",
+      "postal": "64220",
+      "locality": "Saint-Jean-Pied-de-Port",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 115 €",
+    "stars": 1
+  },
+  {
+    "name": "Gaya Rive Gauche par Pierre Gagnaire",
+    "address": {
+      "thoroughfare": "44 r. du Bac",
+      "postal": "75007",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "Château de la Treyne",
+    "address": {
+      "thoroughfare": "",
+      "postal": "46200",
+      "locality": "Lacave",
+      "country": "France"
+    },
+    "price": "Prix - De 50 € à 145 €",
+    "stars": 1
+  },
+  {
+    "name": "Gavroche",
+    "address": {
+      "thoroughfare": "4 r. Klein",
+      "postal": "67000",
+      "locality": "Strasbourg",
+      "country": "France"
+    },
+    "price": "Prix - De 37 € à 94 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Tables de Gaspard",
+    "address": {
+      "thoroughfare": "r. Principale",
+      "postal": "05600",
+      "locality": "St-Crépin",
+      "country": "France"
+    },
+    "price": "Prix - De 24 € à 65 €",
+    "stars": 1
+  },
+  {
+    "name": "Mickaël Féval",
+    "address": {
+      "thoroughfare": "11 Petite-Rue-St-Jean",
+      "postal": "13100",
+      "locality": "Aix-en-Provence",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Neuvième Art",
+    "address": {
+      "thoroughfare": "173 r. Cuvier",
+      "postal": "69006",
+      "locality": "Lyon",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 150 €",
+    "stars": 2
+  },
+  {
+    "name": "St-James Paris",
+    "address": {
+      "thoroughfare": "43 av. Bugeaud",
+      "postal": "75116",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 105 € à 160 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Château de Sable",
+    "address": {
+      "thoroughfare": "38 r. de l'Europe",
+      "postal": "29840",
+      "locality": "Porspoder",
+      "country": "France"
+    },
+    "price": "Prix - De 20 € à 150 €",
+    "stars": 1
+  },
+  {
+    "name": "Saturne",
+    "address": {
+      "thoroughfare": "17 r. N.-D.-des-Victoires",
+      "postal": "75002",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 85 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Montgomerie",
+    "address": {
+      "thoroughfare": "356 rte de l'Altiport",
+      "postal": "73120",
+      "locality": "Courchevel 1850",
+      "country": "France"
+    },
+    "price": "Prix - De 185 € à 300 €",
+    "stars": 2
+  },
+  {
+    "name": "Intuition",
+    "address": {
+      "thoroughfare": "1 r. Alsace-Lorraine",
+      "postal": "50000",
+      "locality": "Saint-Lô",
+      "country": "France"
+    },
+    "price": "Prix - De 20 € à 67 €",
+    "stars": 1
+  },
+  {
+    "name": "Palm Beach",
+    "address": {
+      "thoroughfare": "route des Iles Sanguinaires",
+      "postal": "20000",
+      "locality": "Ajaccio",
+      "country": "France"
+    },
+    "price": "Prix - De 69 € à 119 €",
+    "stars": 1
+  },
+  {
+    "name": "Laurent",
+    "address": {
+      "thoroughfare": "41 av. Gabriel",
+      "postal": "75008",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 95 € à 245 €",
+    "stars": 1
+  },
+  {
+    "name": "Transparence \"La Table de Patrick Fréchin\"",
+    "address": {
+      "thoroughfare": "28 r. Stanislas",
+      "postal": "54000",
+      "locality": "Nancy",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 70 €",
+    "stars": 1
+  },
+  {
+    "name": "Clovis",
+    "address": {
+      "thoroughfare": "21 Grand-Rue",
+      "postal": "06140",
+      "locality": "Tourrettes-sur-Loup",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Aromate",
+    "address": {
+      "thoroughfare": "2 r. Gustave Deloye",
+      "postal": "06000",
+      "locality": "Nice",
+      "country": "France"
+    },
+    "price": "Prix - De 70 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "Allium",
+    "address": {
+      "thoroughfare": "88 bd de Créac'h-Gwen",
+      "postal": "29000",
+      "locality": "Quimper",
+      "country": "France"
+    },
+    "price": "Prix - De 28 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "Maison Crouzil et Hôtel L'Écrin",
+    "address": {
+      "thoroughfare": "20 les Quais",
+      "postal": "22130",
+      "locality": "Plancoët",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 138 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Pot d'Étain",
+    "address": {
+      "thoroughfare": "4 av. de la République",
+      "postal": "90400",
+      "locality": "Danjoutin",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 110 €",
+    "stars": 1
+  },
+  {
+    "name": "Baumanière 1850",
+    "address": {
+      "thoroughfare": "rte de Bellecôte",
+      "postal": "73120",
+      "locality": "Courchevel 1850",
+      "country": "France"
+    },
+    "price": "Prix - De 160 € à 220 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Hysope",
+    "address": {
+      "thoroughfare": "25 r. de l'Aurore",
+      "postal": "17220",
+      "locality": "La Jarrie",
+      "country": "France"
+    },
+    "price": "Prix - De 24 € à 125 €",
+    "stars": 1
+  },
+  {
+    "name": "Étude",
+    "address": {
+      "thoroughfare": "14 r. Bouquet-de-Longchamp",
+      "postal": "75016",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Océan",
+    "address": {
+      "thoroughfare": "43 bd Thiers",
+      "postal": "64500",
+      "locality": "Saint-Jean-de-Luz",
+      "country": "France"
+    },
+    "price": "Prix - De 75 € à 105 €",
+    "stars": 1
+  },
+  {
+    "name": "Château de Codignat",
+    "address": {
+      "thoroughfare": "Bort l'Etang",
+      "postal": "63190",
+      "locality": "Bort-l'Étang",
+      "country": "France"
+    },
+    "price": "Prix - De 57 € à 130 €",
+    "stars": 1
+  },
+  {
+    "name": "Le St-Martin",
+    "address": {
+      "thoroughfare": "1 r. du Gén.-Leclerc",
+      "postal": "25200",
+      "locality": "Montbéliard",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 78 €",
+    "stars": 1
+  },
+  {
+    "name": "Les Genêts",
+    "address": {
+      "thoroughfare": "21 bis Rue de l'Océan",
+      "postal": "85470",
+      "locality": "Brem-sur-Mer",
+      "country": "France"
+    },
+    "price": "Prix - De 21 € à 59 €",
+    "stars": 1
+  },
+  {
+    "name": "La Marine",
+    "address": {
+      "thoroughfare": "11 r. de Paris",
+      "postal": "50270",
+      "locality": "Barneville-Carteret",
+      "country": "France"
+    },
+    "price": "Prix - De 44 € à 120 €",
+    "stars": 1
+  },
+  {
+    "name": "La Vieille Tour",
+    "address": {
+      "thoroughfare": "75 r. de la Tour",
+      "postal": "22190",
+      "locality": "Plérin",
+      "country": "France"
+    },
+    "price": "Prix - De 24 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "Azimut",
+    "address": {
+      "thoroughfare": "273 r. de la Madelon",
+      "postal": "73120",
+      "locality": "Courchevel-Saint-Bon",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "Pages",
+    "address": {
+      "thoroughfare": "4 r. Auguste-Vacquerie",
+      "postal": "75016",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 50 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge St-Walfrid",
+    "address": {
+      "thoroughfare": "58 r. de Grosbliederstroff",
+      "postal": "57200",
+      "locality": "Sarreguemines",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 128 €",
+    "stars": 1
+  },
+  {
+    "name": "Rodolphe",
+    "address": {
+      "thoroughfare": "35 r. Percière",
+      "postal": "76000",
+      "locality": "Rouen",
+      "country": "France"
+    },
+    "price": "Prix - De 32 € à 115 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Émulsion",
+    "address": {
+      "thoroughfare": "57 rte de Lyon",
+      "postal": "38080",
+      "locality": "Saint-Alban-de-Roche",
+      "country": "France"
+    },
+    "price": "Prix - De 18 € à 65 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Clos St-Pierre",
+    "address": {
+      "thoroughfare": "pl. de la Mairie",
+      "postal": "06650",
+      "locality": "Le Rouret",
+      "country": "France"
+    },
+    "price": "Prix - De 40 € à 69 €",
+    "stars": 1
+  },
+  {
+    "name": "Garance",
+    "address": {
+      "thoroughfare": "34 r. St-Dominique",
+      "postal": "75007",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 90 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Grand Restaurant - Jean-François Piège",
+    "address": {
+      "thoroughfare": "7 r. d'Aguesseau",
+      "postal": "75008",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 85 € à 616 €",
+    "stars": 2
+  },
+  {
+    "name": "Château de Vauchoux",
+    "address": {
+      "thoroughfare": "",
+      "postal": "70170",
+      "locality": "Vauchoux",
+      "country": "France"
+    },
+    "price": "Prix - De 78 € à 148 €",
+    "stars": 1
+  },
+  {
+    "name": "Racine",
+    "address": {
+      "thoroughfare": "6 pl. Godinot",
+      "postal": "51100",
+      "locality": "Reims",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 95 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Pavillon",
+    "address": {
+      "thoroughfare": "av. du Verger",
+      "postal": "62520",
+      "locality": "Le Touquet-Paris-Plage",
+      "country": "France"
+    },
+    "price": "Prix - De 65 € à 155 €",
+    "stars": 1
+  },
+  {
+    "name": "U Santa Marina",
+    "address": {
+      "thoroughfare": "Marina di Santa Giulia",
+      "postal": "20137",
+      "locality": "Porto-Vecchio",
+      "country": "France"
+    },
+    "price": "Prix - De 69 € à 125 €",
+    "stars": 1
+  },
+  {
+    "name": "Auberge du Paradis",
+    "address": {
+      "thoroughfare": "Le Plâtre-Durand",
+      "postal": "71570",
+      "locality": "Saint-Amour-Bellevue",
+      "country": "France"
+    },
+    "price": "Prix moyen - 73 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Pousse-Pied",
+    "address": {
+      "thoroughfare": "84 bd des Vendéens",
+      "postal": "85360",
+      "locality": "La Tranche-sur-Mer",
+      "country": "France"
+    },
+    "price": "Prix - De 17 € à 48 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Marcq",
+    "address": {
+      "thoroughfare": "944 av. de la République",
+      "postal": "59700",
+      "locality": "Marcq-en-Barœul",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 85 €",
+    "stars": 1
+  },
+  {
+    "name": "Palégrié",
+    "address": {
+      "thoroughfare": "Les Ritons",
+      "postal": "38250",
+      "locality": "Corrençon-en-Vercors",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 88 €",
+    "stars": 1
+  },
+  {
+    "name": "Pèir",
+    "address": {
+      "thoroughfare": "r. de la Combe",
+      "postal": "84220",
+      "locality": "Gordes",
+      "country": "France"
+    },
+    "price": "Prix - De 75 € à 280 €",
+    "stars": 1
+  },
+  {
+    "name": "La Table by La Villa",
+    "address": {
+      "thoroughfare": "chemin de Notre-Dame-de-la-Serra",
+      "postal": "20260",
+      "locality": "Calvi",
+      "country": "France"
+    },
+    "price": "Prix - De 85 € à 130 €",
+    "stars": 1
+  },
+  {
+    "name": "Garopapilles",
+    "address": {
+      "thoroughfare": "62 r. Abbé-de-L'Epée",
+      "postal": "33000",
+      "locality": "Bordeaux",
+      "country": "France"
+    },
+    "price": "Prix - De 28 € à 75 €",
+    "stars": 1
+  },
+  {
+    "name": "Pertinence",
+    "address": {
+      "thoroughfare": "29 r. de l'Exposition",
+      "postal": "75007",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 120 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Chateaubriand",
+    "address": {
+      "thoroughfare": "129 av. Parmentier",
+      "postal": "75011",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 70 € à 135 €",
+    "stars": 1
+  },
+  {
+    "name": "Pierre Reboul",
+    "address": {
+      "thoroughfare": "260 r. Guillaume-du-Vair",
+      "postal": "13546",
+      "locality": "Aix-en-Provence",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 155 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Skiff Club",
+    "address": {
+      "thoroughfare": "1 av. Louis-Gaume",
+      "postal": "33260",
+      "locality": "La Teste-de-Buch",
+      "country": "France"
+    },
+    "price": "Prix - De 85 € à 130 €",
+    "stars": 1
+  },
+  {
+    "name": "Jérôme Feck",
+    "address": {
+      "thoroughfare": "19 pl. Mgr-Tissier",
+      "postal": "51000",
+      "locality": "Châlons-en-Champagne",
+      "country": "France"
+    },
+    "price": "Prix - De 65 € à 108 €",
+    "stars": 1
+  },
+  {
+    "name": "Ken Kawasaki",
+    "address": {
+      "thoroughfare": "15 r. Caulaincourt",
+      "postal": "75018",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 70 €",
+    "stars": 1
+  },
+  {
+    "name": "Akrame",
+    "address": {
+      "thoroughfare": "7 r. Tronchet",
+      "postal": "75008",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 65 € à 160 €",
+    "stars": 1
+  },
+  {
+    "name": "Le Grand Cap",
+    "address": {
+      "thoroughfare": "chemin du Phare",
+      "postal": "11370",
+      "locality": "Leucate",
+      "country": "France"
+    },
+    "price": "Prix - De 34 € à 130 €",
+    "stars": 1
+  },
+  {
+    "name": "Jean Chauvel",
+    "address": {
+      "thoroughfare": "33 av. Général-Leclerc",
+      "postal": "92100",
+      "locality": "Boulogne-Billancourt",
+      "country": "France"
+    },
+    "price": "Prix - De 76 € à 98 €",
+    "stars": 1
+  },
+  {
+    "name": "Comice",
+    "address": {
+      "thoroughfare": "31 av. de Versailles",
+      "postal": "75016",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 60 € à 120 €",
+    "stars": 1
+  },
+  {
+    "name": "Restaurant H",
+    "address": {
+      "thoroughfare": "13 r. Jean-Beausire",
+      "postal": "75004",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 36 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "Sushi B",
+    "address": {
+      "thoroughfare": "5 r. Rameau",
+      "postal": "75002",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 58 € à 160 €",
+    "stars": 1
+  },
+  {
+    "name": "La Table de la Ferme",
+    "address": {
+      "thoroughfare": "Vallée de l'Ortolo",
+      "postal": "20100",
+      "locality": "Sartène",
+      "country": "France"
+    },
+    "price": "Prix - De 125 € à 195 €",
+    "stars": 1
+  },
+  {
+    "name": "Divellec",
+    "address": {
+      "thoroughfare": "18 r. Fabert",
+      "postal": "75007",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 210 €",
+    "stars": 1
+  },
+  {
+    "name": "Jean Sulpice",
+    "address": {
+      "thoroughfare": "303 rte du Port",
+      "postal": "74290",
+      "locality": "Talloires",
+      "country": "France"
+    },
+    "price": "Prix - De 98 € à 240 €",
+    "stars": 2
+  },
+  {
+    "name": "Montée",
+    "address": {
+      "thoroughfare": "9 r. Léopold-Robert",
+      "postal": "75014",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 32 € à 80 €",
+    "stars": 1
+  },
+  {
+    "name": "La Merise",
+    "address": {
+      "thoroughfare": "7 r. d'Eschbach",
+      "postal": "67580",
+      "locality": "Laubach",
+      "country": "France"
+    },
+    "price": "Prix - De 23 € à 85 €",
+    "stars": 1
+  },
+  {
+    "name": "L'Auberge de Bagatelle",
+    "address": {
+      "thoroughfare": "489 av. Bollée",
+      "postal": "72000",
+      "locality": "Le Mans",
+      "country": "France"
+    },
+    "price": "Prix - De 27 € à 100 €",
+    "stars": 1
+  },
+  {
+    "name": "Ima",
+    "address": {
+      "thoroughfare": "20 bd de la Tour-d'Auvergne",
+      "postal": "35000",
+      "locality": "Rennes",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 78 €",
+    "stars": 1
+  },
+  {
+    "name": "La Table d'Hôtes - Le Quatrième Mur",
+    "address": {
+      "thoroughfare": "2 pl. de la Comédie",
+      "postal": "33000",
+      "locality": "Bordeaux",
+      "country": "France"
+    },
+    "price": "Prix moyen - 150 €",
+    "stars": 1
+  },
+  {
+    "name": "Quinsou",
+    "address": {
+      "thoroughfare": "33 r. de l'Abbé-Grégoire",
+      "postal": "75006",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 65 €",
+    "stars": 1
+  }
+]

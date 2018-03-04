@@ -1,0 +1,4044 @@
+[
+  {
+    "name": "Le 39V",
+    "address": {
+      "thoroughfare": "39 Avenue George V",
+      "postal": "75008",
+      "locality": "Paris 08",
+      "country": "France"
+    },
+    "price": "Prix - De 39.5 € à 155 €",
+    "stars": 1,
+    "deal": [
+      "Menu Mardis Gourmands 135€ le soir",
+      "Menu Mardis Gourmands 85€ le midi"
+    ]
+  },
+  {
+    "name": "La Table de Franck Putelat",
+    "address": {
+      "thoroughfare": "80 chemin des Anglais",
+      "postal": "11000",
+      "locality": "Carcassonne",
+      "country": "France"
+    },
+    "price": "Prix - De 40 € à 160 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Fanny Rey & Jonathan Wahid",
+    "address": {
+      "thoroughfare": "12, boulevard Mirabeau",
+      "postal": "13210",
+      "locality": "SAINT REMY DE PROVENCE",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 150 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Restaurant",
+    "address": {
+      "thoroughfare": "13 rue des Beaux-Arts",
+      "postal": "75006",
+      "locality": "Paris 06",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 124 €",
+    "stars": 1,
+    "deal": [
+      "-50% off food bill! Festival! Limited seats!"
+    ]
+  },
+  {
+    "name": "Le Violon d'Ingres",
+    "address": {
+      "thoroughfare": "135 Rue Saint-Dominique",
+      "postal": "75007",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 130 €",
+    "stars": 1,
+    "deal": [
+      "-40% off the \"à la carte\" menu!",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Patrick Jeffroy",
+    "address": {
+      "thoroughfare": "20 rue du Kelenn",
+      "postal": "29660",
+      "locality": "Carantec",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 149 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Hostellerie de l'Abbaye de la Celle",
+    "address": {
+      "thoroughfare": "10 Place Général de Gaulle",
+      "postal": "83170",
+      "locality": "La Celle",
+      "country": "France"
+    },
+    "price": "Prix - De 40 € à 140 €",
+    "stars": 1,
+    "deal": [
+      "Menu 125€",
+      "Menu 98€"
+    ]
+  },
+  {
+    "name": "Sur Mesure par Thierry Marx",
+    "address": {
+      "thoroughfare": "251 Rue Saint Honoré",
+      "postal": "75001",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 85 € à 210 €",
+    "stars": 2,
+    "deal": [
+      "« Diner » menu from 190€ to 250€",
+      "« Lunch » menu from 85€ to 150€"
+    ]
+  },
+  {
+    "name": "Les Tablettes de Jean-Louis Nomicos",
+    "address": {
+      "thoroughfare": "16 Avenue Bugeaud",
+      "postal": "75016",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 58 € à 141 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Paloma",
+    "address": {
+      "thoroughfare": "47 Avenue du Moulin de la Croix",
+      "postal": "06250",
+      "locality": "Mougins",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 185 €",
+    "stars": 2,
+    "deal": [
+      "Easter Lunch - Sunday, April 1st, 2018 Menu 180€"
+    ]
+  },
+  {
+    "name": "L'Almandin",
+    "address": {
+      "thoroughfare": "Boulevard de l'Almandin",
+      "postal": "66750",
+      "locality": "Saint-Cyprien",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 108 €",
+    "stars": 1,
+    "deal": [
+      "Menu 35€"
+    ]
+  },
+  {
+    "name": "Le Relais Bernard Loiseau",
+    "address": {
+      "thoroughfare": "2, rue d'Argentine",
+      "postal": "21210",
+      "locality": "Saulieu",
+      "country": "France"
+    },
+    "price": "Prix - De 75 € à 250 €",
+    "stars": 2,
+    "deal": [
+      "Menu 250€",
+      "Menu 150€",
+      "Menu 245€",
+      "Menu 195€",
+      "Menu 75€"
+    ]
+  },
+  {
+    "name": "Le Moulin du Roc",
+    "address": {
+      "thoroughfare": "Avenue Eugène Le Roy",
+      "postal": "24530",
+      "locality": "Champagnac-de-Belair",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 125 €",
+    "stars": 1,
+    "deal": [
+      "Menu 85€",
+      "Menu 125€",
+      "Menu 49€"
+    ]
+  },
+  {
+    "name": "Le Taillevent",
+    "address": {
+      "thoroughfare": "15 Rue Lamennais",
+      "postal": "75008",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 88 € à 230 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "1217",
+    "address": {
+      "thoroughfare": "le bourg",
+      "postal": "69620",
+      "locality": "Bagnols",
+      "country": "France"
+    },
+    "price": "Prix - De 65 € à 140 €",
+    "stars": 1,
+    "deal": [
+      "Menu Surprise Menu 140€",
+      "Menu 85€",
+      "Menu 65€",
+      "Set Menu 28€",
+      "Menu 32€",
+      "Menu 26€"
+    ]
+  },
+  {
+    "name": "Le Chiberta",
+    "address": {
+      "thoroughfare": "3 Rue Arsène Houssaye",
+      "postal": "75008",
+      "locality": "Paris 08",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 120 €",
+    "stars": 1,
+    "deal": [
+      "Menu Découverte 110€"
+    ]
+  },
+  {
+    "name": "La Barbacane",
+    "address": {
+      "thoroughfare": "Place Auguste-Pierre-Pont",
+      "postal": "11000",
+      "locality": "Carcassonne",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 145 €",
+    "stars": 1,
+    "deal": [
+      "Menu 95€",
+      "Menu Déjeuner 39€"
+    ]
+  },
+  {
+    "name": "La Dame de Pic",
+    "address": {
+      "thoroughfare": "20 Rue du Louvre",
+      "postal": "75001",
+      "locality": "Paris 01",
+      "country": "France"
+    },
+    "price": "Prix - De 59 € à 105 €",
+    "stars": 1,
+    "deal": [
+      "Menu 135€",
+      "Menu 105€",
+      "Menu 59€"
+    ]
+  },
+  {
+    "name": "Au Trou Gascon",
+    "address": {
+      "thoroughfare": "40 rue Taine",
+      "postal": "75012",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 80 €",
+    "stars": 1,
+    "deal": [
+      "Menu Gourmands 89€"
+    ]
+  },
+  {
+    "name": "Dominique Bouchet",
+    "address": {
+      "thoroughfare": "11 Rue Treilhard",
+      "postal": "75008",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 58 € à 125 €",
+    "stars": 1,
+    "deal": [
+      "-20% on « MENU AVEC SAKE », or 120,00 € instead of 150,00 €!"
+    ]
+  },
+  {
+    "name": "Le Hittau",
+    "address": {
+      "thoroughfare": "1 rue du Nouaou",
+      "postal": "40230",
+      "locality": "SAINT-VINCENT-DE-TYROSSE",
+      "country": "France"
+    },
+    "price": "Prix - De 26 € à 82 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "La Bastide de Moustiers",
+    "address": {
+      "thoroughfare": "Parc naturel régional du Verdon, Chemin de Quinson",
+      "postal": "04360",
+      "locality": "Moustiers-Sainte-Marie",
+      "country": "France"
+    },
+    "price": "Prix - De 60 € à 90 €",
+    "stars": 1,
+    "deal": [
+      "Menu 98€"
+    ]
+  },
+  {
+    "name": "En Marge",
+    "address": {
+      "thoroughfare": "1204 route de la Croix-Falgarde",
+      "postal": "31320",
+      "locality": "AUREVILLE",
+      "country": "France"
+    },
+    "price": "Prix - De 34 € à 145 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Auberge du Vieux Puits",
+    "address": {
+      "thoroughfare": "5 Avenue Saint-Victor",
+      "postal": "11360",
+      "locality": "Fontjoncouse",
+      "country": "France"
+    },
+    "price": "Prix - De 120 € à 195 €",
+    "stars": 3,
+    "deal": [
+      "Menu 29.90€"
+    ]
+  },
+  {
+    "name": "Bruno",
+    "address": {
+      "thoroughfare": "2350 route des Arcs, Campagne Mariette",
+      "postal": "83510",
+      "locality": "Lorgues",
+      "country": "France"
+    },
+    "price": "Prix - De 73 € à 190 €",
+    "stars": 1,
+    "deal": [
+      "-20% off the \"à la carte\" menu, including drinks!"
+    ]
+  },
+  {
+    "name": "La Maison de Bournissac",
+    "address": {
+      "thoroughfare": "montée d'Eyragues",
+      "postal": "13550",
+      "locality": "Les Paluds-des-Noves",
+      "country": "France"
+    },
+    "price": "Prix - De 34 € à 105 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Les Bas-Rupts",
+    "address": {
+      "thoroughfare": "181 rte de la Bresse",
+      "postal": "88400",
+      "locality": "Bas-Rupts",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 98 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Il Carpaccio",
+    "address": {
+      "thoroughfare": "37 avenue Hoche",
+      "postal": "75008",
+      "locality": "Paris 08",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 145 €",
+    "stars": 1,
+    "deal": [
+      "Le Grand Déjeuner à l’Italienne 126€",
+      "Set Menu 59€"
+    ]
+  },
+  {
+    "name": "La Table de Patrick Raingeard",
+    "address": {
+      "thoroughfare": "1312 av. Raymond-Poincaré",
+      "postal": "06360",
+      "locality": "EZE-BORD-DE-MER",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 150 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Yoann Conte",
+    "address": {
+      "thoroughfare": "13 Vieille-Route-des-Pensières",
+      "postal": "74290",
+      "locality": "Veyrier-du-Lac",
+      "country": "France"
+    },
+    "price": "Prix - De 98 € à 225 €",
+    "stars": 2,
+    "deal": [
+      "Menu 160€",
+      "Menu 169€",
+      "Menu 98€"
+    ]
+  },
+  {
+    "name": "Sylvestre",
+    "address": {
+      "thoroughfare": "79 rue St-Dominique",
+      "postal": "75007",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 55 € à 250 €",
+    "stars": 2,
+    "deal": [
+      "Menu 85€"
+    ]
+  },
+  {
+    "name": "L'Atelier d'Edmond",
+    "address": {
+      "thoroughfare": "au Fornet",
+      "postal": "73150",
+      "locality": "Val-d'Isère",
+      "country": "France"
+    },
+    "price": "Prix - De 95 € à 155 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Auguste",
+    "address": {
+      "thoroughfare": "54 r. Bourgogne",
+      "postal": "75007",
+      "locality": "Paris 07",
+      "country": "France"
+    },
+    "price": "Prix - De 37 € à 100 €",
+    "stars": 1,
+    "deal": [
+      "Gourmand Menu 118€ All inclusive",
+      "Menu  88€",
+      "Lunch Menu 37€"
+    ]
+  },
+  {
+    "name": "Pierre Orsi",
+    "address": {
+      "thoroughfare": "Place Kléber",
+      "postal": "69006",
+      "locality": "Lyon 06",
+      "country": "France"
+    },
+    "price": "Prix - De 60 € à 115 €",
+    "stars": 1,
+    "deal": [
+      "Menu Mardis Gourmands 150€"
+    ]
+  },
+  {
+    "name": "Loiseau rive Gauche",
+    "address": {
+      "thoroughfare": "5 rue de Bourgogne",
+      "postal": "75007",
+      "locality": "Paris 07",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 95 €",
+    "stars": 1,
+    "deal": [
+      "Menu 160€",
+      "Menu Ephémère 45€",
+      "Menu Plein Champ 75€",
+      "Menu Climat de Saison 82€",
+      "Menu Plein Champ 105€"
+    ]
+  },
+  {
+    "name": "Loiseau des Vignes",
+    "address": {
+      "thoroughfare": "31 Rue Jean Francois Maufoux",
+      "postal": "21200",
+      "locality": "Beaune",
+      "country": "France"
+    },
+    "price": "Prix - De 23 € à 119 €",
+    "stars": 1,
+    "deal": [
+      "Menu 119€",
+      "Menu 95€",
+      "Menu 75€",
+      "Menu 59€",
+      "Menu 35€",
+      "Set Menu 25€"
+    ]
+  },
+  {
+    "name": "Hostellerie du Rosenmeer",
+    "address": {
+      "thoroughfare": "45 avenue de la Gare",
+      "postal": "67560",
+      "locality": "ROSHEIM",
+      "country": "France"
+    },
+    "price": "Prix - De 36 € à 80 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Initial",
+    "address": {
+      "thoroughfare": "24 Rue Saint-Manvieu",
+      "postal": "14000",
+      "locality": "Caen",
+      "country": "France"
+    },
+    "price": "Prix - De 19 € à 70 €",
+    "stars": 1,
+    "deal": [
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "L'Auberge de la Pomme",
+    "address": {
+      "thoroughfare": "44 rue de l' eure",
+      "postal": "27340",
+      "locality": "Les Damps",
+      "country": "France"
+    },
+    "price": "Prix - De 27 € à 85 €",
+    "stars": 1,
+    "deal": [
+      "Menu 70€",
+      "Menu 56€"
+    ]
+  },
+  {
+    "name": "Le M",
+    "address": {
+      "thoroughfare": "22 r. du Cdt-Drogou",
+      "postal": "29200",
+      "locality": "Brest",
+      "country": "France"
+    },
+    "price": "Prix - De 44 € à 90 €",
+    "stars": 1,
+    "deal": [
+      "-30% off the \"à la carte\" menu!",
+      "Group Special: Menu 28€ (10 to 1000 p.)",
+      "Set Menu 19,80€"
+    ]
+  },
+  {
+    "name": "Le Prince Noir - Vivien Durand",
+    "address": {
+      "thoroughfare": "1 rue du Prince Noir",
+      "postal": "33310",
+      "locality": "Lormont",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 97 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Moulin de la Gorce",
+    "address": {
+      "thoroughfare": "D17",
+      "postal": "87800",
+      "locality": "La Roche-l'Abeille",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 85 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Chantecler",
+    "address": {
+      "thoroughfare": "37 Promenade des Anglais",
+      "postal": "06000",
+      "locality": "NICE",
+      "country": "France"
+    },
+    "price": "Prix moyen - 110 €",
+    "stars": 2,
+    "deal": [
+      "Menu 230€",
+      "Menu 180€",
+      "Menu Chantecler à 130€"
+    ]
+  },
+  {
+    "name": "L'Ekrin by Laurent Azoulay",
+    "address": {
+      "thoroughfare": "Route de la Montée",
+      "postal": "73550",
+      "locality": "MERIBEL",
+      "country": "France"
+    },
+    "price": "Prix - De 95 € à 230 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Clos des Sens",
+    "address": {
+      "thoroughfare": "13 r. J. -Mermoz",
+      "postal": "74940",
+      "locality": "Annecy",
+      "country": "France"
+    },
+    "price": "Prix - De 70 € à 190 €",
+    "stars": 2,
+    "deal": [
+      "Menu 70€",
+      "Menu \"Découverte Grande Fête \" en 10 saveurs 190€",
+      "Menu \"Découverte Plein d'Envies\" en 8 saveurs 160€",
+      "Menu \"Découverte Pour Voir...\" en 5 saveurs 120€"
+    ]
+  },
+  {
+    "name": "Le Baudelaire",
+    "address": {
+      "thoroughfare": "8 rue Duphot",
+      "postal": "75001",
+      "locality": "Paris 01",
+      "country": "France"
+    },
+    "price": "Prix - De 54 € à 180 €",
+    "stars": 1,
+    "deal": [
+      "-20% off the \"à la carte\" menu!",
+      "Menu Gourmands 130€"
+    ]
+  },
+  {
+    "name": "Hostellerie la Montagne",
+    "address": {
+      "thoroughfare": "10 rue Pisseloup",
+      "postal": "52330",
+      "locality": "COLOMBEY-LES-DEUX-EGLISES",
+      "country": "France"
+    },
+    "price": "Prix - De 28 € à 150 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Au Vieux Couvent",
+    "address": {
+      "thoroughfare": "6 r. des Chanoines",
+      "postal": "67860",
+      "locality": "Rhinau",
+      "country": "France"
+    },
+    "price": "Prix - De 37 € à 110 €",
+    "stars": 1,
+    "deal": [
+      "Menu 99€",
+      "Menu 73€",
+      "Menu Tentation 56€"
+    ]
+  },
+  {
+    "name": "Le Carmin",
+    "address": {
+      "thoroughfare": "4B Place Carnot",
+      "postal": "21200",
+      "locality": "Beaune",
+      "country": "France"
+    },
+    "price": "Prix - De 25 € à 100 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Entre Vigne et Garrigue",
+    "address": {
+      "thoroughfare": "600 route de Saint Bruno",
+      "postal": "30131",
+      "locality": "Pujaut",
+      "country": "France"
+    },
+    "price": "Prix - De 36 € à 100 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Une Table au Sud",
+    "address": {
+      "thoroughfare": "2 quai du Port",
+      "postal": "13002",
+      "locality": "Marseille",
+      "country": "France"
+    },
+    "price": "Prix - De 34 € à 135 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Greuze",
+    "address": {
+      "thoroughfare": "1 r. A. Thibaudet",
+      "postal": "71700",
+      "locality": "Tournus",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 135 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Maximin Hellio",
+    "address": {
+      "thoroughfare": "64 Rue Gambetta",
+      "postal": "14800",
+      "locality": "DEAUVILLE",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 125 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "La Rotonde",
+    "address": {
+      "thoroughfare": "200 avenue du Casino",
+      "postal": "69890",
+      "locality": "LA-TOUR-DE-SALVAGNY",
+      "country": "France"
+    },
+    "price": "Prix - De 37 € à 135 €",
+    "stars": 1,
+    "deal": [
+      "Menu Gourmands 135€"
+    ]
+  },
+  {
+    "name": "Le Refuge des Gourmets",
+    "address": {
+      "thoroughfare": "90 route des Framboises",
+      "postal": "74140",
+      "locality": "Machilly",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 103 €",
+    "stars": 1,
+    "deal": [
+      "Menu 35€"
+    ]
+  },
+  {
+    "name": "L'Oasis",
+    "address": {
+      "thoroughfare": "6 rue Jean-Honoré Carle",
+      "postal": "06210",
+      "locality": "La Napoule",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 149 €",
+    "stars": 2,
+    "deal": [
+      "-20% off the \"à la carte\" menu!",
+      "Menu Mardis Gourmands 125€"
+    ]
+  },
+  {
+    "name": "Auberge La Pomme d'Api",
+    "address": {
+      "thoroughfare": "49 r. Verderel",
+      "postal": "29250",
+      "locality": "Saint-Pol-de-Léon",
+      "country": "France"
+    },
+    "price": "Prix - De 25 € à 82 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Benoit",
+    "address": {
+      "thoroughfare": "20 Rue St-Martin",
+      "postal": "75004",
+      "locality": "Paris 04",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 100 €",
+    "stars": 1,
+    "deal": [
+      "-20% off the \"à la carte\" menu, including drinks!"
+    ]
+  },
+  {
+    "name": "La Madeleine",
+    "address": {
+      "thoroughfare": "1 Rue Alsace-Lorraine",
+      "postal": "89100",
+      "locality": "Sens",
+      "country": "France"
+    },
+    "price": "Prix - De 49.5 € à 67 €",
+    "stars": 1,
+    "deal": [
+      "-30% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Corot",
+    "address": {
+      "thoroughfare": "55 Rue de Versailles",
+      "postal": "92410",
+      "locality": "VILLE-D'AVRAY",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 110 €",
+    "stars": 1,
+    "deal": [
+      "Group Special: Menu 125€",
+      "Menu 130€",
+      "Menu 95€",
+      "Menu 48€"
+    ]
+  },
+  {
+    "name": "Hostellerie Les Gorges de Pennafort",
+    "address": {
+      "thoroughfare": "8660 RD 25",
+      "postal": "83830",
+      "locality": "Callas",
+      "country": "France"
+    },
+    "price": "Prix - De 59 € à 160 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "La Grande Cascade",
+    "address": {
+      "thoroughfare": "Bois de Boulogne, Carrefour de Longchamp",
+      "postal": "75016",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 89 € à 192 €",
+    "stars": 1,
+    "deal": [
+      "-40% off the \"à la carte\" menu"
+    ]
+  },
+  {
+    "name": "Le Jardin de Benjamin",
+    "address": {
+      "thoroughfare": "Route de Salernes",
+      "postal": "83510",
+      "locality": "Lorgues",
+      "country": "France"
+    },
+    "price": "Prix - De 55 € à 125 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Domaine de Rochevilaine",
+    "address": {
+      "thoroughfare": "à la Pointe de Pen Lan",
+      "postal": "56190",
+      "locality": "Billiers",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 77 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "1912",
+    "address": {
+      "thoroughfare": "bd de la Cahotte",
+      "postal": "14360",
+      "locality": "Trouville-sur-Mer",
+      "country": "France"
+    },
+    "price": "Prix - De 59 € à 108 €",
+    "stars": 1,
+    "deal": [
+      "20% off food"
+    ]
+  },
+  {
+    "name": "Le Meurice Alain Ducasse",
+    "address": {
+      "thoroughfare": "228 Rue de Rivoli",
+      "postal": "75001",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 85 € à 380 €",
+    "stars": 2,
+    "deal": [
+      "Menu Prestige 225€",
+      "Menu 580€",
+      "Lunch Menu starting at 85€",
+      "American Breakfast 58€"
+    ]
+  },
+  {
+    "name": "Auberge de l'Ill",
+    "address": {
+      "thoroughfare": "2 rue de Collonges-au-Mont d'Or",
+      "postal": "68970",
+      "locality": "Illhaeusern",
+      "country": "France"
+    },
+    "price": "Prix - De 106 € à 276 €",
+    "stars": 3,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "L'Auberge des Glazicks",
+    "address": {
+      "thoroughfare": "7 rue de la Plage",
+      "postal": "29550",
+      "locality": "PLOMODIERN",
+      "country": "France"
+    },
+    "price": "Prix - De 58 € à 225 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Helen",
+    "address": {
+      "thoroughfare": "3 r.Berryer",
+      "postal": "75008",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 160 €",
+    "stars": 1,
+    "deal": [
+      "Business Lunch",
+      "Le Menu Dégustation 135€",
+      "Le Menu Découverte 98€",
+      "Menu 58€"
+    ]
+  },
+  {
+    "name": "L'Odas",
+    "address": {
+      "thoroughfare": "Passage Maurice Lenfant",
+      "postal": "76000",
+      "locality": "Rouen",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 80 €",
+    "stars": 1,
+    "deal": [
+      "Menu 65€",
+      "Menu 45€",
+      "Set Menu 28€"
+    ]
+  },
+  {
+    "name": "Le St-Placide",
+    "address": {
+      "thoroughfare": "6 place du poncel",
+      "postal": "35400",
+      "locality": "Saint-Malo",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 105 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Michel Chabran - La Grande Table",
+    "address": {
+      "thoroughfare": "29 Avenue du Quarante-Cinquième Parallèle",
+      "postal": "26600",
+      "locality": "Pont-de-l'Isère",
+      "country": "France"
+    },
+    "price": "Prix - De 69 € à 240 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Girardin",
+    "address": {
+      "thoroughfare": "19 Rue des Têtes",
+      "postal": "68000",
+      "locality": "Colmar",
+      "country": "France"
+    },
+    "price": "Prix - De 78 € à 134 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Pic",
+    "address": {
+      "thoroughfare": "285 avenue Victor Hugo",
+      "postal": "26000",
+      "locality": "Valence",
+      "country": "France"
+    },
+    "price": "Prix - De 110 € à 330 €",
+    "stars": 3,
+    "deal": [
+      "-50% off the \"à la carte\" menu, including drinks!"
+    ]
+  },
+  {
+    "name": "Le Gabriel",
+    "address": {
+      "thoroughfare": "42 Avenue Gabriel",
+      "postal": "75008",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 95 € à 250 €",
+    "stars": 2,
+    "deal": [
+      "Menu 250€",
+      "Menu  195€",
+      "Menu déjeuner 115€ en quatre services",
+      "Menu déjeuner 95€ en trois services"
+    ]
+  },
+  {
+    "name": "Le Georges",
+    "address": {
+      "thoroughfare": "22 pl. des Épars",
+      "postal": "28000",
+      "locality": "CHARTRES",
+      "country": "France"
+    },
+    "price": "Prix - De 50 € à 95 €",
+    "stars": 1,
+    "deal": [
+      "-30% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Maison Decoret",
+    "address": {
+      "thoroughfare": "15 rue du Parc",
+      "postal": "03200",
+      "locality": "Vichy",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 122 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "L'Arnsbourg",
+    "address": {
+      "thoroughfare": "Untermuhlthal",
+      "postal": "57230",
+      "locality": "Baerenthal",
+      "country": "France"
+    },
+    "price": "Prix - De 55 € à 133 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Lasserre",
+    "address": {
+      "thoroughfare": "17 Avenue F. -D. -Roosevelt",
+      "postal": "75008",
+      "locality": "Paris 08",
+      "country": "France"
+    },
+    "price": "Prix - De 90 € à 241 €",
+    "stars": 1,
+    "deal": [
+      "Menu Plaisir 150€",
+      "Menu dégustation 190€",
+      "Menu Mardis Gourmands 150€",
+      "Menu Déjeuner 60€"
+    ]
+  },
+  {
+    "name": "Georges Blanc",
+    "address": {
+      "thoroughfare": "pl. du Marché",
+      "postal": "01540",
+      "locality": "Vonnas",
+      "country": "France"
+    },
+    "price": "Prix - De 180 € à 275 €",
+    "stars": 3,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Haut-Allier",
+    "address": {
+      "thoroughfare": "LE PONT D ALLEYRAS",
+      "postal": "43580",
+      "locality": "Alleyras",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 90 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Guy Savoy",
+    "address": {
+      "thoroughfare": "Monnaie de Paris11 Quai de Conti",
+      "postal": "75006",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 203 € à 385 €",
+    "stars": 3,
+    "deal": [
+      "Menu Découverte 110€"
+    ]
+  },
+  {
+    "name": "Domaine des Hauts de Loire",
+    "address": {
+      "thoroughfare": "79 rue Gilbert Navard",
+      "postal": "41150",
+      "locality": "Onzain",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 165 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "1131",
+    "address": {
+      "thoroughfare": "D 33",
+      "postal": "21360",
+      "locality": "La Bussière-sur-Ouche",
+      "country": "France"
+    },
+    "price": "Prix moyen - 98 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Manoir de la Boulaie",
+    "address": {
+      "thoroughfare": "33 rue Chapelle St-Martin",
+      "postal": "44115",
+      "locality": "HAUTE-GOULAINE",
+      "country": "France"
+    },
+    "price": "Prix - De 59 € à 148 €",
+    "stars": 2,
+    "deal": [
+      "-20% off the \"à la carte\" menu"
+    ]
+  },
+  {
+    "name": "Le Jasmin",
+    "address": {
+      "thoroughfare": "Lieu-dit Lalande",
+      "postal": "47140",
+      "locality": "Saint-Sylvestre-sur-Lot",
+      "country": "France"
+    },
+    "price": "Prix moyen - 55 €",
+    "stars": 1,
+    "deal": [
+      "Menu 30€"
+    ]
+  },
+  {
+    "name": "Les Explorateurs",
+    "address": {
+      "thoroughfare": "place du Slalom",
+      "postal": "73440",
+      "locality": "VAL THORENS",
+      "country": "France"
+    },
+    "price": "Prix - De 60 € à 100 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Shang Palace",
+    "address": {
+      "thoroughfare": "10 Avenue d'Iéna",
+      "postal": "75016",
+      "locality": "Paris 16",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 280 €",
+    "stars": 1,
+    "deal": [
+      "Menu 78€",
+      "Menu 48€",
+      "Emeraude Menu 128€",
+      "Jade Menu 98€"
+    ]
+  },
+  {
+    "name": "Loiseau des Ducs",
+    "address": {
+      "thoroughfare": "3 Rue Vauban",
+      "postal": "21000",
+      "locality": "Dijon",
+      "country": "France"
+    },
+    "price": "Prix - De 23 € à 105 €",
+    "stars": 1,
+    "deal": [
+      "Menu 48€",
+      "Menu 48€",
+      "Menu 165€",
+      "Menu 48€",
+      "Menu 48€",
+      "Menu 48€",
+      "Menu 105€",
+      "Menu 75€",
+      "Menu 55€",
+      "Menu 35€",
+      "Set Menu 25€"
+    ]
+  },
+  {
+    "name": "Mavrommatis",
+    "address": {
+      "thoroughfare": "42 rue Daubenton",
+      "postal": "75005",
+      "locality": "Paris 05",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 75 €",
+    "stars": 1,
+    "deal": [
+      "Set Menu 29€"
+    ]
+  },
+  {
+    "name": "Jean-Luc Tartarin",
+    "address": {
+      "thoroughfare": "Square Saint-Roch",
+      "postal": "76600",
+      "locality": "Le Havre",
+      "country": "France"
+    },
+    "price": "Prix - De 40 € à 140 €",
+    "stars": 2,
+    "deal": [
+      "Menu 198€",
+      "Menu 69€"
+    ]
+  },
+  {
+    "name": "Les Rosiers",
+    "address": {
+      "thoroughfare": "32 av. Beau Soleil",
+      "postal": "64200",
+      "locality": "Biarritz",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 83 €",
+    "stars": 1,
+    "deal": [
+      "Menu 85€"
+    ]
+  },
+  {
+    "name": "Le Domaine du Colombier",
+    "address": {
+      "thoroughfare": "270 Chemin de Malombre",
+      "postal": "26780",
+      "locality": "Malataverne",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 145 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "L'Amphitryon",
+    "address": {
+      "thoroughfare": "127 r. du Col. -Müller",
+      "postal": "56100",
+      "locality": "Lorient",
+      "country": "France"
+    },
+    "price": "Prix - De 50 € à 150 €",
+    "stars": 1,
+    "deal": [
+      "Menu 40€",
+      "Menu 29€",
+      "Set Menus 18€ and 23€"
+    ]
+  },
+  {
+    "name": "La Table de l'Espadon",
+    "address": {
+      "thoroughfare": "15 Place Vendôme",
+      "postal": "75001",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 186 € à 396 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le P'tit Polyte",
+    "address": {
+      "thoroughfare": "2 Rue de la Chapelle",
+      "postal": "38860",
+      "locality": "Les Deux Alpes",
+      "country": "France"
+    },
+    "price": "Prix - De 65 € à 105 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Bois sans Feuilles",
+    "address": {
+      "thoroughfare": "728 Route de Villerest",
+      "postal": "42155",
+      "locality": "Ouches",
+      "country": "France"
+    },
+    "price": "Prix - De 140 € à 250 €",
+    "stars": 3,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Candille",
+    "address": {
+      "thoroughfare": "bd C. Rebuffel",
+      "postal": "06250",
+      "locality": "Mougins",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 135 €",
+    "stars": 1,
+    "deal": [
+      "-30% off the \"à la carte\" menu!",
+      "Menu Soir 55€",
+      "Menu 70€",
+      "Set Menu 39€"
+    ]
+  },
+  {
+    "name": "Alexandre",
+    "address": {
+      "thoroughfare": "2 rue Xavier Tronc",
+      "postal": "30128",
+      "locality": "Garons",
+      "country": "France"
+    },
+    "price": "Prix - De 52 € à 118 €",
+    "stars": 2,
+    "deal": [
+      "-40% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "La Mare aux Oiseaux",
+    "address": {
+      "thoroughfare": "223 RUE DU CHEF DE L'ILE Fedrun",
+      "postal": "44720",
+      "locality": "Saint-Joachim",
+      "country": "France"
+    },
+    "price": "Prix - De 55 € à 75 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Roc Alto",
+    "address": {
+      "thoroughfare": "Quartier La Ville",
+      "postal": "05350",
+      "locality": "SAINT-VERAN",
+      "country": "France"
+    },
+    "price": "Prix - De 65 € à 115 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "L'Abeille",
+    "address": {
+      "thoroughfare": "10 Avenue d'Iéna",
+      "postal": "75016",
+      "locality": "Paris 16",
+      "country": "France"
+    },
+    "price": "Prix - De 150 € à 250 €",
+    "stars": 2,
+    "deal": [
+      "Menu Prestige 195€",
+      "Tasting Menu 230€"
+    ]
+  },
+  {
+    "name": "Antoine",
+    "address": {
+      "thoroughfare": "10 av. de New-York",
+      "postal": "75116",
+      "locality": "Paris 16",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 150 €",
+    "stars": 1,
+    "deal": [
+      "Menu Mardis Gourmands 109€"
+    ]
+  },
+  {
+    "name": "L'Atelier de Gaztelur",
+    "address": {
+      "thoroughfare": "Chemin de Gastelhur",
+      "postal": "64200",
+      "locality": "Arcangues",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 115 €",
+    "stars": 1,
+    "deal": [
+      "Menu 90€"
+    ]
+  },
+  {
+    "name": "Flocons de Sel",
+    "address": {
+      "thoroughfare": "1775 rte du Leutaz",
+      "postal": "74120",
+      "locality": "Megève",
+      "country": "France"
+    },
+    "price": "Prix - De 90 € à 168 €",
+    "stars": 3,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Maison Rostang",
+    "address": {
+      "thoroughfare": "20 rue Rennequin",
+      "postal": "75017",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 90 € à 225 €",
+    "stars": 2,
+    "deal": [
+      "Menu Prestige 115€ Tout Compris, le midi !",
+      "Menu Prestige 195€ Tout Compris, le soir !"
+    ]
+  },
+  {
+    "name": "Auberge Frankenbourg",
+    "address": {
+      "thoroughfare": "13 r. Gén. de Gaulle",
+      "postal": "67730",
+      "locality": "La Vancelle",
+      "country": "France"
+    },
+    "price": "Prix - De 40 € à 75 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "La Bastide St-Antoine",
+    "address": {
+      "thoroughfare": "48 av. Henri-Dunant",
+      "postal": "06130",
+      "locality": "Grasse",
+      "country": "France"
+    },
+    "price": "Prix - De 66 € à 220 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Hostellerie de Plaisance",
+    "address": {
+      "thoroughfare": "5 place du Clocher",
+      "postal": "33330",
+      "locality": "Saint-Emilion",
+      "country": "France"
+    },
+    "price": "Prix - De 68 € à 156 €",
+    "stars": 2,
+    "deal": [
+      "Menu 68€",
+      "Menu Souvenirs 185€",
+      "Menu Plaisance 135€"
+    ]
+  },
+  {
+    "name": "Le Belrose",
+    "address": {
+      "thoroughfare": "Boulevard des Crêtes",
+      "postal": "83580",
+      "locality": "Gassin",
+      "country": "France"
+    },
+    "price": "Prix moyen - 135 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Strasbourg",
+    "address": {
+      "thoroughfare": "24 r. du Col. -Teyssier",
+      "postal": "57230",
+      "locality": "Bitche",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 75 €",
+    "stars": 1,
+    "deal": [
+      "Menu 75€"
+    ]
+  },
+  {
+    "name": "Armani Ristorante",
+    "address": {
+      "thoroughfare": "149 Boulevard Saint-Germain",
+      "postal": "75006",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 90 €",
+    "stars": 1,
+    "deal": [
+      "Prestige Menu 79€"
+    ]
+  },
+  {
+    "name": "Les Jardins de l'Espadon",
+    "address": {
+      "thoroughfare": "15 place Vendôme",
+      "postal": "75001",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 120 € à 145 €",
+    "stars": 1,
+    "deal": [
+      "Menu Carte 95€ et 120€"
+    ]
+  },
+  {
+    "name": "La Bergerie",
+    "address": {
+      "thoroughfare": "D999",
+      "postal": "63490",
+      "locality": "Sarpoil",
+      "country": "France"
+    },
+    "price": "Prix - De 25 € à 75 €",
+    "stars": 1,
+    "deal": [
+      "Menu 18€"
+    ]
+  },
+  {
+    "name": "Le Gindreau",
+    "address": {
+      "thoroughfare": "D5",
+      "postal": "46150",
+      "locality": "Saint-Médard",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 147 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "L'Orangerie",
+    "address": {
+      "thoroughfare": "31 Avenue George-V",
+      "postal": "75008",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 75 € à 125 €",
+    "stars": 1,
+    "deal": [
+      "Brunch 42€"
+    ]
+  },
+  {
+    "name": "Alliance",
+    "address": {
+      "thoroughfare": "5 Rue de Poissy",
+      "postal": "75005",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 110 €",
+    "stars": 1,
+    "deal": [
+      "Menu 120€",
+      "Menu 175€",
+      "Menu Alliance 110€ et Menu Tentation 90€"
+    ]
+  },
+  {
+    "name": "Le Patio",
+    "address": {
+      "thoroughfare": "10 bd de la Plage",
+      "postal": "33120",
+      "locality": "Arcachon",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 110 €",
+    "stars": 1,
+    "deal": [
+      "-30% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Jardin des Plumes",
+    "address": {
+      "thoroughfare": "1 Rue du Milieu",
+      "postal": "27620",
+      "locality": "Giverny",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 93 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Il Cortile",
+    "address": {
+      "thoroughfare": "11 r. des Franciscains",
+      "postal": "68100",
+      "locality": "Mulhouse",
+      "country": "France"
+    },
+    "price": "Prix - De 40 € à 110 €",
+    "stars": 1,
+    "deal": [
+      "-50% off the \"à la carte\" menu, including drinks!",
+      "-30% off the \"à la carte\" menu, including drinks!",
+      "-20% off the \"à la carte\" menu, including drinks!"
+    ]
+  },
+  {
+    "name": "La Promenade",
+    "address": {
+      "thoroughfare": "11 rue du Savoureulx",
+      "postal": "37350",
+      "locality": "Le Petit-Pressigny",
+      "country": "France"
+    },
+    "price": "Prix - De 43 € à 100 €",
+    "stars": 1,
+    "deal": [
+      "-20% off the \"à la carte\" menu, including drinks!"
+    ]
+  },
+  {
+    "name": "Le Domaine de la Corniche",
+    "address": {
+      "thoroughfare": "5 rte de la Corniche",
+      "postal": "78270",
+      "locality": "Rolleboise",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 65 €",
+    "stars": 1,
+    "deal": [
+      "Menu 36€",
+      "Set Menu 29€",
+      "Menu 47€",
+      "Menu 54€",
+      "Menu 72€"
+    ]
+  },
+  {
+    "name": "Le Figuier de St-Esprit",
+    "address": {
+      "thoroughfare": "7, Promenade Amiral de Grasse",
+      "postal": "06600",
+      "locality": "Antibes",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 138 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Saison",
+    "address": {
+      "thoroughfare": "1 imp. du Vieux-Bourg",
+      "postal": "35760",
+      "locality": "Saint-Grégoire",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 136 €",
+    "stars": 1,
+    "deal": [
+      "-30% off the \"à la carte\" menu!",
+      "20% off food"
+    ]
+  },
+  {
+    "name": "Assa",
+    "address": {
+      "thoroughfare": "189 Quai Ulysse Besnard",
+      "postal": "41000",
+      "locality": "Blois",
+      "country": "France"
+    },
+    "price": "Prix moyen - 36 €",
+    "stars": 1,
+    "deal": [
+      "-50% off the \"à la carte\" menu, including drinks!",
+      "-20% off the \"à la carte\" menu, including drinks!"
+    ]
+  },
+  {
+    "name": "L'Amphitryon",
+    "address": {
+      "thoroughfare": "chemin de Gramont",
+      "postal": "31770",
+      "locality": "Colomiers",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 149 €",
+    "stars": 1,
+    "deal": [
+      "Menu 40€",
+      "Menu 29€",
+      "Set Menus 18€ and 23€"
+    ]
+  },
+  {
+    "name": "L'Atelier de Jean-Luc Rabanel",
+    "address": {
+      "thoroughfare": "7 r. des Carmes",
+      "postal": "13200",
+      "locality": "Arles",
+      "country": "France"
+    },
+    "price": "Prix - De 85 € à 145 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Manoir du Lys",
+    "address": {
+      "thoroughfare": "D235",
+      "postal": "61140",
+      "locality": "Bagnoles-de-l'Orne",
+      "country": "France"
+    },
+    "price": "Prix - De 46 € à 80 €",
+    "stars": 1,
+    "deal": [
+      "Set Menu 49€",
+      "Menu 63€",
+      "Menu 99€"
+    ]
+  },
+  {
+    "name": "Nakatani",
+    "address": {
+      "thoroughfare": "27 Rue Pierre Leroux",
+      "postal": "75007",
+      "locality": "PARIS",
+      "country": "France"
+    },
+    "price": "Prix - De 50 € à 145 €",
+    "stars": 1,
+    "deal": [
+      "Menu 145€",
+      "Menu 105€",
+      "Menu 68€",
+      "Menu 50€"
+    ]
+  },
+  {
+    "name": "Le Cap",
+    "address": {
+      "thoroughfare": "71 Boulevard du Général-de-Gaulle",
+      "postal": "06230",
+      "locality": "SAINT-JEAN-CAP-FERRAT",
+      "country": "France"
+    },
+    "price": "Prix - De 154 € à 242 €",
+    "stars": 1,
+    "deal": [
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Auberge de la Mine",
+    "address": {
+      "thoroughfare": "le Gué-Plat",
+      "postal": "61450",
+      "locality": "La Ferrière-aux-Étangs",
+      "country": "France"
+    },
+    "price": "Prix - De 22 € à 80 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Pressoir d'Argent - Gordon Ramsay",
+    "address": {
+      "thoroughfare": "2,5 Place de la Comédie",
+      "postal": "33000",
+      "locality": "Bordeaux",
+      "country": "France"
+    },
+    "price": "Prix - De 90 € à 150 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Kei",
+    "address": {
+      "thoroughfare": "5 rue du Coq-Héron",
+      "postal": "75001",
+      "locality": "Paris 01",
+      "country": "France"
+    },
+    "price": "Prix - De 56 € à 195 €",
+    "stars": 2,
+    "deal": [
+      "-30% off the \"à la carte\" menu!",
+      "-30% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "L'Olivier",
+    "address": {
+      "thoroughfare": "25 Route des Carles",
+      "postal": "83990",
+      "locality": "Saint-Tropez",
+      "country": "France"
+    },
+    "price": "Prix moyen - 75 €",
+    "stars": 1,
+    "deal": [
+      "-30% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "La Voile",
+    "address": {
+      "thoroughfare": "chemin de la Quessine",
+      "postal": "83350",
+      "locality": "Ramatuelle",
+      "country": "France"
+    },
+    "price": "Prix - De 102 € à 129 €",
+    "stars": 1,
+    "deal": [
+      "-50% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "La Grande Maison de Bernard Magrez",
+    "address": {
+      "thoroughfare": "10 Rue Labottière",
+      "postal": "33000",
+      "locality": "Bordeaux",
+      "country": "France"
+    },
+    "price": "Prix - De 75 € à 195 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Les Terrasses d'Uriage",
+    "address": {
+      "thoroughfare": "pl. Déesse-Hygie",
+      "postal": "38410",
+      "locality": "Uriage-les-Bains",
+      "country": "France"
+    },
+    "price": "Prix - De 69 € à 160 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "L'O des Vignes",
+    "address": {
+      "thoroughfare": "r. du Bourg",
+      "postal": "71960",
+      "locality": "Fuissé",
+      "country": "France"
+    },
+    "price": "Prix - De 26 € à 80 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Les Ducs de Lorraine",
+    "address": {
+      "thoroughfare": "5 av. Provence",
+      "postal": "88000",
+      "locality": "Épinal",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 160 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Auberge St-Laurent",
+    "address": {
+      "thoroughfare": "1 rue Fontaine",
+      "postal": "68510",
+      "locality": "Sierentz",
+      "country": "France"
+    },
+    "price": "Prix - De 33 € à 88 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Cinq",
+    "address": {
+      "thoroughfare": "31 av. George V",
+      "postal": "75008",
+      "locality": "Paris 08",
+      "country": "France"
+    },
+    "price": "Prix - De 145 € à 400 €",
+    "stars": 3,
+    "deal": [
+      "Menu 330€",
+      "Menu Ballade gourmande lunch 145€ (4 plates)",
+      "Menu Ballade gourmande du déjeuner 210€ (6 plats)"
+    ]
+  },
+  {
+    "name": "Dominique Bucaille",
+    "address": {
+      "thoroughfare": "715 av. des Savels",
+      "postal": "04100",
+      "locality": "Manosque",
+      "country": "France"
+    },
+    "price": "Prix - De 50 € à 95 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Les Berceaux",
+    "address": {
+      "thoroughfare": "13 rue des Berceaux",
+      "postal": "51200",
+      "locality": "Épernay",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 95 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Les Voiles d'Or",
+    "address": {
+      "thoroughfare": "2 chemin de la Falaise",
+      "postal": "76200",
+      "locality": "Dieppe",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 70 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "SEPT",
+    "address": {
+      "thoroughfare": "7 pl. St-Sernin",
+      "postal": "31000",
+      "locality": "Toulouse",
+      "country": "France"
+    },
+    "price": "Prix - De 24 € à 42 €",
+    "stars": 1,
+    "deal": [
+      "-30% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Jean-Claude Leclerc",
+    "address": {
+      "thoroughfare": "12 rue St-Adjutor",
+      "postal": "63000",
+      "locality": "Clermont-Ferrand",
+      "country": "France"
+    },
+    "price": "Prix - De 36 € à 120 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "La Pyramide-Patrick Henriroux",
+    "address": {
+      "thoroughfare": "14 Boulevard Fernand Point",
+      "postal": "38200",
+      "locality": "Vienne",
+      "country": "France"
+    },
+    "price": "Prix - De 66 € à 198 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Toya",
+    "address": {
+      "thoroughfare": "av. Jean-Monnet",
+      "postal": "57380",
+      "locality": "Faulquemont",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 120 €",
+    "stars": 1,
+    "deal": [
+      "-30% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Pierre",
+    "address": {
+      "thoroughfare": "7-9 rue Joseph Dufour",
+      "postal": "71000",
+      "locality": "Mâcon",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 98 €",
+    "stars": 1,
+    "deal": [
+      "-40% off the \"à la carte\" menu!",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "L'Archeste",
+    "address": {
+      "thoroughfare": "79 rue de la Tour",
+      "postal": "75116",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 52 € à 110 €",
+    "stars": 1,
+    "deal": [
+      "Menu autour de la Truffe et Caviar 180€",
+      "Menu Carte Blanche le Soir 110€",
+      "Menu Carte Blanche le Midi 52€ et 72€"
+    ]
+  },
+  {
+    "name": "Le Kintessence",
+    "address": {
+      "thoroughfare": "Rue des Clarines",
+      "postal": "73120",
+      "locality": "Courchevel 1850",
+      "country": "France"
+    },
+    "price": "Prix - De 160 € à 300 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "La Renaissance",
+    "address": {
+      "thoroughfare": "20 av. 2e-Division-Blindée",
+      "postal": "61200",
+      "locality": "Argentan",
+      "country": "France"
+    },
+    "price": "Prix - De 27 € à 70 €",
+    "stars": 1,
+    "deal": [
+      "-30% off the \"à la carte\""
+    ]
+  },
+  {
+    "name": "La Cachette",
+    "address": {
+      "thoroughfare": "Rue des Cévennes",
+      "postal": "26000",
+      "locality": "Valence",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 65 €",
+    "stars": 1,
+    "deal": [
+      "Menu 25€"
+    ]
+  },
+  {
+    "name": "La Matelote",
+    "address": {
+      "thoroughfare": "80 Boulevard Ste Beuve",
+      "postal": "62200",
+      "locality": "BOULOGNE-SUR-MER",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 70 €",
+    "stars": 1,
+    "deal": [
+      "Menu 68€",
+      "Menu 40€",
+      "Menu 35€",
+      "Set Menu 28€"
+    ]
+  },
+  {
+    "name": "Le Clair de la Plume",
+    "address": {
+      "thoroughfare": "2 Place du Mail",
+      "postal": "26230",
+      "locality": "Grignan",
+      "country": "France"
+    },
+    "price": "Prix - De 59 € à 135 €",
+    "stars": 1,
+    "deal": [
+      "Menu truffe d'hiver en 7 services 175€",
+      "Menu Ephémère 39€",
+      "Menu 59€"
+    ]
+  },
+  {
+    "name": "Penati al Baretto",
+    "address": {
+      "thoroughfare": "9 rue Balzac",
+      "postal": "75008",
+      "locality": "Paris 08",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 95 €",
+    "stars": 1,
+    "deal": [
+      "-20% off the \"à la carte\" menu!",
+      "MENU DÉJEUNER de 39€ à 55€"
+    ]
+  },
+  {
+    "name": "La Table",
+    "address": {
+      "thoroughfare": "32 Rue de la Barre",
+      "postal": "59000",
+      "locality": "Lille",
+      "country": "France"
+    },
+    "price": "Prix moyen - 39 €",
+    "stars": 1,
+    "deal": [
+      "-40% off the \"à la carte\" menu!",
+      "-30% off the \"à la carte\" menu!",
+      "Menu 25€",
+      "Menu 18€"
+    ]
+  },
+  {
+    "name": "Le France",
+    "address": {
+      "thoroughfare": "8 place Cupillard",
+      "postal": "25130",
+      "locality": "VILLERS-LE-LAC",
+      "country": "France"
+    },
+    "price": "Prix - De 22 € à 39 €",
+    "stars": 1,
+    "deal": [
+      "Menu 0€"
+    ]
+  },
+  {
+    "name": "La Table de l'Alpaga",
+    "address": {
+      "thoroughfare": "66 Allée des Marmousets",
+      "postal": "74120",
+      "locality": "Megève",
+      "country": "France"
+    },
+    "price": "Prix - De 105 € à 210 €",
+    "stars": 1,
+    "deal": [
+      "Menu 105€",
+      "Menu 135€",
+      "Menu 215€",
+      "Menu 160€"
+    ]
+  },
+  {
+    "name": "Jin",
+    "address": {
+      "thoroughfare": "6 Rue de la Sourdière",
+      "postal": "75001",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 95 € à 145 €",
+    "stars": 1,
+    "deal": [
+      "Menú 25€",
+      "Menú 20€"
+    ]
+  },
+  {
+    "name": "La Lorraine",
+    "address": {
+      "thoroughfare": "80 rue Principale",
+      "postal": "57330",
+      "locality": "Zoufftgen",
+      "country": "France"
+    },
+    "price": "Prix - De 36 € à 98 €",
+    "stars": 1,
+    "deal": [
+      "65 ans de la Villa Lorraine Menu 99€"
+    ]
+  },
+  {
+    "name": "Skab",
+    "address": {
+      "thoroughfare": "7 Rue de la République",
+      "postal": "30000",
+      "locality": "nimes",
+      "country": "France"
+    },
+    "price": "Prix - De 26 € à 101 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Vieux Logis",
+    "address": {
+      "thoroughfare": "Le Bourg",
+      "postal": "24510",
+      "locality": "Trémolat",
+      "country": "France"
+    },
+    "price": "Prix - De 50 € à 120 €",
+    "stars": 1,
+    "deal": [
+      "\"Menu \"Balade EstTaxesle\" Accord Mands and Vins 105€\"",
+      "Menu Tapas 49€"
+    ]
+  },
+  {
+    "name": "Copenhague",
+    "address": {
+      "thoroughfare": "142 AVENUE DES CHAMPS ELYSEES",
+      "postal": "75008",
+      "locality": "PARIS",
+      "country": "France"
+    },
+    "price": "Prix - De 55 € à 115 €",
+    "stars": 1,
+    "deal": [
+      "Offre Découverte Signature 115€"
+    ]
+  },
+  {
+    "name": "Auberge du Cellier",
+    "address": {
+      "thoroughfare": "1 Rue de Sainte-Eugénie",
+      "postal": "66720",
+      "locality": "Montner",
+      "country": "France"
+    },
+    "price": "Prix - De 19 € à 69 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "La Ferme de l'Hospital",
+    "address": {
+      "thoroughfare": "rte du golf",
+      "postal": "74160",
+      "locality": "Bossey",
+      "country": "France"
+    },
+    "price": "Prix - De 44 € à 100 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Auberge Grand'Maison",
+    "address": {
+      "thoroughfare": "1 r. Léon-le-Cerf",
+      "postal": "22530",
+      "locality": "Mûr-de-Bretagne",
+      "country": "France"
+    },
+    "price": "Prix - De 27 € à 80 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Grand Bleu",
+    "address": {
+      "thoroughfare": "43 av. de la Gare",
+      "postal": "24200",
+      "locality": "Sarlat-la-Canéda",
+      "country": "France"
+    },
+    "price": "Prix - De 36 € à 125 €",
+    "stars": 1,
+    "deal": [
+      "Menu 17.90€",
+      "Menu 25.90€"
+    ]
+  },
+  {
+    "name": "La Maison des Bois - Marc Veyrat",
+    "address": {
+      "thoroughfare": "Chemin Rural de Manigod au Col de la Croix Fry",
+      "postal": "74230",
+      "locality": "Manigod",
+      "country": "France"
+    },
+    "price": "Prix - De 295 € à 395 €",
+    "stars": 3,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Flaveurs",
+    "address": {
+      "thoroughfare": "32 Grande-Rue",
+      "postal": "26000",
+      "locality": "Valence",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 92 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "I Salti",
+    "address": {
+      "thoroughfare": "route du Reginu",
+      "postal": "20226",
+      "locality": "Belgodère",
+      "country": "France"
+    },
+    "price": "Prix - De 55 € à 70 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Dan B. - La Table de Ventabren",
+    "address": {
+      "thoroughfare": "r. F. -Mistral",
+      "postal": "13122",
+      "locality": "Ventabren",
+      "country": "France"
+    },
+    "price": "Prix - De 43 € à 97 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "L'Esquisse",
+    "address": {
+      "thoroughfare": "21 rue Royale",
+      "postal": "74000",
+      "locality": "Annecy",
+      "country": "France"
+    },
+    "price": "Prix - De 25 € à 65 €",
+    "stars": 1,
+    "deal": [
+      "-30% off the \"à la carte\" menu!",
+      "Menu CHF 120.-",
+      "Brunch from CHF 20.-"
+    ]
+  },
+  {
+    "name": "Les Trois Soleils de Montal",
+    "address": {
+      "thoroughfare": "St-Jean-Lespinasse",
+      "postal": "46400",
+      "locality": "Saint-Céré",
+      "country": "France"
+    },
+    "price": "Prix - De 36 € à 88 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Maison Jeunet",
+    "address": {
+      "thoroughfare": "9 r. de l'Hôtel-de-Ville",
+      "postal": "39600",
+      "locality": "Arbois",
+      "country": "France"
+    },
+    "price": "Prix - De 65 € à 118 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Casadelmar",
+    "address": {
+      "thoroughfare": "Route de la Plage de Palombaggia",
+      "postal": "20137",
+      "locality": "Porto-Vecchio",
+      "country": "France"
+    },
+    "price": "Prix - De 70 € à 195 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Qui plume la Lune",
+    "address": {
+      "thoroughfare": "50 r. Amelot",
+      "postal": "75011",
+      "locality": "Paris 11",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 130 €",
+    "stars": 1,
+    "deal": [
+      "Menu lunch prestige 90€ tout compris",
+      "Menu Déjeuner 45€",
+      "Menu Lucie 130€",
+      "Menu Angèle 85€",
+      "Menu Iphigénie 60€"
+    ]
+  },
+  {
+    "name": "Restaurant des Rois",
+    "address": {
+      "thoroughfare": "5 Boulevard du Maréchal Leclerc",
+      "postal": "06310",
+      "locality": "Beaulieu-sur-Mer",
+      "country": "France"
+    },
+    "price": "Prix - De 60 € à 150 €",
+    "stars": 1,
+    "deal": [
+      "-30% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Passe Temps",
+    "address": {
+      "thoroughfare": "52 Rue Tronchet",
+      "postal": "69006",
+      "locality": "Lyon",
+      "country": "France"
+    },
+    "price": "Prix - De 33 € à 85 €",
+    "stars": 1,
+    "deal": [
+      "Menu 85€",
+      "Menu  60€",
+      "Menu 30€"
+    ]
+  },
+  {
+    "name": "Le Champ des Lunes",
+    "address": {
+      "thoroughfare": "route de Roquefraîche",
+      "postal": "84360",
+      "locality": "Lauris",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 108 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "La Balette",
+    "address": {
+      "thoroughfare": "rte de Port-Vendres",
+      "postal": "66190",
+      "locality": "Collioure",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 115 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "L'Atelier Yssoirien",
+    "address": {
+      "thoroughfare": "39 Boulevard Triozon-Bayle",
+      "postal": "63500",
+      "locality": "Issoire",
+      "country": "France"
+    },
+    "price": "Prix - De 18 € à 50 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Serge Vieira",
+    "address": {
+      "thoroughfare": "Château du Couffour",
+      "postal": "15110",
+      "locality": "Chaudes-Aigues",
+      "country": "France"
+    },
+    "price": "Prix - De 90 € à 148 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Vivier",
+    "address": {
+      "thoroughfare": "800 cours F. Peyre (rte de Carpentras)",
+      "postal": "84800",
+      "locality": "L'Isle-sur-la-Sorgue",
+      "country": "France"
+    },
+    "price": "Prix - De 26 € à 85 €",
+    "stars": 1,
+    "deal": [
+      "20% off food"
+    ]
+  },
+  {
+    "name": "Buerehiesel",
+    "address": {
+      "thoroughfare": "dans le parc de l'Orangerie",
+      "postal": "67000",
+      "locality": "Strasbourg",
+      "country": "France"
+    },
+    "price": "Prix - De 37 € à 98 €",
+    "stars": 1,
+    "deal": [
+      "Menu Expression soir d'ouverture 72€",
+      "Menu Dégustation, soir d'ouverture 104€",
+      "Menu Affaires, midi d'ouverture 37€"
+    ]
+  },
+  {
+    "name": "La Table Saint-Crescent",
+    "address": {
+      "thoroughfare": "route de Perpignan",
+      "postal": "11100",
+      "locality": "Narbonne",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 110 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Chabichou",
+    "address": {
+      "thoroughfare": "90 Route des Chenus",
+      "postal": "73120",
+      "locality": "Courchevel 1850",
+      "country": "France"
+    },
+    "price": "Prix - De 75 € à 275 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Puits St-Jacques",
+    "address": {
+      "thoroughfare": "av. Victor-Capoul",
+      "postal": "32600",
+      "locality": "Pujaudran",
+      "country": "France"
+    },
+    "price": "Prix - De 34 € à 125 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "La Table d'Olivier",
+    "address": {
+      "thoroughfare": "3 r. St-Ambroise",
+      "postal": "19100",
+      "locality": "Brive-la-Gaillarde",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 75 €",
+    "stars": 1,
+    "deal": [
+      "Set Menu 32€"
+    ]
+  },
+  {
+    "name": "Le George",
+    "address": {
+      "thoroughfare": "31 Avenue George V",
+      "postal": "75008",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 65 € à 110 €",
+    "stars": 1,
+    "deal": [
+      "Menu 330€",
+      "Menu Ballade gourmande lunch 145€ (4 plates)",
+      "Menu Ballade gourmande du déjeuner 210€ (6 plats)"
+    ]
+  },
+  {
+    "name": "Restaurant de Lauzun",
+    "address": {
+      "thoroughfare": "3 bd de l'Esplanade",
+      "postal": "34150",
+      "locality": "Gignac",
+      "country": "France"
+    },
+    "price": "Prix - De 31 € à 83 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Passage 53",
+    "address": {
+      "thoroughfare": "53 passage des Panoramas",
+      "postal": "75002",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 60 € à 180 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "La Bastide de Capelongue",
+    "address": {
+      "thoroughfare": "Chemin des Cabanes",
+      "postal": "84480",
+      "locality": "Bonnieux",
+      "country": "France"
+    },
+    "price": "Prix - De 100 € à 210 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "L'Aquarelle",
+    "address": {
+      "thoroughfare": "71 A rte du Montil",
+      "postal": "17920",
+      "locality": "Breuillet",
+      "country": "France"
+    },
+    "price": "Prix - De 37 € à 110 €",
+    "stars": 1,
+    "deal": [
+      "Menu 30€",
+      "Set Menu Lunch 14.50€"
+    ]
+  },
+  {
+    "name": "Mariottat",
+    "address": {
+      "thoroughfare": "25 r. L.-Vivent",
+      "postal": "47000",
+      "locality": "Agen",
+      "country": "France"
+    },
+    "price": "Prix - De 27 € à 89 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Ze Kitchen Galerie",
+    "address": {
+      "thoroughfare": "4 r. des Grands-Augustins",
+      "postal": "75006",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 41 € à 98 €",
+    "stars": 1,
+    "deal": [
+      "Menu de 41€ à 72€",
+      "Menu Découverte 98€",
+      "Menu Découverte 85€"
+    ]
+  },
+  {
+    "name": "Le Mas du Langoustier",
+    "address": {
+      "thoroughfare": "",
+      "postal": "83400",
+      "locality": "Hyères",
+      "country": "France"
+    },
+    "price": "Prix - De 95 € à 155 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Roscanvec",
+    "address": {
+      "thoroughfare": "17 r. des Halles",
+      "postal": "56000",
+      "locality": "Vannes",
+      "country": "France"
+    },
+    "price": "Prix - De 25 € à 100 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "La Promenade",
+    "address": {
+      "thoroughfare": "2 promenade Jean-Jaurès",
+      "postal": "31590",
+      "locality": "Verfeil",
+      "country": "France"
+    },
+    "price": "Prix - De 28 € à 90 €",
+    "stars": 1,
+    "deal": [
+      "-20% off the \"à la carte\" menu, including drinks!"
+    ]
+  },
+  {
+    "name": "SaQuaNa",
+    "address": {
+      "thoroughfare": "22 pl. Hamelin",
+      "postal": "14600",
+      "locality": "Honfleur",
+      "country": "France"
+    },
+    "price": "Prix - De 90 € à 130 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "La Petite Maison de Cucuron",
+    "address": {
+      "thoroughfare": "pl. de l'Étang",
+      "postal": "84160",
+      "locality": "Cucuron",
+      "country": "France"
+    },
+    "price": "Prix - De 60 € à 90 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Avel Vor",
+    "address": {
+      "thoroughfare": "25 r. de Locmalo",
+      "postal": "56290",
+      "locality": "Port-Louis",
+      "country": "France"
+    },
+    "price": "Prix - De 31 € à 100 €",
+    "stars": 1,
+    "deal": [
+      "-30% off the \"à la carte\" menu!",
+      "Brunch 22€"
+    ]
+  },
+  {
+    "name": "Le Gambetta",
+    "address": {
+      "thoroughfare": "12 r. Gambetta",
+      "postal": "49400",
+      "locality": "Saumur",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 107 €",
+    "stars": 1,
+    "deal": [
+      "-20% off the \"à la carte\"!"
+    ]
+  },
+  {
+    "name": "Michel Trama",
+    "address": {
+      "thoroughfare": "52 r. Royale",
+      "postal": "47270",
+      "locality": "Puymirol",
+      "country": "France"
+    },
+    "price": "Prix - De 75 € à 215 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Au Souper Fin",
+    "address": {
+      "thoroughfare": "1 rte de Clères",
+      "postal": "76690",
+      "locality": "Frichemesnil",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 75 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Chiquito",
+    "address": {
+      "thoroughfare": "3 r. de l'Oise, La Bonneville",
+      "postal": "95540",
+      "locality": "Méry-sur-Oise",
+      "country": "France"
+    },
+    "price": "Prix - De 64 € à 77 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Cayola",
+    "address": {
+      "thoroughfare": "76 promenade de Cayola",
+      "postal": "85180",
+      "locality": "Talmont-Saint-Hilaire",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 100 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Bistrot de Lagarde",
+    "address": {
+      "thoroughfare": "rte d'Apt",
+      "postal": "84400",
+      "locality": "Lagarde-d'Apt",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 82 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Meulien",
+    "address": {
+      "thoroughfare": "1 bis av. des Alpes",
+      "postal": "71700",
+      "locality": "Tournus",
+      "country": "France"
+    },
+    "price": "Prix - De 35 € à 98 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Pertica",
+    "address": {
+      "thoroughfare": "15 pl. de la République",
+      "postal": "41100",
+      "locality": "Vendôme",
+      "country": "France"
+    },
+    "price": "Prix - De 36 € à 110 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "La Coquerie",
+    "address": {
+      "thoroughfare": "1 chemin du Cimetière-Marin",
+      "postal": "34200",
+      "locality": "Sète",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 65 €",
+    "stars": 1,
+    "deal": [
+      "Menu 55€",
+      "Menu 28€",
+      "Set Menu 20€"
+    ]
+  },
+  {
+    "name": "Le Favre d'Anne",
+    "address": {
+      "thoroughfare": "21 bd du Mar.-Foch",
+      "postal": "49000",
+      "locality": "Angers",
+      "country": "France"
+    },
+    "price": "Prix - De 38 € à 105 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Park 45",
+    "address": {
+      "thoroughfare": "45 bd de la Croisette",
+      "postal": "06400",
+      "locality": "Cannes",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 140 €",
+    "stars": 1,
+    "deal": [
+      "Menu  60€",
+      "Menu 190€",
+      "Menu 95€",
+      "Menu 95€"
+    ]
+  },
+  {
+    "name": "Auberge St-Jean",
+    "address": {
+      "thoroughfare": "8 r. du Pont",
+      "postal": "33420",
+      "locality": "Saint-Jean-de-Blaignac",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 70 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Village",
+    "address": {
+      "thoroughfare": "3 Grande-Rue",
+      "postal": "78160",
+      "locality": "Marly-le-Roi",
+      "country": "France"
+    },
+    "price": "Prix - De 40 € à 245 €",
+    "stars": 1,
+    "deal": [
+      "Menu 100€",
+      "Set Menu 40€",
+      "Menu 50€"
+    ]
+  },
+  {
+    "name": "Le Bon Accueil",
+    "address": {
+      "thoroughfare": "32 Grande-Rue",
+      "postal": "25160",
+      "locality": "Malbuisson",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 105 €",
+    "stars": 1,
+    "deal": [
+      "Menu  34.60€",
+      "Menu  31.60€",
+      "Menu  27.10€",
+      "Menu  19.10€"
+    ]
+  },
+  {
+    "name": "David Toutain",
+    "address": {
+      "thoroughfare": "29 r. Surcouf",
+      "postal": "75007",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 55 € à 140 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Moulin d'Alotz",
+    "address": {
+      "thoroughfare": "chemin Alotz-Errota",
+      "postal": "64200",
+      "locality": "Alotz",
+      "country": "France"
+    },
+    "price": "Prix - De 75 € à 90 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Tour d'Argent",
+    "address": {
+      "thoroughfare": "15 quai de la Tournelle",
+      "postal": "75005",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 105 € à 360 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Mon Plaisir",
+    "address": {
+      "thoroughfare": "22 lieu-dit Journal",
+      "postal": "25190",
+      "locality": "Chamesol",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 90 €",
+    "stars": 1,
+    "deal": [
+      "Group Special: -40% on 3Menú grupo (mín.4 pax),\" or 25,80 € instead of 43,00 €!",
+      "Menu 0€",
+      "Menu 14.25€"
+    ]
+  },
+  {
+    "name": "Le Pily",
+    "address": {
+      "thoroughfare": "39 Grande-Rue",
+      "postal": "50100",
+      "locality": "Cherbourg-en-Cotentin",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 115 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "La Robe",
+    "address": {
+      "thoroughfare": "3 pl. Reveillère-Lepeaux",
+      "postal": "85600",
+      "locality": "Montaigu",
+      "country": "France"
+    },
+    "price": "Prix - De 24 € à 70 €",
+    "stars": 1,
+    "deal": [
+      "-40% off the \"à la carte\" menu"
+    ]
+  },
+  {
+    "name": "Lou Cigalon-Maison Martin",
+    "address": {
+      "thoroughfare": "6 bd Carnot",
+      "postal": "06560",
+      "locality": "Valbonne",
+      "country": "France"
+    },
+    "price": "Prix - De 25 € à 80 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Table - Bruno Verjus",
+    "address": {
+      "thoroughfare": "3 r. de Prague",
+      "postal": "75012",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 70 € à 150 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "La Fourchette du Printemps",
+    "address": {
+      "thoroughfare": "30 r. du Printemps",
+      "postal": "75017",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 32 € à 77 €",
+    "stars": 1,
+    "deal": [
+      "Menu Gourmands 79€"
+    ]
+  },
+  {
+    "name": "Le Moulin des Quatre Saisons",
+    "address": {
+      "thoroughfare": "r. Gallieni",
+      "postal": "72200",
+      "locality": "La Flèche",
+      "country": "France"
+    },
+    "price": "Prix - De 27 € à 100 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "ES",
+    "address": {
+      "thoroughfare": "91 r. de Grenelle",
+      "postal": "75007",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 105 €",
+    "stars": 1,
+    "deal": [
+      "-50% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Yam'Tcha",
+    "address": {
+      "thoroughfare": "121 r. St-Honoré",
+      "postal": "75001",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 70 € à 150 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Gaya Rive Gauche par Pierre Gagnaire",
+    "address": {
+      "thoroughfare": "44 r. du Bac",
+      "postal": "75007",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 110 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Les Tables de Gaspard",
+    "address": {
+      "thoroughfare": "r. Principale",
+      "postal": "05600",
+      "locality": "St-Crépin",
+      "country": "France"
+    },
+    "price": "Prix - De 24 € à 65 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "St-James Paris",
+    "address": {
+      "thoroughfare": "43 av. Bugeaud",
+      "postal": "75116",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 105 € à 160 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Montgomerie",
+    "address": {
+      "thoroughfare": "356 rte de l'Altiport",
+      "postal": "73120",
+      "locality": "Courchevel 1850",
+      "country": "France"
+    },
+    "price": "Prix - De 185 € à 300 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Palm Beach",
+    "address": {
+      "thoroughfare": "route des Iles Sanguinaires",
+      "postal": "20000",
+      "locality": "Ajaccio",
+      "country": "France"
+    },
+    "price": "Prix - De 69 € à 119 €",
+    "stars": 1,
+    "deal": [
+      "-30% off the \"à la carte\" menu!",
+      "Set Menus 34€ and 39€"
+    ]
+  },
+  {
+    "name": "Laurent",
+    "address": {
+      "thoroughfare": "41 av. Gabriel",
+      "postal": "75008",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 95 € à 245 €",
+    "stars": 1,
+    "deal": [
+      "-20% off the \"à la carte\" menu"
+    ]
+  },
+  {
+    "name": "L'Hysope",
+    "address": {
+      "thoroughfare": "25 r. de l'Aurore",
+      "postal": "17220",
+      "locality": "La Jarrie",
+      "country": "France"
+    },
+    "price": "Prix - De 24 € à 125 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le St-Martin",
+    "address": {
+      "thoroughfare": "1 r. du Gén.-Leclerc",
+      "postal": "25200",
+      "locality": "Montbéliard",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 78 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Auberge St-Walfrid",
+    "address": {
+      "thoroughfare": "58 r. de Grosbliederstroff",
+      "postal": "57200",
+      "locality": "Sarreguemines",
+      "country": "France"
+    },
+    "price": "Prix - De 39 € à 128 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Rodolphe",
+    "address": {
+      "thoroughfare": "35 r. Percière",
+      "postal": "76000",
+      "locality": "Rouen",
+      "country": "France"
+    },
+    "price": "Prix - De 32 € à 115 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Clos St-Pierre",
+    "address": {
+      "thoroughfare": "pl. de la Mairie",
+      "postal": "06650",
+      "locality": "Le Rouret",
+      "country": "France"
+    },
+    "price": "Prix - De 40 € à 69 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Racine",
+    "address": {
+      "thoroughfare": "6 pl. Godinot",
+      "postal": "51100",
+      "locality": "Reims",
+      "country": "France"
+    },
+    "price": "Prix - De 45 € à 95 €",
+    "stars": 1,
+    "deal": [
+      "-30% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Pavillon",
+    "address": {
+      "thoroughfare": "av. du Verger",
+      "postal": "62520",
+      "locality": "Le Touquet-Paris-Plage",
+      "country": "France"
+    },
+    "price": "Prix - De 65 € à 155 €",
+    "stars": 1,
+    "deal": [
+      "Menu 73€",
+      "Menu 55€",
+      "Menu 33€"
+    ]
+  },
+  {
+    "name": "U Santa Marina",
+    "address": {
+      "thoroughfare": "Marina di Santa Giulia",
+      "postal": "20137",
+      "locality": "Porto-Vecchio",
+      "country": "France"
+    },
+    "price": "Prix - De 69 € à 125 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Auberge du Paradis",
+    "address": {
+      "thoroughfare": "Le Plâtre-Durand",
+      "postal": "71570",
+      "locality": "Saint-Amour-Bellevue",
+      "country": "France"
+    },
+    "price": "Prix moyen - 73 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Pousse-Pied",
+    "address": {
+      "thoroughfare": "84 bd des Vendéens",
+      "postal": "85360",
+      "locality": "La Tranche-sur-Mer",
+      "country": "France"
+    },
+    "price": "Prix - De 17 € à 48 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Marcq",
+    "address": {
+      "thoroughfare": "944 av. de la République",
+      "postal": "59700",
+      "locality": "Marcq-en-Barœul",
+      "country": "France"
+    },
+    "price": "Prix - De 42 € à 85 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "La Table by La Villa",
+    "address": {
+      "thoroughfare": "chemin de Notre-Dame-de-la-Serra",
+      "postal": "20260",
+      "locality": "Calvi",
+      "country": "France"
+    },
+    "price": "Prix - De 85 € à 130 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Garopapilles",
+    "address": {
+      "thoroughfare": "62 r. Abbé-de-L'Epée",
+      "postal": "33000",
+      "locality": "Bordeaux",
+      "country": "France"
+    },
+    "price": "Prix - De 28 € à 75 €",
+    "stars": 1,
+    "deal": [
+      "Menu 69€"
+    ]
+  },
+  {
+    "name": "Pertinence",
+    "address": {
+      "thoroughfare": "29 r. de l'Exposition",
+      "postal": "75007",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 29 € à 120 €",
+    "stars": 1,
+    "deal": [
+      "Menu 85€",
+      "Menu 38€"
+    ]
+  },
+  {
+    "name": "Pierre Reboul",
+    "address": {
+      "thoroughfare": "260 r. Guillaume-du-Vair",
+      "postal": "13546",
+      "locality": "Aix-en-Provence",
+      "country": "France"
+    },
+    "price": "Prix - De 48 € à 155 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Skiff Club",
+    "address": {
+      "thoroughfare": "1 av. Louis-Gaume",
+      "postal": "33260",
+      "locality": "La Teste-de-Buch",
+      "country": "France"
+    },
+    "price": "Prix - De 85 € à 130 €",
+    "stars": 1,
+    "deal": [
+      "Menu dinners 14.90€",
+      "Group menu 25€"
+    ]
+  },
+  {
+    "name": "Ken Kawasaki",
+    "address": {
+      "thoroughfare": "15 r. Caulaincourt",
+      "postal": "75018",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 30 € à 70 €",
+    "stars": 1,
+    "deal": [
+      "Menu 70€",
+      "Menu 45€",
+      "Menu 30€"
+    ]
+  },
+  {
+    "name": "Akrame",
+    "address": {
+      "thoroughfare": "7 r. Tronchet",
+      "postal": "75008",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 65 € à 160 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Le Grand Cap",
+    "address": {
+      "thoroughfare": "chemin du Phare",
+      "postal": "11370",
+      "locality": "Leucate",
+      "country": "France"
+    },
+    "price": "Prix - De 34 € à 130 €",
+    "stars": 1,
+    "deal": [
+      "-30% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Restaurant H",
+    "address": {
+      "thoroughfare": "13 r. Jean-Beausire",
+      "postal": "75004",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 36 € à 80 €",
+    "stars": 1,
+    "deal": [
+      "-50% off food bill! Festival! Limited seats!"
+    ]
+  },
+  {
+    "name": "Sushi B",
+    "address": {
+      "thoroughfare": "5 r. Rameau",
+      "postal": "75002",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 58 € à 160 €",
+    "stars": 1,
+    "deal": [
+      "30% sobre a conta!"
+    ]
+  },
+  {
+    "name": "La Table de la Ferme",
+    "address": {
+      "thoroughfare": "Vallée de l'Ortolo",
+      "postal": "20100",
+      "locality": "Sartène",
+      "country": "France"
+    },
+    "price": "Prix - De 125 € à 195 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "Divellec",
+    "address": {
+      "thoroughfare": "18 r. Fabert",
+      "postal": "75007",
+      "locality": "Paris",
+      "country": "France"
+    },
+    "price": "Prix - De 49 € à 210 €",
+    "stars": 1,
+    "deal": [
+      "Brunch 65€",
+      "Brunch 49€",
+      "Menu 49€",
+      "Menu 90€",
+      "Menu 210€"
+    ]
+  },
+  {
+    "name": "Jean Sulpice",
+    "address": {
+      "thoroughfare": "303 rte du Port",
+      "postal": "74290",
+      "locality": "Talloires",
+      "country": "France"
+    },
+    "price": "Prix - De 98 € à 240 €",
+    "stars": 2,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  },
+  {
+    "name": "L'Auberge de Bagatelle",
+    "address": {
+      "thoroughfare": "489 av. Bollée",
+      "postal": "72000",
+      "locality": "Le Mans",
+      "country": "France"
+    },
+    "price": "Prix - De 27 € à 100 €",
+    "stars": 1,
+    "deal": [
+      "40% off food",
+      "-30% off the \"à la carte\" menu!",
+      "-20% off the \"à la carte\" menu!"
+    ]
+  }
+]
